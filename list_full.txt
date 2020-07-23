@@ -51,6 +51,7 @@ http://78.30.254.12:2710/announce
 http://86.19.29.160:6969/announce
 http://87.110.238.140:6969/announce
 http://87.248.186.252:8080/announce
+http://9.rarbg.com:2710/announce
 http://91.207.136.85:80/announce
 http://91.217.91.21:3218/announce
 http://91.218.230.81:6969/announce
@@ -83,8 +84,6 @@ http://bittracker.ru:80/announce
 http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3dmgame.com:2710/announce
-http://bt.ali213.net:5858/announce
-http://bt.ali213.net:6969/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
@@ -98,13 +97,17 @@ http://bt.edwardk.info:6969/announce
 http://bt.firebit.org:2710/announce
 http://bt.hliang.com:2710/announce
 http://bt.okmp3.ru:2710/announce
+http://bt.popgo.net:7456/announce
 http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
+http://bt.sumisora.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
 http://bt.uglab.org:6800/announce
+http://bt.wiiyi.com:6969/announce
 http://bt.xxx-tracker.com:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt1.archive.org:6969/announce
+http://bt1.the9.com:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
@@ -112,12 +115,14 @@ http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
+http://bttrack.9you.com:8080/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
 http://datascene.net:80/announce
+http://denis.stalker.h3q.com:6969/announce
 http://denis.stalker.upeer.me:6969/announce
 http://deviloid.net:6969/announce
 http://dn42.smrsh.net:6969/announce
@@ -126,6 +131,7 @@ http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://funfile.org:2710/announce
 http://fxtt.ru:80/announce
+http://genesis.1337x.org:1337/announce
 http://grifon.info:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://hdreactor.org:2710/announce
@@ -152,6 +158,8 @@ http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
+http://nyaatorrents.info:3277/announce
+http://nyaatorrents.info:7266/announce
 http://omg.wtftrackr.pw:1337/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
@@ -201,6 +209,8 @@ http://t3.leech.ie:80/announce
 http://tehconnection.eu:2790/announce
 http://thetracker.org.:80/announce
 http://tk.nvacg.org:3333/announce
+http://torrent-download.to:5869/announce
+http://torrent-downloads.to:5869/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.mp3quran.net:80/announce
@@ -227,7 +237,9 @@ http://tracker.acgsou.com:2710/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.animeun.com:6969/announce
+http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
+http://tracker.anirena.com:81/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
 http://tracker.baravik.org:6970/announce
@@ -247,6 +259,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.com:2710/announce
 http://tracker.dmcomic.org:2710/announce
+http://tracker.dmguo.com:2710/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.duola.xyz:6969/announce
 http://tracker.duola.xyz:8080/announce
@@ -282,6 +295,7 @@ http://tracker.ktxp.org:7070/announce
 http://tracker.kuroy.me:5944/announce
 http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
+http://tracker.levelup.cn:8080/announce
 http://tracker.lilithraws.cf:60292/announce
 http://tracker.luyixia.com:2710/announce
 http://tracker.mg64.net:6881/announce
@@ -315,6 +329,7 @@ http://tracker.theempire.bz:3110/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tlm-project.org:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
+http://tracker.torrent.to:2710/announce
 http://tracker.torrentleech.org:2710/announce
 http://tracker.torrenty.org:6969/announce
 http://tracker.torrentyorg.pl:80/announce
