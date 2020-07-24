@@ -37,6 +37,7 @@ http://5.79.83.193:2710/announce
 http://51.15.55.204:1337/announce
 http://51.254.249.186:6969/announce
 http://51.68.122.172:80/announce
+http://51.79.71.167:80/announce
 http://51.81.46.170:6969/announce
 http://52.28.76.37:6969/announce
 http://52.29.11.73:6969/announce
@@ -44,6 +45,7 @@ http://52.58.128.163:6969/announce
 http://54.37.106.164:80/announce
 http://54.39.179.91:6699/announce
 http://61.154.116.205:8000/announce
+http://62.210.177.88:1096/announce
 http://69.165.95.242:6544/announce
 http://75.127.14.224:2710/announce
 http://77.106.108.90:2710/announce
@@ -59,7 +61,6 @@ http://93.158.213.92:1337/announce
 http://93.92.64.5:80/announce
 http://95.107.48.115:80/announce
 http://95.211.168.204:2710/announce
-http://95.216.193.135:6969/announce
 http://[2001:19f0:6c01:1b7d:5400:1ff:fefc:3c2a]:6969/announce
 http://[2001:1af8:4700:a032:1234::]:6969/announce
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -208,6 +209,7 @@ http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 http://tehconnection.eu:2790/announce
 http://thetracker.org.:80/announce
+http://thetracker.org:80/announce
 http://tk.nvacg.org:3333/announce
 http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
@@ -368,6 +370,7 @@ http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://trun.tom.ru:80/announce
 http://tyu.ddns.net:36006/announce
+http://update.cctvqueretaro.com:443/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://www.acgsou.com:2710/announce
@@ -440,10 +443,9 @@ udp://114.55.113.60:6969/announce
 udp://116.203.120.203:6969/announce
 udp://12.rarbg.me:80/announce
 udp://128.199.70.66:5944/announce
-udp://138.255.103.84:1337/announce
+udp://151.80.120.112:2710/announce
 udp://151.80.120.114:2710/announce
 udp://159.100.245.181:6969/announce
-udp://163.172.209.40:2710/announce
 udp://163.172.217.67:1337/announce
 udp://165.227.0.51:6969/announce
 udp://167.179.77.133:1/announce
@@ -479,19 +481,21 @@ udp://212.1.226.176:2710/announce
 udp://212.47.227.58:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.76.183.53:80/announce
+udp://218.5.40.65:2710/announce
 udp://31.14.40.30:6969/announce
 udp://37.19.5.155:2710/announce
 udp://37.235.174.46:2710/announce
 udp://45.56.74.11:6969/announce
 udp://45.77.141.190:6969/announce
 udp://45.79.184.106:6969/announce
+udp://45.86.70.144:2710/announce
 udp://46.148.18.250:2710/announce
 udp://46.148.18.254:2710/announce
 udp://46.4.109.148:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.113.1:8866/announce
+udp://5.135.177.153:6969/announce
 udp://5.2.79.22:6969/announce
-udp://5.206.38.72:6969/announce
 udp://5.226.148.20:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
@@ -883,7 +887,6 @@ udp://zer0day.to:1337/announce
 udp:/ndrotracker.biz:1337/announce
 udp:/ntost12.xyz:6969/announce
 udp:/tracker.org:6969/announce
-wss://hub.bugout.link:443/announce
 wss://ltrackr.iamhansen.xyz:443/announce
 wss://track.file.pizza:443/announce
 wss://tracker.btorrent.xyz:443/announce
