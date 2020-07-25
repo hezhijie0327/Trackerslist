@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -53,7 +53,7 @@ function GetData() {
 function CheckData() {
     exclude_list_checked=($(cat ./exclude_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\|https\|udp\|wss" | grep -v "\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | sort | uniq | awk "{ print $2 }"))
     full_list_checked=($(cat ./full_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\|https\|udp\|wss" | grep -v "\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | sort | uniq | awk "{ print $2 }"))
-    tracker_list_checked=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./exclude_list_unchecked.tmp ./full_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\|https\|udp\|wss" | grep -v "announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | sort | uniq | awk "{ print $2 }"))
+    tracker_list_checked=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./exclude_list_unchecked.tmp ./full_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\|https\|udp\|wss" | grep -v "\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
