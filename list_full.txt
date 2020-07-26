@@ -218,7 +218,6 @@ http://tracker.filemail.com:6969/announce
 http://tracker.filepit.to:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
-http://tracker.frozen-layer+net:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.funfile.org:2710/announce
 http://tracker.gbitt.info:80/announce
