@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.6
+# Current Version: 1.0.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -8,12 +8,7 @@
 ## Function
 # Get Data
 function GetData() {
-    exclude_list_unchecked=(
-        "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_bad.txt"
-        "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/blacklist.txt"
-        "https://raw.githubusercontent.com/ngosang/trackerslist/master/blacklist.txt"
-    )
-    full_list_unchecked=(
+    trackerlist_combine=(
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_http.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_https.txt"
@@ -38,48 +33,49 @@ function GetData() {
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt"
     )
+    trackerlist_exclude=(
+        "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_bad.txt"
+        "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/blacklist.txt"
+        "https://raw.githubusercontent.com/ngosang/trackerslist/master/blacklist.txt"
+    )
     rm -rf *.txt ./Temp && mkdir ./Temp && cd ./Temp
-    for exclude_list_unchecked_task in "${!exclude_list_unchecked[@]}"; do
-        echo "Downloading exclude list ($((${exclude_list_unchecked_task} + 1)) / ${#exclude_list_unchecked[@]})"
-        curl -s --connect-timeout 15 "${exclude_list_unchecked[$exclude_list_unchecked_task]}" >> ./exclude_list_unchecked.tmp
-        sleep 2.4s
+    for trackerlist_combine_task in "${!trackerlist_combine[@]}"; do
+        curl -s --connect-timeout 15 "${trackerlist_combine[$trackerlist_combine_task]}" >> ./trackerlist_combine.tmp
     done
-    for full_list_unchecked_task in "${!full_list_unchecked[@]}"; do
-        echo "Downloading full list ($((${full_list_unchecked_task} + 1)) / ${#full_list_unchecked[@]})"
-        curl -s --connect-timeout 15 "${full_list_unchecked[$full_list_unchecked_task]}" >> ./full_list_unchecked.tmp
-        sleep 2.4s
+    for trackerlist_exclude_task in "${!trackerlist_exclude[@]}"; do
+        curl -s --connect-timeout 15 "${trackerlist_exclude[$trackerlist_exclude_task]}" >> ./trackerlist_exclude.tmp
     done
 }
-# Check Data
-function CheckData() {
-    exclude_list_checked=($(cat ./exclude_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|wss\:\/\/" | grep -v "\+\|\,\|\_\|\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | tr "A-Z" "a-z" | sort | uniq | awk "{ print $2 }"))
-    full_list_checked=($(cat ./full_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|wss\:\/\/" | grep -v "\+\|\,\|\_\|\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | tr "A-Z" "a-z" | sort | uniq | awk "{ print $2 }"))
-    tracker_list_checked=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./exclude_list_unchecked.tmp ./full_list_unchecked.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|wss\:\/\/" | grep -v "\+\|\,\|\_\|\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | tr "A-Z" "a-z" | sort | uniq | awk "{ print $2 }"))
+# Analyse Data
+function AnalyseData() {
+    combine_data=($(cat ./trackerlist_combine.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|wss\:\/\/" | grep -v "\+\|\,\|\_\|\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | tr "A-Z" "a-z" | sort | uniq | awk "{ print $2 }"))
+    exclude_data=($(cat ./trackerlist_exclude.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|wss\:\/\/" | grep -v "\+\|\,\|\_\|\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | tr "A-Z" "a-z" | sort | uniq | awk "{ print $2 }"))
+    tracker_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./trackerlist_exclude.tmp ./trackerlist_combine.tmp | sed "s/[[:space:]]//g;s/\#.*//g" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|wss\:\/\/" | grep -v "\+\|\,\|\_\|\[\|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\]\|announce+\|announcehttp\|announcehttps\|announceudp\|announcewss" | awk '{ match( $0, /.*\:+[0-9]+\/+announce+/ ); print substr( $0, RSTART, RLENGTH ) }' | tr "A-Z" "a-z" | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
-    for exclude_list_checked_task in "${!exclude_list_checked[@]}"; do
-        echo "${exclude_list_checked[$exclude_list_checked_task]}" >> ../list_exclude.txt
-        if [ "$((${exclude_list_checked_task} + 1))" == "${#exclude_list_checked[@]}" ]; then
-            echo -n "${exclude_list_checked[$exclude_list_checked_task]}" >> ../list_exclude_aria2.txt
+    for combine_data_task in "${!combine_data[@]}"; do
+        echo "${combine_data[$combine_data_task]}" >> ../trackerslist_combine.txt
+        if [ "$((${combine_data_task} + 1))" == "${#combine_data[@]}" ]; then
+            echo -n "${combine_data[$combine_data_task]}" >> ../trackerslist_combine_aria2.txt
         else
-            echo -n "${exclude_list_checked[$exclude_list_checked_task]}," >> ../list_exclude_aria2.txt
+            echo -n "${combine_data[$combine_data_task]}," >> ../trackerslist_combine_aria2.txt
         fi
     done
-    for full_list_checked_task in "${!full_list_checked[@]}"; do
-        echo "${full_list_checked[$full_list_checked_task]}" >> ../list_full.txt
-        if [ "$((${full_list_checked_task} + 1))" == "${#full_list_checked[@]}" ]; then
-            echo -n "${full_list_checked[$full_list_checked_task]}" >> ../list_full_aria2.txt
+    for exclude_data_task in "${!exclude_data[@]}"; do
+        echo "${exclude_data[$exclude_data_task]}" >> ../trackerslist_exclude.txt
+        if [ "$((${exclude_data_task} + 1))" == "${#exclude_data[@]}" ]; then
+            echo -n "${exclude_data[$exclude_data_task]}" >> ../trackerslist_exclude_aria2.txt
         else
-            echo -n "${full_list_checked[$full_list_checked_task]}," >> ../list_full_aria2.txt
+            echo -n "${exclude_data[$exclude_data_task]}," >> ../trackerslist_exclude_aria2.txt
         fi
     done
-    for tracker_list_checked_task in "${!tracker_list_checked[@]}"; do
-        echo "${tracker_list_checked[$tracker_list_checked_task]}" >> ../list_tracker.txt
-        if [ "$((${tracker_list_checked_task} + 1))" == "${#tracker_list_checked[@]}" ]; then
-            echo -n "${tracker_list_checked[$tracker_list_checked_task]}" >> ../list_tracker_aria2.txt
+    for tracker_data_task in "${!tracker_data[@]}"; do
+        echo "${tracker_data[$tracker_data_task]}" >> ../trackerslist_tracker.txt
+        if [ "$((${tracker_data_task} + 1))" == "${#tracker_data[@]}" ]; then
+            echo -n "${tracker_data[$tracker_data_task]}" >> ../trackerslist_tracker_aria2.txt
         else
-            echo -n "${tracker_list_checked[$tracker_list_checked_task]}," >> ../list_tracker_aria2.txt
+            echo -n "${tracker_data[$tracker_data_task]}," >> ../trackerslist_tracker_aria2.txt
         fi
     done
     cd .. && rm -rf ./Temp
@@ -89,7 +85,7 @@ function OutputData() {
 ## Process
 # Call GetData
 GetData
-# Call CheckData
-CheckData
+# Call AnalyseData
+AnalyseData
 # Call OutputData
 OutputData
