@@ -82,6 +82,7 @@ http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
 http://omg.wtftrackr.pw:1337/announce
 http://open.acgtracker.com:1096/announce
+http://open.acgtracker.com:1096/announceudp://bt.xxx-tracker.com:2710/announcehttp://tracker4.itzmx.com:2710/announce
 http://open.lolicon.eu:7777/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
@@ -106,7 +107,6 @@ http://secure.pow7.com:80/announce
 http://servandroidkino.ru:80/announce
 http://shadowshq.eddie4.nl:6969/announce
 http://shadowshq.yi.org:6969/announce
-http://share.came,cn:8080/announce
 http://share.camoe.cn:8080/announce
 http://spoof.tokyotosho.info:1234/announce
 http://sub4all.org:2710/announce
@@ -232,6 +232,7 @@ http://tracker3.itzmx.com:8080/announce
 http://tracker4.dler.org:6969/announce
 http://tracker4.emce.org:12345/announce
 http://tracker4.itzmx.com:2710/announce
+http://tracker4.itzmx.com:2710/announcehttp://open.acgtracker.com:1096/announceudp://bt.xxx-tracker.com:2710/announce
 http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
@@ -320,7 +321,6 @@ udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2780/announce
 udp://9.rarbg.to:2790/announce
 udp://9.rarbg.to:2800/announce
-udp://IPv6.leechers-paradise.org:6969/announce
 udp://adm.category5.tv:6969/announce
 udp://adminion.n-blade.ru:6969/announce
 udp://allesanddro.de:1337/announce
@@ -517,8 +517,5 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
-udp:/ndrotracker.biz:1337/announce
-udp:/ntost12.xyz:6969/announce
-udp:/tracker.org:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
 wss://tracker.fastcast.nz:443/announce

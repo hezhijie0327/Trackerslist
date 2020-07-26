@@ -57,6 +57,7 @@ http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
+http://tracker.anirena.com:80/announcehttp://tracker1.itzmx.com:8080/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
@@ -234,6 +235,7 @@ udp://vibe.community:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.mercax.com:53/announce
+udp://zer0day.to:1337/announcehttp://00.mercax.com:443/announce
 wss://hub.bugout.link:443/announce
 wss://track.file.pizza:443/announce
 wss://tracker.btorrent.xyz:443/announce
