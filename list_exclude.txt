@@ -82,7 +82,6 @@ http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
 http://omg.wtftrackr.pw:1337/announce
 http://open.acgtracker.com:1096/announce
-http://open.acgtracker.com:1096/announceudp://bt.xxx-tracker.com:2710/announcehttp://tracker4.itzmx.com:2710/announce
 http://open.lolicon.eu:7777/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
@@ -232,7 +231,6 @@ http://tracker3.itzmx.com:8080/announce
 http://tracker4.dler.org:6969/announce
 http://tracker4.emce.org:12345/announce
 http://tracker4.itzmx.com:2710/announce
-http://tracker4.itzmx.com:2710/announcehttp://open.acgtracker.com:1096/announceudp://bt.xxx-tracker.com:2710/announce
 http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
