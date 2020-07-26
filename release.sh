@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -26,6 +26,7 @@ function GetData() {
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt"
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/blacklist.txt"
+        "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt"
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/other.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/blacklist.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
