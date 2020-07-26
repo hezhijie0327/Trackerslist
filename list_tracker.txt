@@ -5,6 +5,7 @@ http://1337.abcvg.info:80/announce
 http://aaa.army:8866/announce
 http://anidex.moe:6969/announce
 http://atrack.pow7.com:80/announce
+http://aws1.millegrilles.com:6969/announce
 http://bandari.org:6969/announce
 http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
@@ -233,6 +234,7 @@ udp://vibe.community:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.mercax.com:53/announce
+wss://hub.bugout.link:443/announce
 wss://track.file.pizza:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
