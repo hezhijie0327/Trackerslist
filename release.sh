@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.2
+# Current Version: 1.1.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -48,9 +48,9 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    combine_data=($(cat ./trackerlist_combine.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^\s*$/d' | sort | uniq | awk "{ print $2 }"))
-    exclude_data=($(cat ./trackerlist_exclude.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^\s*$/d' | sort | uniq | awk "{ print $2 }"))
-    tracker_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./trackerlist_exclude.tmp ./trackerlist_combine.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^\s*$/d' | sort | uniq | awk "{ print $2 }"))
+    combine_data=($(cat ./trackerlist_combine.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
+    exclude_data=($(cat ./trackerlist_exclude.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
+    tracker_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./trackerlist_exclude.tmp ./trackerlist_combine.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
