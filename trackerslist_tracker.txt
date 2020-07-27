@@ -42,7 +42,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
-http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://tk.nvacg.org:3333/announce
 http://torrent.nwps.ws:80/announce
@@ -161,7 +160,6 @@ udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
 udp://explodie.org:6969/announce
-udp://explodie.org:6969/announcee
 udp://exponage-api.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -234,7 +232,10 @@ udp://tracker6.dler.org:2710/announce
 udp://ultra.zt.ua:6969/announce
 udp://vibe.community:6969/announce
 udp://www.loushao.net:8080/announce
-udp://z.mercax.com:53/announce
+ws://track.file.pizza:80/announce
+ws://tracker.files.fm:7072/announce
+ws://tracker.lab.vvc.niif.hu:80/announce
+ws://tracker.sloppyta.co:80/announce
 wss://track.file.pizza:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
