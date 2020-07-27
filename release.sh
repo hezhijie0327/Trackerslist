@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.3
+# Current Version: 1.1.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -38,7 +38,7 @@ function GetData() {
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/blacklist.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/blacklist.txt"
     )
-    rm -rf *.txt ./Temp && mkdir ./Temp && cd ./Temp
+    rm -rf ./*.txt ./Temp && mkdir ./Temp && cd ./Temp
     for trackerlist_combine_task in "${!trackerlist_combine[@]}"; do
         curl -s --connect-timeout 15 "${trackerlist_combine[$trackerlist_combine_task]}" >> ./trackerlist_combine.tmp
     done
