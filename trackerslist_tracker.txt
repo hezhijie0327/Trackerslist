@@ -105,6 +105,7 @@ https://1337.abcvg.info:443/announce
 https://aaa.army:8866/announce
 https://cernet-tracker.appspot.com:443/announce
 https://opentracker.acgnx.se:443/announce
+https://opentracker.skynetcloud.site:8443/announce
 https://tp.m-team.cc:443/announce
 https://tr.ready4.icu:443/announce
 https://tr.steins-gate.moe:2096/announce
@@ -152,6 +153,7 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://daveking.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
+udp://dns.cctvqueretaro.com:53/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
 udp://edenbridge.org.uk:6969/announce
@@ -233,7 +235,6 @@ udp://ultra.zt.ua:6969/announce
 udp://vibe.community:6969/announce
 udp://www.loushao.net:8080/announce
 udp://z.mercax.com:53/announce
-wss://hub.bugout.link:443/announce
 wss://track.file.pizza:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
