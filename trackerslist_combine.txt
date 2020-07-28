@@ -12,7 +12,6 @@ http://ankeschwarz.net:6969/announce
 http://announce.torrentsmd.com:6969/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
-http://aws1.millegrilles.com:6969/announce
 http://bandari.org:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bittracker.ru:80/announce
@@ -245,7 +244,6 @@ https://aaa.army:8866/announce
 https://cernet-tracker.appspot.com:443/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
-https://opentracker.skynetcloud.site:8443/announce
 https://opentracker.xyz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -272,6 +270,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotsec.org:443/announce
 https://tracker.shittyurl.org:443/announce
+https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.vectahosting.eu:2053/announce
@@ -457,6 +456,7 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.ccc.de:80/announce
@@ -555,7 +555,9 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
+ws://hub.bugout.link:80/announce
 ws://track.file.pizza:80/announce
+ws://tracker.btsync.cf:6969/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
