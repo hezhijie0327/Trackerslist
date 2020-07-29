@@ -204,6 +204,7 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publicbt.com:80/announce
+udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
@@ -223,12 +224,10 @@ udp://ultra.zt.ua:6969/announce
 udp://vibe.community:6969/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 ws://hub.bugout.link:80/announce
-ws://track.file.pizza:80/announce
 ws://tracker.btsync.cf:6969/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
-wss://track.file.pizza:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.lab.vvc.niif.hu:443/announce
