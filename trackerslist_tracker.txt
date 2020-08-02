@@ -146,7 +146,6 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://daveking.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
-udp://dns.cctvqueretaro.com:53/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
 udp://edenbridge.org.uk:6969/announce
@@ -201,7 +200,6 @@ udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.dyne.org:6969/announce
-udp://tracker.e-utp.net:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.gbitt.info:80/announce
 udp://tracker.moeking.me:6969/announce
