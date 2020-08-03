@@ -25,3 +25,4 @@ udp://bt.dy20188.com:80/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://caramelo.ddns.net:8000/announce
+udp://covid-19-tracker.fastmask.shop:6969/announce

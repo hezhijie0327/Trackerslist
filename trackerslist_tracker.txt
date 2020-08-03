@@ -455,7 +455,6 @@ udp://chucaiyun.cn:6969/announce
 udp://code2chicken.nl:6969/announce
 udp://contra.sf.ca.us:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://covid-19-tracker.fastmask.shop:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
