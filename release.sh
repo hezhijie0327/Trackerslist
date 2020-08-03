@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.9
+# Current Version: 1.2.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -12,6 +12,10 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
     )
     trackerlist_combine=(
+        "https://newtrackon.com/api/all"
+        "https://newtrackon.com/api/live"
+        "https://newtrackon.com/api/stable"
+        "https://raw.githubusercontent.com/1265578519/OpenTracker/master/tracker.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_bad.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best.txt"
@@ -24,6 +28,7 @@ function GetData() {
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt"
     )
     trackerlist_http=(
+        "https://newtrackon.com/api/http"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_http.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_https.txt"
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt"
@@ -31,6 +36,7 @@ function GetData() {
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt"
     )
     trackerlist_udp=(
+        "https://newtrackon.com/api/udp"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_udp.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt"
     )
