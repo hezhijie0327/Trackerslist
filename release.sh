@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.7
+# Current Version: 1.1.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -65,22 +65,22 @@ function OutputData() {
         if [ "$(echo ${trackerlist_data[$trackerlist_data_task]} | sed 's/http\:\/\///g;s/https\:\/\///g;s/udp\:\/\///g;s/ws\:\/\///g;s/wss\:\/\///g;s/\:.*//g')" != "$(cat ./dead_domain.tmp | grep $(echo ${trackerlist_data[$trackerlist_data_task]} | sed 's/http\:\/\///g;s/https\:\/\///g;s/udp\:\/\///g;s/ws\:\/\///g;s/wss\:\/\///g;s/\:.*//g'))" ]; then
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine.txt
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker.txt
-            if [ "$((${trackerlist_data_task} + 1))" == "${#trackerlist_data[@]}" ]; then
+            if [ "$((${trackerlist_data_task} + 1))" == 1 ]; then
                 echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine_aria2.txt
                 echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker_aria2.txt
             else
-                echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_combine_aria2.txt
-                echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_tracker_aria2.txt
+                echo -n ",${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine_aria2.txt
+                echo -n ",${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker_aria2.txt
             fi
         else
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine.txt
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_exclude.txt
-            if [ "$((${trackerlist_data_task} + 1))" == "${#trackerlist_data[@]}" ]; then
+            if [ "$((${trackerlist_data_task} + 1))" == 1 ]; then
                 echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine_aria2.txt
                 echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_exclude_aria2.txt
             else
-                echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_combine_aria2.txt
-                echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_exclude_aria2.txt
+                echo -n ",${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine_aria2.txt
+                echo -n ",${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_exclude_aria2.txt
             fi
         fi
     done
