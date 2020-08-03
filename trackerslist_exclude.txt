@@ -9,6 +9,7 @@ http://bt.sc-ol.com:2710/announce
 http://bt.wiiyi.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://btfans.3322.org:8000/announce
+http://check.ipredator.se:6969/announce
 https://1.atrack.114913.xyz:443/announce
 https://1.track.ga:443/announce
 https://2.track.ga:443/announce
@@ -23,3 +24,4 @@ udp://bt.aoeex.com:8000/announce
 udp://bt.dy20188.com:80/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
+udp://caramelo.ddns.net:8000/announce

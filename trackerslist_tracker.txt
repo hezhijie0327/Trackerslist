@@ -42,7 +42,6 @@ http://btfile.sdo.com:6961/announce
 http://bttrack.9you.com:8080/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
-http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://codeaddress.top:6960/announce
 http://cx42light.cn:39652/announce
@@ -446,7 +445,6 @@ udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
-udp://caramelo.ddns.net:8000/announce
 udp://carapax.net:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
