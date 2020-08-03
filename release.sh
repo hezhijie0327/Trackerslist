@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.5
+# Current Version: 1.1.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -66,11 +66,11 @@ function OutputData() {
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine.txt
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker.txt
             if [ "$((${trackerlist_data_task} + 1))" == "${#trackerlist_data[@]}" ]; then
-                echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker_aria2.txt
+                echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine_aria2.txt
                 echo -n "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker_aria2.txt
             else
                 echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_combine_aria2.txt
-                echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_combine_aria2.txt
+                echo -n "${trackerlist_data[$trackerlist_data_task]}," >> ../trackerslist_tracker_aria2.txt
             fi
         else
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine.txt
