@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.6
+# Current Version: 1.1.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -62,7 +62,7 @@ function AnalyseData() {
 # Output Data
 function OutputData() {
     for trackerlist_data_task in "${!trackerlist_data[@]}"; do
-        if [ "$(echo ${trackerlist_data[$trackerlist_data_task]} | sed 's/http\:\/\///g;s/https\:\/\///g;s/udp\:\/\///g;s/ws\:\/\///g;s/wss\:\/\///g;s/\:.*//g')" != "$(cat ./dead_domain.tmp | grep ${trackerlist_data[$trackerlist_data_task]})" ]; then
+        if [ "$(echo ${trackerlist_data[$trackerlist_data_task]} | sed 's/http\:\/\///g;s/https\:\/\///g;s/udp\:\/\///g;s/ws\:\/\///g;s/wss\:\/\///g;s/\:.*//g')" != "$(cat ./dead_domain.tmp | grep $(echo ${trackerlist_data[$trackerlist_data_task]} | sed 's/http\:\/\///g;s/https\:\/\///g;s/udp\:\/\///g;s/ws\:\/\///g;s/wss\:\/\///g;s/\:.*//g'))" ]; then
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_combine.txt
             echo "${trackerlist_data[$trackerlist_data_task]}" >> ../trackerslist_tracker.txt
             if [ "$((${trackerlist_data_task} + 1))" == "${#trackerlist_data[@]}" ]; then
