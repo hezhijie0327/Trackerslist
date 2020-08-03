@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.0
+# Current Version: 1.2.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -12,6 +12,7 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
     )
     trackerlist_combine=(
+        "https://gitee.com/banbendalao/hosts_optimize_tracker_links/raw/master/tracker.txt"
         "https://newtrackon.com/api/all"
         "https://newtrackon.com/api/live"
         "https://newtrackon.com/api/stable"
@@ -26,6 +27,7 @@ function GetData() {
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/blacklist.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt"
+        "https://torrents.io/torrent-tracker-list/?download=latest"
     )
     trackerlist_http=(
         "https://newtrackon.com/api/http"
