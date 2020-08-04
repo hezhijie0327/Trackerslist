@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.2
+# Current Version: 1.2.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -49,7 +49,7 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/master/data/data_ws.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt"
     )
-    rm -rf ./*.txt ./Temp && mkdir ./Temp && cd ./Temp
+    rm -rf ./trackerslist_* ./Temp && mkdir ./Temp && cd ./Temp
     for dead_domain_task in "${!dead_domain[@]}"; do
         curl -s --connect-timeout 15 "${dead_domain[$dead_domain_task]}" >> ./dead_domain.tmp
     done
