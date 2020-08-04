@@ -481,15 +481,8 @@ udp://handrew.me:6969/announce
 udp://hk1.opentracker.ga:6969/announce
 udp://home.penza.com.ru:6969/announce
 udp://icynet.eu:6969/announce
-udp://inferno.demonoid.ch:6969/announce
 udp://inferno.demonoid.is:3391/announce
-udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
-udp://ipv6.leechers-paradise.org:6969/announce
-udp://ipv6.mercax.com:53/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
-udp://ipv6.tracker.harry.lu:80/announce
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
 udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
