@@ -45,8 +45,6 @@ http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
 http://codeaddress.top:6960/announce
 http://cx42light.cn:39652/announce
-http://denis.stalker.h3q.com:6969/announce
-http://denis.stalker.h3q.com:80/announce
 http://derpyradio.net:6969/announce
 http://dl1.dler.org:6969/announce
 http://dn42.smrsh.net:6969/announce
@@ -460,9 +458,7 @@ udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
 udp://cyteam.ru:6969/announce
 udp://daveking.com:6969/announce
-udp://denis.stalker.upeer.me:6969/announce
 udp://discord.heihachi.pw:6969/announce
-udp://dns.cctvqueretaro.com:53/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
 udp://dunkelhost.de:6969/announce
@@ -730,6 +726,7 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
 ws://hub.bugout.link:80/announce
+ws://tracker.btsync.cf:6969/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce

@@ -10,6 +10,8 @@ http://bt.wiiyi.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://btfans.3322.org:8000/announce
 http://check.ipredator.se:6969/announce
+http://denis.stalker.h3q.com:6969/announce
+http://denis.stalker.h3q.com:80/announce
 https://1.atrack.114913.xyz:443/announce
 https://1.track.ga:443/announce
 https://2.track.ga:443/announce
@@ -26,3 +28,5 @@ udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://caramelo.ddns.net:8000/announce
 udp://covid-19-tracker.fastmask.shop:6969/announce
+udp://denis.stalker.upeer.me:6969/announce
+udp://dns.cctvqueretaro.com:53/announce
