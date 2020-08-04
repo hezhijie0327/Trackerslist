@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.3
+# Current Version: 1.2.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -34,19 +34,16 @@ function GetData() {
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_http.txt"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_https.txt"
         "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/master/data/data_http.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt"
     )
     trackerlist_udp=(
         "https://newtrackon.com/api/udp"
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_udp.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/master/data/data_udp.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt"
     )
     trackerlist_ws=(
         "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_ws.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/master/data/data_ws.txt"
         "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt"
     )
     rm -rf ./trackerslist_* ./Temp && mkdir ./Temp && cd ./Temp
@@ -68,7 +65,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    trackerlist_data=($(cat ./trackerlist_*.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
+    trackerlist_data=($(cat ./trackerlist_*.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\|\#\|\[\|\]\|announcehttp\|announcehttps\|announceudp\|announcews\|announcewss" | grep "http\:\/\/\|https\:\/\/\|udp\:\/\/\|ws\:\/\/\|wss\:\/\/" | tr -d -c "[:alnum:]\-\.\/\:\n" | tr "A-Z" "a-z" | awk '{ match( $0, /.*\:+[0-9]+\/+announce/ ); print substr( $0, RSTART, RLENGTH ) }' | sed '/^$/d' > ./trackerlist_data.tmp && cat ../data/data_*.txt >> ./trackerlist_data.tmp && cat ./trackerlist_data.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
