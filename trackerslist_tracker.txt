@@ -46,7 +46,6 @@ http://cocaine.ninja:6969/announce
 http://codeaddress.top:6960/announce
 http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
-http://dl1.dler.org:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
 http://exodus.desync.com:6969/announce
@@ -57,7 +56,6 @@ http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://highteahop.top:6960/announce
-http://hlotsof.hopto.org:5000/announce
 http://jabber.esiliati.org:6969/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
@@ -530,7 +528,6 @@ udp://oscar.reyesleon.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://packages.crunchbangplusplus.org:6969/announce
 udp://peerfect.org:6969/announce
-udp://pubilic-fucking-tracker-fuckyeah.chedz.net:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
