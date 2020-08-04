@@ -273,7 +273,6 @@ http://www.yqzuji.com:80/announce
 http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
-https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
@@ -324,7 +323,6 @@ udp://10.rarbg.me:80/announce
 udp://12.rarbg.me:80/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
-udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
