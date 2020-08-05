@@ -51,7 +51,6 @@ http://explodie.org:6969/announce
 http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://grifon.info:80/announce
-http://gshk.happy-host.com/test:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://highteahop.top:6960/announce

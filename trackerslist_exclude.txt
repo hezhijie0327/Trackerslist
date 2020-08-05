@@ -6,6 +6,7 @@ http://bt.wiiyi.com:6969/announce
 http://btfans.3322.org:8000/announce
 http://check.ipredator.se:6969/announce
 http://denis.stalker.h3q.com:6969/announce
+http://gshk.happy-host.com/test:80/announce
 https://1.atrack.114913.xyz:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
