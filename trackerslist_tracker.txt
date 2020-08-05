@@ -40,7 +40,6 @@ http://btfile.sdo.com:6961/announce
 http://bttrack.9you.com:8080/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
-http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://codeaddress.top:6960/announce
 http://cx42light.cn:39652/announce

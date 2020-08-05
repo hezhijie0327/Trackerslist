@@ -4,6 +4,7 @@ http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt.wiiyi.com:6969/announce
 http://btfans.3322.org:8000/announce
+http://check.ipredator.se:6969/announce
 https://1.atrack.114913.xyz:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
