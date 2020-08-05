@@ -224,6 +224,7 @@ http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrent.to:2710/announce
+http://tracker.torrent.zond.org:80/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.tvunderground.org.ru:3218/announce
@@ -259,6 +260,7 @@ http://update.cctvqueretaro.com:443/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
+http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -382,6 +384,7 @@ udp://adminion.n-blade.ru:6969/announce
 udp://ali.delbertbeta.cc:4427/announce
 udp://allesanddro.de:1337/announce
 udp://amigacity.xyz:6969/announce
+udp://anidex.moe:6969/announce
 udp://anime.dayman.online:6969/announce
 udp://anonseed.com:6969/announce
 udp://api.bitumconference.ru:6969/announce
@@ -397,6 +400,7 @@ udp://bms-hosxp.com:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
+udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
@@ -405,6 +409,7 @@ udp://bt.xxx-tracker.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
+udp://btt.royalquest.ru:2710/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://c.ns.cluefone.com:6969/announce
@@ -418,6 +423,7 @@ udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://chucaiyun.cn:6969/announce
 udp://code2chicken.nl:6969/announce
+udp://concen.org:6969/announce
 udp://contra.sf.ca.us:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
@@ -486,6 +492,7 @@ udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce
 udp://open.facedatabg.net:6969/announce
+udp://open.lolicon.eu:7777/announce
 udp://open.nyap2p.com:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
@@ -494,6 +501,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oscar.reyesleon.xyz:6969/announce
+udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://packages.crunchbangplusplus.org:6969/announce
 udp://peerfect.org:6969/announce
@@ -589,6 +597,7 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.jae.moe:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.justseed.it:1337/announce
+udp://tracker.kali.org:6969/announce
 udp://tracker.kamigami.org:2710/announce
 udp://tracker.kiwifarms.net:8000/announce
 udp://tracker.kuroy.me:5944/announce
@@ -664,6 +673,7 @@ udp://uskr.m3x.org:6969/announce
 udp://v-192-223-24-180.unman-vds.inap-nyc.nfoservers.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
+udp://vps2.avc.cx:7171/announce
 udp://wambo.club:1337/announce
 udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
