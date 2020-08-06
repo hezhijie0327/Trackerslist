@@ -61,7 +61,6 @@ http://mgtracker.org:6969/announce
 http://mirror.aptus.co.tz:6969/announce
 http://netwarer.xyz:6960/announce
 http://node.611.to:9000/announce
-http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
@@ -71,15 +70,11 @@ http://nyaatorrents.info:7266/announce
 http://omg.wtftrackr.xyz:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
-http://open.nyaatorrents.info:6544/announce
 http://open.touki.ru:80/announce
-http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.i2p.rocks:6969/announce
-http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://p4p.arenabg.com:1337/announce
-http://peersteers.org:80/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
@@ -268,8 +263,6 @@ https://atrack-asia-s1.114913.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
-https://opentracker.skynetcloud.site:8443/announce
-https://opentracker.xyz:443/announce
 https://retracker.now.sh:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -462,7 +455,6 @@ udp://ns-1.x-fins.com:6969/announce
 udp://ns1.epsilonthree.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
-udp://open.demonii.si:1337/announce
 udp://open.facedatabg.net:6969/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.nyap2p.com:6969/announce
@@ -470,9 +462,7 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
-udp://opentracker.sktorrent.org:6969/announce
 udp://opentrackr.org:1337/announce
-udp://oscar.reyesleon.xyz:6969/announce
 udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://packages.crunchbangplusplus.org:6969/announce

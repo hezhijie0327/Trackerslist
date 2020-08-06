@@ -9,11 +9,18 @@ http://denis.stalker.h3q.com:6969/announce
 http://gshk.happy-host.com/test:80/announce
 http://magic.felfoldi.net:6969/announce
 http://nbz.f3322.net:36006/announce
+http://novaopcj.icu:10325/announce
+http://open.nyaatorrents.info:6544/announce
+http://open.trackerlist.xyz:80/announce
+http://opentracker.xyz:80/announce
+http://peersteers.org:80/announce
 https://1.atrack.114913.xyz:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
+https://opentracker.skynetcloud.site:8443/announce
+https://opentracker.xyz:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
@@ -26,4 +33,7 @@ udp://dns.cctvqueretaro.com:53/announce
 udp://inferno.demonoid.ch:6969/announce
 udp://ipv6.leechers-paradise.org:6969/announce
 udp://ipv6.mercax.com:53/announce
+udp://open.demonii.si:1337/announce
+udp://opentracker.sktorrent.org:6969/announce
+udp://oscar.reyesleon.xyz:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
