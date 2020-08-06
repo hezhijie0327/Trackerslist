@@ -21,3 +21,6 @@ udp://bt.xxx-tracker.com:2710/announce
 udp://caramelo.ddns.net:8000/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dns.cctvqueretaro.com:53/announce
+udp://inferno.demonoid.ch:6969/announce
+udp://ipv6.leechers-paradise.org:6969/announce
+udp://ipv6.mercax.com:53/announce
