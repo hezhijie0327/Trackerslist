@@ -59,7 +59,6 @@ http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://mirror.aptus.co.tz:6969/announce
-http://nbz.f3322.net:36006/announce
 http://netwarer.xyz:6960/announce
 http://node.611.to:9000/announce
 http://novaopcj.icu:10325/announce
@@ -560,7 +559,6 @@ udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fixr.pro:6969/announce
 udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.fortu.io:6969/announce
-udp://tracker.freddit.nl:6969/announce
 udp://tracker.gbitt.info:80/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
