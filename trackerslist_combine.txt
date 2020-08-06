@@ -34,7 +34,6 @@ http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt.sumisora.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
-http://bt.uglab.org:6800/announce
 http://bt.wiiyi.com:6969/announce
 http://bt1.archive.org:6969/announce
 http://bt1.the9.com:6969/announce
@@ -59,7 +58,6 @@ http://explodie.org:6969/announce
 http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://grifon.info:80/announce
-http://gshk.happy-host.com/test:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://highteahop.top:6960/announce
@@ -83,7 +81,6 @@ http://omg.wtftrackr.xyz:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
-http://open.touki.ru:80/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.i2p.rocks:6969/announce
@@ -117,7 +114,6 @@ http://shadowshq.yi.org:6969/announce
 http://share.camoe.cn:8080/announce
 http://share.newdmhy.net:8000/announce
 http://shareservi.xyz:6960/announce
-http://siambit.org:80/announce
 http://sub4all.org:2710/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
@@ -129,7 +125,6 @@ http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
-http://thetracker.org.:80/announce
 http://thetracker.org:80/announce
 http://tk.nvacg.org:3333/announce
 http://torrent-download.to:5869/announce
@@ -156,7 +151,6 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bittor.pw:1337/announce
-http://tracker.bittorrent.am:80/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btsync.gq:233/announce
@@ -180,7 +174,6 @@ http://tracker.filemail.com:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
-http://tracker.frozen-layernet:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.grepler.com:6969/announce
@@ -293,7 +286,6 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
-https://tp.m-team.cc:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce

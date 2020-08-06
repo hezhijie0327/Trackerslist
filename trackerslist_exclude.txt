@@ -6,7 +6,6 @@ http://bt.wiiyi.com:6969/announce
 http://btfans.3322.org:8000/announce
 http://check.ipredator.se:6969/announce
 http://denis.stalker.h3q.com:6969/announce
-http://gshk.happy-host.com/test:80/announce
 http://magic.felfoldi.net:6969/announce
 http://nbz.f3322.net:36006/announce
 http://novaopcj.icu:10325/announce
@@ -37,4 +36,5 @@ udp://ipv6.mercax.com:53/announce
 udp://open.demonii.si:1337/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
+udp://santost12.xyz:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
