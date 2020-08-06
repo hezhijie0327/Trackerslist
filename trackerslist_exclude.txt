@@ -21,6 +21,7 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://opentracker.skynetcloud.site:8443/announce
 https://opentracker.xyz:443/announce
+https://tk.mabo.ltd:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
@@ -37,4 +38,6 @@ udp://open.demonii.si:1337/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://santost12.xyz:6969/announce
+udp://tc.animereactor.ru:8082/announce
+udp://thetribunes.xyz:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
