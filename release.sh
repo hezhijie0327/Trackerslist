@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.5
+# Current Version: 1.2.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -65,7 +65,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    trackerlist_data=($(cat ./trackerlist_*.tmp ../data/data_*.txt | tr "A-Z" "a-z" | grep -E "^(http|https|udp|ws|wss):[\/]{2}(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3}):[0-9]{1,5}/announce$" | sort | uniq | awk "{ print $2 }"))
+    trackerlist_data=($(cat ./trackerlist_*.tmp ../data/data_*.txt | tr "A-Z" "a-z" | grep -E "^(http|https|udp|ws|wss):[\/]{2}([a-z0-9\-\.]+\.[a-z]{2,}):[0-9]{1,5}/announce$" | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
