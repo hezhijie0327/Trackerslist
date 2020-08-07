@@ -43,6 +43,7 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://update.cctvqueretaro.com:443/announce
 http://vps.tracker.eu.org:9000/announce
+http://wegkxfcivgx.chickenkiller.com:80/announce
 https://1.atrack.114913.xyz:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
@@ -103,5 +104,6 @@ udp://tracker2.wasabii.com.tw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://uskr.m3x.org:6969/announce
 udp://wambo.club:1337/announce
+udp://webmail.wookiespmc.com:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
 wss://tracker.fastcast.nz:443/announce

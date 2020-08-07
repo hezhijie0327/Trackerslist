@@ -210,7 +210,6 @@ http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
-http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.eddie4.nl:6969/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
@@ -333,7 +332,6 @@ udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
-udp://btt.royalquest.ru:2710/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://c.ns.cluefone.com:6969/announce
@@ -561,7 +559,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 udp://vps2.avc.cx:7171/announce
 udp://wassermann.online:6969/announce
-udp://webmail.wookiespmc.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
