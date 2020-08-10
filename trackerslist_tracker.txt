@@ -30,6 +30,7 @@ http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
+http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
@@ -103,12 +104,12 @@ http://tracker.baltracker.net:3390/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.duola.xyz:6969/announce
 http://tracker.duola.xyz:8080/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.edkj.club:6969/announce
+http://tracker.edkj.club:8080/announce
 http://tracker.edoardocolombo.eu:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.etree.org:6969/announce
@@ -159,12 +160,11 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.itzmx.com:8080/announce
-http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker2.torrentino.com:80/announce
+http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
-http://tracker4.dler.org:6969/announce
 http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
@@ -185,6 +185,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://retracker.now.sh:443/announce
 https://rt.msk-server.ga:443/announce
@@ -384,7 +385,7 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.burncycl.net:6969/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.ds.is:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -405,7 +406,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -435,12 +435,10 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker123.cn:8080/announce
+udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tracker6.dler.org:2710/announce
-udp://tracker7.dler.org:6969/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
