@@ -104,6 +104,7 @@ http://tracker.baltracker.net:3390/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.duola.xyz:6969/announce
 http://tracker.duola.xyz:8080/announce
@@ -160,7 +161,6 @@ http://tracker.zum.bi:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker2.torrentino.com:80/announce
-http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
 http://tracker4.itzmx.com:2710/announce
@@ -183,7 +183,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://retracker.now.sh:443/announce
 https://rt.msk-server.ga:443/announce
@@ -306,6 +305,7 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
@@ -369,8 +369,6 @@ udp://threads.run:6969/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://torrentclub.tech:6969/announce
 udp://tr.bangumi.moe:6969/announce
-udp://tr.cili001.com:6666/announce
-udp://tr.cili001.com:8070/announce
 udp://tr2.ysagin.top:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.aletorrenty.pl:2710/announce
@@ -446,7 +444,6 @@ udp://vibe.community:6969/announce
 udp://vps2.avc.cx:7171/announce
 udp://wassermann.online:6969/announce
 udp://www.eddie4.nl:6969/announce
-udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
