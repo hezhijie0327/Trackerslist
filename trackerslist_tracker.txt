@@ -55,6 +55,8 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -122,6 +124,7 @@ http://tracker.funfile.org:2710/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.iso8.com:8000/announce
 http://tracker.kali.org:6969/announce
 http://tracker.ktxp.com:6868/announce
@@ -133,6 +136,7 @@ http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -142,7 +146,6 @@ http://tracker.sktorrent.net:6969/announce
 http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co:80/announce
-http://tracker.tiny-vps.com:6969/announce
 http://tracker.tlm-project.org:6969/announce
 http://tracker.torrent.zond.org:80/announce
 http://tracker.torrentleech.org:2710/announce
@@ -161,6 +164,7 @@ http://tracker.zum.bi:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker2.torrentino.com:80/announce
+http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
 http://tracker4.dler.org:6969/announce
@@ -172,6 +176,7 @@ http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
 http://www.36dm.com:2710/announce
 http://www.eddie4.nl:6969/announce
+http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
 http://www.thegeeks.bz:3210/announce
@@ -183,6 +188,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://retracker.now.sh:443/announce
 https://rt.msk-server.ga:443/announce
@@ -215,6 +221,15 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2720/announce
+udp://9.rarbg.com:2730/announce
+udp://9.rarbg.com:2740/announce
+udp://9.rarbg.com:2750/announce
+udp://9.rarbg.com:2770/announce
+udp://9.rarbg.com:2780/announce
+udp://9.rarbg.com:2790/announce
+udp://9.rarbg.com:2800/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -244,12 +259,6 @@ udp://9.rarbg.me:2960/announce
 udp://9.rarbg.me:2970/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
-udp://9.rarbg.to:2720/announce
-udp://9.rarbg.to:2730/announce
-udp://9.rarbg.to:2740/announce
-udp://9.rarbg.to:2770/announce
-udp://9.rarbg.to:2780/announce
-udp://9.rarbg.to:2800/announce
 udp://adm.category5.tv:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://adminion.n-blade.ru:6969/announce
@@ -298,6 +307,7 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
@@ -424,10 +434,11 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker123.cn:8080/announce
+udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tracker6.dler.org:2710/announce
+udp://tracker7.dler.org:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
@@ -437,6 +448,7 @@ udp://vibe.community:6969/announce
 udp://vps2.avc.cx:7171/announce
 udp://wassermann.online:6969/announce
 udp://www.eddie4.nl:6969/announce
+udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
