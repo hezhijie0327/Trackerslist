@@ -579,6 +579,7 @@ udp://sd-161673.dedibox.fr:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://storage.groupees.com:6969/announce
+udp://sub4all.org:2710/announce
 udp://t.acg.rip:6699/announce
 udp://t.lint2.com:9000/announce
 udp://t.nyaatracker.com:80/announce
