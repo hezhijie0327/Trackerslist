@@ -97,7 +97,6 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
@@ -121,7 +120,7 @@ http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker3.dler.org:2710/announce
+http://tracker4.dler.org:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://trk.kuzko.eu:6969/announce
@@ -229,8 +228,8 @@ udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
