@@ -1,5 +1,4 @@
 http://00.mercax.com:443/announce
-http://0123456789nonexistent.com:80/announce
 http://aaa.army:8866/announce
 http://agusiq-torrents.pl:6969/announce
 http://aliasgos.top:6960/announce
@@ -73,7 +72,6 @@ http://tracker.calculate.ru:6969/announce
 http://tracker.city9x.com:2710/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.com:80/announce
@@ -115,7 +113,6 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker3.dler.org:2710/announce
 http://tracker4.dler.org:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
@@ -225,8 +222,8 @@ udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -263,11 +260,11 @@ udp://tracker01.loveapp.com:6789/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker1.xku.tv:6969/announce
 udp://tracker2.christianbro.pw:6969/announce
-udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
+udp://tracker7.dler.org:6969/announce
 udp://trackerxyz.tk:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://uskr.m3x.org:6969/announce
