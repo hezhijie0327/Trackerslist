@@ -76,6 +76,7 @@ http://tracker.calculate.ru:6969/announce
 http://tracker.city9x.com:2710/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.dmguo.com:2710/announce
@@ -120,6 +121,7 @@ http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
+http://tracker3.dler.org:2710/announce
 http://tracker4.dler.org:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
@@ -153,6 +155,12 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 https://www.wareztorrent.com:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
+udp://9.rarbg.to:2720/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2780/announce
+udp://9.rarbg.to:2800/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -173,6 +181,7 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dns.cctvqueretaro.com:53/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://grohub07.grohub.org:80/announce
@@ -270,7 +279,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker4.piratux.com:6969/announce
-udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
 udp://trackerxyz.tk:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
