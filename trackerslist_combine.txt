@@ -108,7 +108,6 @@ http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
-http://retracker.adminko.org:80/announce
 http://retracker.bashtel.ru:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -161,8 +160,6 @@ http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
-http://tracker.36dm.com:2710/announce
-http://tracker.acg.gg:1578/announce
 http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
@@ -269,7 +266,6 @@ http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.videodrugproject.com:80/announce
 http://tracker.vivancos.eu:80/announce
-http://tracker.xelion.fr:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
@@ -304,7 +300,6 @@ http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.36dm.com:2710/announce
 http://www.eddie4.nl:6969/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
