@@ -26,7 +26,6 @@ http://btfile.sdo.com:6961/announce
 http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
-http://exodus.desync.com:6969/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
@@ -140,7 +139,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://dev-tracker.nullrebel.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -151,6 +149,7 @@ https://tk.mabo.ltd:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.ecdn.icu:8443/announce
 https://tracker.fastdownload.xyz:443/announce
+https://tracker.kuroy.me:4399/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
@@ -163,6 +162,7 @@ udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
+udp://asger.xyz:6969/announce
 udp://bitsparadise.info:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
@@ -236,8 +236,8 @@ udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -247,6 +247,7 @@ udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fixr.pro:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:80/announce
+udp://tracker.jae.moe:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.justseed.it:1337/announce
 udp://tracker.kamigami.org:2710/announce
@@ -259,7 +260,6 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
@@ -280,6 +280,7 @@ udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
+udp://tracker7.dler.org:6969/announce
 udp://trackerxyz.tk:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://uskr.m3x.org:6969/announce
