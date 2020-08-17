@@ -317,6 +317,7 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
+https://atrack-asia-e2.120181311.xyz:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://atrack-eu-w1.120181311.xyz:443/announce
 https://atrack-us-c1.120181311.xyz:443/announce
@@ -728,6 +729,7 @@ udp://vps2.avc.cx:7171/announce
 udp://wambo.club:1337/announce
 udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
+udp://wood.goandplay.fun:25824/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
