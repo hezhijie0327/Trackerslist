@@ -6,7 +6,6 @@ http://1337.abcvg.info:80/announce
 http://9.rarbg.com:2710/announce
 http://amigacity.xyz:6969/announce
 http://anidex.moe:6969/announce
-http://ankeschwarz.net:6969/announce
 http://announce.torrentsmd.com:6969/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
@@ -23,7 +22,6 @@ http://bt.uglab.org:6800/announce
 http://bt1.archive.org:6969/announce
 http://bt1.the9.com:6969/announce
 http://bt2.54new.com:8080/announce
-http://bt2.archive.org:6969/announce
 http://bttrack.9you.com:8080/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
@@ -57,7 +55,6 @@ http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -138,7 +135,6 @@ http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -192,6 +188,7 @@ https://atrack-eu-w1.120181311.xyz:443/announce
 https://atrack-sa-e1.120181311.xyz:443/announce
 https://atrack-us-c1.120181311.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -261,7 +258,6 @@ udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.54new.com:8080/announce
-udp://bt2.archive.org:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carapax.net:6969/announce
@@ -286,6 +282,7 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
+udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -381,6 +378,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
