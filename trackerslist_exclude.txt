@@ -74,7 +74,6 @@ http://tracker.calculate.ru:6969/announce
 http://tracker.city9x.com:2710/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.dmguo.com:2710/announce
@@ -83,6 +82,7 @@ http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kamigami.org:2710/announce
@@ -96,6 +96,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
@@ -135,6 +136,7 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -155,12 +157,8 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
-udp://9.rarbg.to:2720/announce
-udp://9.rarbg.to:2730/announce
-udp://9.rarbg.to:2740/announce
-udp://9.rarbg.to:2770/announce
-udp://9.rarbg.to:2780/announce
-udp://9.rarbg.to:2800/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2720/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -233,12 +231,12 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
+udp://tracker.casual.run:6969/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -262,6 +260,7 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
