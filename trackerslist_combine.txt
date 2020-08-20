@@ -353,7 +353,6 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 https://trakx.herokuapp.com:443/announce
 https://w.wwwww.wtf:443/announce
-https://www.wareztorrent.com:443/announce
 udp://10.rarbg.me:80/announce
 udp://12.rarbg.me:80/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
