@@ -95,6 +95,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
@@ -103,10 +104,8 @@ http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.torrent.to:2710/announce
-http://tracker.torrent.zond.org:80/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.vivancos.eu:80/announce
@@ -136,6 +135,7 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -155,6 +155,8 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.to:2730/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -231,6 +233,7 @@ udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
@@ -242,6 +245,7 @@ udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fixr.pro:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:80/announce
+udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.jae.moe:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.justseed.it:1337/announce
