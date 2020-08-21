@@ -321,12 +321,7 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
-https://atrack-asia-e2.120181311.xyz:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
-https://atrack-asia-s1.120181311.xyz:443/announce
-https://atrack-eu-w1.120181311.xyz:443/announce
-https://atrack-sa-e1.120181311.xyz:443/announce
-https://atrack-us-c1.120181311.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
