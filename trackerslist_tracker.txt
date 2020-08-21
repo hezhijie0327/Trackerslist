@@ -1,4 +1,3 @@
-http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://0d.kebhana.mx:80/announce
@@ -33,7 +32,6 @@ http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
-http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://genesis.1337x.org:1337/announce
 http://h4.trakx.nibba.trade:80/announce
@@ -187,7 +185,6 @@ http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -277,7 +274,6 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
@@ -325,6 +321,7 @@ udp://retracker.local.msn-net.ru:6969/announce
 udp://retracker.maxnet.ua:80/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://retracker.sevstar.net:2710/announce
+udp://robbmob.com:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://sandrotracker.biz:1337/announce
 udp://sd-161673.dedibox.fr:6969/announce
@@ -372,7 +369,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -405,7 +401,6 @@ udp://tracker123.cn:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce

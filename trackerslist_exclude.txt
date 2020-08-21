@@ -1,4 +1,5 @@
 http://00.mercax.com:443/announce
+http://0123456789nonexistent.com:80/announce
 http://aaa.army:8866/announce
 http://agusiq-torrents.pl:6969/announce
 http://aliasgos.top:6960/announce
@@ -24,6 +25,7 @@ http://btfile.sdo.com:6961/announce
 http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
+http://exodus.desync.com:6969/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
@@ -134,6 +136,7 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -177,6 +180,7 @@ udp://chucaiyun.cn:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://grohub07.grohub.org:80/announce
@@ -210,7 +214,6 @@ udp://retracker.akado-ural.ru:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://robbmob.com:6969/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://santost12.xyz:6969/announce
 udp://t.lint2.com:9000/announce
@@ -258,6 +261,7 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
@@ -279,6 +283,7 @@ udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
 udp://trackerxyz.tk:1337/announce
+udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
