@@ -23,7 +23,6 @@ http://bt.uglab.org:6800/announce
 http://bt1.archive.org:6969/announce
 http://bt1.the9.com:6969/announce
 http://bt2.54new.com:8080/announce
-http://bt2.archive.org:6969/announce
 http://bttrack.9you.com:8080/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
@@ -56,8 +55,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -139,6 +136,7 @@ http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -187,7 +185,6 @@ http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -247,7 +244,6 @@ udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.54new.com:8080/announce
-udp://bt2.archive.org:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carapax.net:6969/announce
@@ -348,7 +344,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.burncycl.net:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -369,6 +364,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -401,7 +397,6 @@ udp://tracker123.cn:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
