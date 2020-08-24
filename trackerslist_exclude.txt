@@ -1,4 +1,5 @@
 http://00.mercax.com:443/announce
+http://0123456789nonexistent.com:80/announce
 http://aaa.army:8866/announce
 http://agusiq-torrents.pl:6969/announce
 http://aliasgos.top:6960/announce
@@ -42,8 +43,6 @@ http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.xyz:80/announce
 http://peersteers.org:80/announce
-http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
 http://retracker.adminko.org:80/announce
@@ -169,6 +168,7 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://grohub07.grohub.org:80/announce
@@ -227,6 +227,7 @@ udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -248,6 +249,7 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
