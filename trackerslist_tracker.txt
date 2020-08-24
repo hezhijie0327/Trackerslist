@@ -14,7 +14,6 @@ http://aws1.millegrilles.com:6969/announce
 http://bandari.org:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bittracker.ru:80/announce
-http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.firebit.org:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -33,7 +32,6 @@ http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
-http://explodie.org:6969/announce
 http://genesis.1337x.org:1337/announce
 http://h4.trakx.nibba.trade:80/announce
 http://jabber.esiliati.org:6969/announce
@@ -183,7 +181,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://cernet-tracker.appspot.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -217,11 +214,9 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
-udp://9.rarbg.to:2730/announce
 udp://adm.category5.tv:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://adminion.n-blade.ru:6969/announce
@@ -364,6 +359,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
