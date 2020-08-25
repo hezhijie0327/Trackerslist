@@ -44,6 +44,8 @@ http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.xyz:80/announce
 http://peersteers.org:80/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
 http://retracker.adminko.org:80/announce
@@ -94,6 +96,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
@@ -105,7 +108,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.torrent.to:2710/announce
-http://tracker.torrentyorg.pl:80/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.vivancos.eu:80/announce
@@ -170,6 +172,7 @@ udp://chucaiyun.cn:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://explodie.org:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://grohub07.grohub.org:80/announce
@@ -192,7 +195,6 @@ udp://npserver.intranet.pw:4201/announce
 udp://open.demonii.si:1337/announce
 udp://open.facedatabg.net:6969/announce
 udp://open.nyap2p.com:6969/announce
-udp://opentor.org:2710/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://peerfect.org:6969/announce
