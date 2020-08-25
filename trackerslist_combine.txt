@@ -26,7 +26,6 @@ http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
-http://bt.artvid.ru:6969/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:6969/announce
 http://bt.firebit.org:2710/announce
@@ -77,7 +76,6 @@ http://mirror.aptus.co.tz:6969/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
 http://netwarer.xyz:6960/announce
-http://newtoncity.org:6969/announce
 http://node.611.to:9000/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
@@ -86,7 +84,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
 http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
-http://omg.wtftrackr.pw:1337/announce
 http://omg.wtftrackr.xyz:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
@@ -147,7 +144,6 @@ http://tk.nvacg.org:3333/announce
 http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.nwps.ws:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.ubuntu.com:6969/announce
