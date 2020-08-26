@@ -55,6 +55,7 @@ http://t.overflow.biz:6969/announce
 http://t1.leech.ie:80/announce
 http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
+http://thetracker.org:80/announce
 http://torrentsmd.me:8080/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
@@ -115,7 +116,6 @@ http://update.cctvqueretaro.com:443/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.loushao.net:8080/announce
 http://www.wareztorrent.com:80/announce
 https://1.atrack.114913.xyz:443/announce
 https://2.tracker.eu.org:443/announce
@@ -125,7 +125,6 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
