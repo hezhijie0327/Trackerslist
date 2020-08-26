@@ -1,3 +1,4 @@
+http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://0d.kebhana.mx:80/announce
@@ -30,6 +31,7 @@ http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
+http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://h4.trakx.nibba.trade:80/announce
 http://jabber.esiliati.org:6969/announce
@@ -53,7 +55,6 @@ http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -176,6 +177,7 @@ http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
+https://explodie.org:6969/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
@@ -183,6 +185,7 @@ https://retracker.now.sh:443/announce
 https://rt.msk-server.ga:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
+https://tr.kxmp.cf:80/announce
 https://tr.ready4.icu:443/announce
 https://tr.steins-gate.moe:2096/announce
 https://tracker.acgnx.se:443/announce
@@ -291,6 +294,7 @@ udp://ns-1.x-fins.com:6969/announce
 udp://ns1.epsilonthree.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.facedatabg.net:6969/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
@@ -336,7 +340,9 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.burncycl.net:6969/announce
+udp://tracker.christianbro.pw:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -386,6 +392,7 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker123.cn:8080/announce
+udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
