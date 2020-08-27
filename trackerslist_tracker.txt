@@ -128,6 +128,7 @@ http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -174,7 +175,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://explodie.org:6969/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -211,7 +211,6 @@ udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://adm.category5.tv:6969/announce
@@ -415,5 +414,6 @@ ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
+wss://tracker.lab.vvc.niif.hu:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce
