@@ -1,7 +1,7 @@
+http://0123456789nonexistent.com:80/announce
 http://aaa.army:8866/announce
 http://agusiq-torrents.pl:6969/announce
 http://aliasgos.top:6960/announce
-http://ankeschwarz.net:6969/announce
 http://bandari.org:6969/announce
 http://beautifull.top:6960/announce
 http://beertracker.ml:80/announce
@@ -257,6 +257,7 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
@@ -278,6 +279,7 @@ udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
 udp://trackerxyz.tk:1337/announce
+udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
