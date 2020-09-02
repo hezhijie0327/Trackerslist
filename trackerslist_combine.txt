@@ -40,7 +40,6 @@ http://bt.uglab.org:6800/announce
 http://bt.wiiyi.com:6969/announce
 http://bt1.archive.org:6969/announce
 http://bt1.the9.com:6969/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
