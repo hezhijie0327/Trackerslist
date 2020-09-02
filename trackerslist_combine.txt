@@ -336,6 +336,7 @@ https://tracker.anirena.com:80/announce
 https://tracker.ansopen.org:8443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.coalition.space:443/announce
+https://tracker.cryental.dev:443/announce
 https://tracker.dutchtracking.com:80/announce
 https://tracker.ecdn.icu:8443/announce
 https://tracker.fastdownload.xyz:443/announce
