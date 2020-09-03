@@ -7,7 +7,6 @@ http://1337.abcvg.info:80/announce
 http://9.rarbg.com:2710/announce
 http://amigacity.xyz:6969/announce
 http://anidex.moe:6969/announce
-http://ankeschwarz.net:6969/announce
 http://announce.torrentsmd.com:6969/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
@@ -36,7 +35,6 @@ http://eddie4.nl:6969/announce
 http://explodie.org:6969/announce
 http://genesis.1337x.org:1337/announce
 http://h4.trakx.nibba.trade:80/announce
-http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://mail2.zelenaya.net:80/announce
 http://mirror.aptus.co.tz:6969/announce
@@ -65,6 +63,7 @@ http://retracker.spark-rostov.ru:80/announce
 http://rt.tace.ru:80/announce
 http://sandrotracker.biz:1337/announce
 http://secure.pow7.com:80/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru:80/announce
 http://shadowshq.eddie4.nl:6969/announce
 http://shadowshq.yi.org:6969/announce
@@ -221,7 +220,6 @@ udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://adm.category5.tv:6969/announce
@@ -283,6 +281,7 @@ udp://gra1.joshkeegan.co.uk:6969/announce
 udp://handrew.me:6969/announce
 udp://icynet.eu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
+udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
