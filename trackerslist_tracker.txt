@@ -56,6 +56,7 @@ http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -344,7 +345,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.burncycl.net:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
