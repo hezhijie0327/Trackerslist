@@ -557,6 +557,7 @@ udp://tr2.ysagin.top:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-v6.zooki.xyz:6969/announce
 udp://tracker.0o.is:6969/announce
+udp://tracker.0x.tf:6969/announce
 udp://tracker.3304399.com:6969/announce
 udp://tracker.acg.gg:2710/announce
 udp://tracker.aletorrenty.pl:2710/announce
