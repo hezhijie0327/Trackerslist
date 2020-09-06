@@ -22,9 +22,9 @@ http://bt2.edwardk.info:4040/announce
 http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://check.ipredator.se:6969/announce
-http://cocaine.ninja:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
+http://exodus.desync.com:6969/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
@@ -134,7 +134,6 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
@@ -146,7 +145,6 @@ https://tracker.dutchtracking.com:80/announce
 https://tracker.ecdn.icu:8443/announce
 https://tracker.fastdownload.xyz:443/announce
 https://tracker.ipv6tracker.ru:80/announce
-https://tracker.lelux.fi:443/announce
 https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
@@ -156,6 +154,7 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
+udp://9.rarbg.com:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
@@ -251,7 +250,6 @@ udp://tracker.justseed.it:1337/announce
 udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kiwifarms.net:8000/announce
 udp://tracker.kuroy.me:5944/announce
-udp://tracker.lelux.fi:6969/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.msm8916.com:6969/announce
