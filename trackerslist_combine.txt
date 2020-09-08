@@ -456,6 +456,7 @@ udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
 udp://koli.services:6969/announce
 udp://kpax.net:6969/announce
+udp://letting.cf:26327/announce
 udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mage23.schminkparadies.ch:6969/announce
