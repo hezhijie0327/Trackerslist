@@ -23,7 +23,6 @@ http://btfile.sdo.com:6961/announce
 http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
-http://exodus.desync.com:6969/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
@@ -163,8 +162,10 @@ udp://bt.xxx-tracker.com:2710/announce
 udp://btt.royalquest.ru:2710/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
+udp://c.ns.cluefone.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://chucaiyun.cn:6969/announce
+udp://contra.sf.ca.us:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://exodus.desync.com:6969/announce
@@ -226,12 +227,12 @@ udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
 udp://tracker.ex.ua:80/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.filepit.to:6969/announce
 udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fixr.pro:6969/announce

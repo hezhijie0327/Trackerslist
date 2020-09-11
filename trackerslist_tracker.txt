@@ -30,6 +30,7 @@ http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
+http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://genesis.1337x.org:1337/announce
 http://h4.trakx.nibba.trade:80/announce
@@ -225,7 +226,6 @@ udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
-udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carapax.net:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
@@ -235,7 +235,6 @@ udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://code2chicken.nl:6969/announce
 udp://concen.org:6969/announce
-udp://contra.sf.ca.us:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
@@ -324,9 +323,9 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flashtorrents.org:6969/announce
