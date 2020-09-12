@@ -573,6 +573,7 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.3304399.com:6969/announce
 udp://tracker.acg.gg:2710/announce
 udp://tracker.aletorrenty.pl:2710/announce
+udp://tracker.altrosky.nl:6969/announce
 udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
