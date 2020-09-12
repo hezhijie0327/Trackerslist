@@ -28,7 +28,6 @@ http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
-http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
@@ -85,7 +84,6 @@ http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
 http://tk.nvacg.org:3333/announce
 http://torrent-downloads.to:5869/announce
-http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
@@ -128,6 +126,7 @@ http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.iso8.com:8000/announce
+http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
@@ -141,7 +140,6 @@ http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
-http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.shittyurl.org:80/announce
@@ -150,11 +148,11 @@ http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tlm-project.org:6969/announce
+http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrent.zond.org:80/announce
 http://tracker.torrentleech.org:2710/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
@@ -169,7 +167,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker2.torrentino.com:80/announce
 http://tracker3.itzmx.com:6961/announce
-http://tracker3.itzmx.com:8080/announce
 http://tracker4.itzmx.com:2710/announce
 http://trk.kuzko.eu:6969/announce
 http://trun.tom.ru:80/announce
@@ -289,7 +286,6 @@ udp://git.vulnix.sh:6969/announce
 udp://handrew.me:6969/announce
 udp://icynet.eu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
-udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
@@ -353,7 +349,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -384,7 +379,6 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.tiny-vps.com:6969/announce
-udp://tracker.tntvillage.scambioetico.org:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
