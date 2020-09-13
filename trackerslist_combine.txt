@@ -26,7 +26,6 @@ http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
-http://bt.artvid.ru:6969/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
@@ -71,7 +70,6 @@ http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://highteahop.top:6960/announce
-http://ipv4.tracker.harry.lu:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
@@ -164,7 +162,6 @@ http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
-http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
@@ -223,6 +220,7 @@ http://tracker.kuroy.me:5944/announce
 http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
@@ -244,7 +242,6 @@ http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.shittyurl.org:80/announce
-http://tracker.sktorrent.net:6969/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -253,7 +250,6 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
-http://tracker.tlm-project.org:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrent.zond.org:80/announce
@@ -274,6 +270,7 @@ http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
@@ -327,7 +324,6 @@ https://explodie.org:6969/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
 https://open.kickasstracker.com:443/announce
-https://opentracker-milanesi.rhcloud.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -481,6 +477,7 @@ udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
 udp://josueunhuit.com:6969/announce
+udp://jsb.by:8000/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
@@ -715,7 +712,6 @@ udp://zer0day.to:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.btsync.cf:6969/announce
 ws://tracker.files.fm:7072/announce
-ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://ltrackr.iamhansen.xyz:443/announce
