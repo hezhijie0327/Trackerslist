@@ -60,6 +60,8 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -188,7 +190,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://explodie.org:6969/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -426,6 +427,7 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
+ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce

@@ -43,8 +43,6 @@ http://nyaatorrents.info:7266/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
-http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -135,6 +133,7 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
