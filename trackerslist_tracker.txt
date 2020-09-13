@@ -202,7 +202,6 @@ https://tr.steins-gate.moe:2096/announce
 https://tracker.acgnx.se:443/announce
 https://tracker.anirena.com:80/announce
 https://tracker.ansopen.org:8443/announce
-https://tracker.bt-hash.com:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
@@ -374,7 +373,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -405,7 +403,6 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
