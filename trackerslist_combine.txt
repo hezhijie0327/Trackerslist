@@ -55,6 +55,7 @@ http://carapax.net:6969/announce
 http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://codeaddress.top:6960/announce
+http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
 http://denis.stalker.h3q.com:6969/announce
 http://derpyradio.net:6969/announce
@@ -100,7 +101,6 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentrackr.org:1337/announce
 http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
-http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
@@ -212,6 +212,7 @@ http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iso8.com:8000/announce
+http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
@@ -251,7 +252,6 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
-http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrent.zond.org:80/announce
 http://tracker.torrentleech.org:2710/announce
@@ -288,7 +288,6 @@ http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.dler.org:6969/announce
 http://tracker4.itzmx.com:2710/announce
-http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://trk.kuzko.eu:6969/announce
@@ -301,13 +300,13 @@ http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.bit-hdtv.com:2710/announce
 http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
 http://www.thegeeks.bz:3210/announce
+http://www.theplace.bz:2910/announce
 http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
@@ -581,7 +580,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
@@ -653,6 +651,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.tntvillage.scambioetico.org:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.tvunderground.org.ru:3218/announce
