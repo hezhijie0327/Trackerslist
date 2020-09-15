@@ -25,6 +25,7 @@ http://btfile.sdo.com:6961/announce
 http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
+http://exodus.desync.com:6969/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
@@ -34,7 +35,6 @@ http://magic.felfoldi.net:6969/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://nbz.f3322.net:36006/announce
-http://node.611.to:9000/announce
 http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
 http://open.acgnxtracker.com:80/announce
@@ -65,7 +65,6 @@ http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
@@ -120,7 +119,6 @@ http://tracker4.dler.org:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://update.cctvqueretaro.com:443/announce
-http://vpn.flying-datacenter.de:6969/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -138,7 +136,6 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
-https://tracker.bt-hash.com:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.dutchtracking.com:80/announce
 https://tracker.ecdn.icu:8443/announce
@@ -153,7 +150,7 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
-udp://9.rarbg.com:2710/announce
+udp://9.rarbg.me:2780/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -234,7 +231,6 @@ udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce

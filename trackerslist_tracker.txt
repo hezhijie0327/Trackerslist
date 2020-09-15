@@ -33,7 +33,6 @@ http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
-http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
@@ -47,6 +46,7 @@ http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://netwarer.xyz:6960/announce
+http://node.611.to:9000/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
@@ -107,6 +107,7 @@ http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:81/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
@@ -171,6 +172,7 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://trk.kuzko.eu:6969/announce
 http://trun.tom.ru:80/announce
+http://vpn.flying-datacenter.de:6969/announce
 http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
@@ -202,6 +204,7 @@ https://tr.steins-gate.moe:2096/announce
 https://tracker.acgnx.se:443/announce
 https://tracker.anirena.com:80/announce
 https://tracker.ansopen.org:8443/announce
+https://tracker.bt-hash.com:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
@@ -224,8 +227,8 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://adm.category5.tv:6969/announce
@@ -352,6 +355,7 @@ udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
