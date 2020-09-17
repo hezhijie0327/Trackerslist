@@ -5,6 +5,7 @@ http://aliasgos.top:6960/announce
 http://bandari.org:6969/announce
 http://beautifull.top:6960/announce
 http://beertracker.ml:80/announce
+http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
@@ -94,7 +95,6 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
@@ -108,6 +108,7 @@ http://tracker.torrent.to:2710/announce
 http://tracker.torrent.zond.org:80/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
+http://tracker.videodrugproject.com:80/announce
 http://tracker.vivancos.eu:80/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -137,11 +138,13 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
+https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
+https://tr.kxmp.cf:80/announce
 https://tracker.coalition.space:443/announce
 https://tracker.dutchtracking.com:80/announce
 https://tracker.ecdn.icu:8443/announce
@@ -156,12 +159,13 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
+udp://9.rarbg.to:2730/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
 udp://asger.xyz:6969/announce
-udp://bitsparadise.info:6969/announce
+udp://bittracker.ru:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.dy20188.com:80/announce
@@ -171,7 +175,6 @@ udp://bt.xxx-tracker.com:2710/announce
 udp://btt.royalquest.ru:2710/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://camera.lei001.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://chucaiyun.cn:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
@@ -191,7 +194,6 @@ udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
-udp://josueunhuit.com:6969/announce
 udp://letting.cf:26327/announce
 udp://mage23.schminkparadies.ch:6969/announce
 udp://mail.moneysfast.com:6969/announce
@@ -277,7 +279,6 @@ udp://tracker.xku.tv:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker1.xku.tv:6969/announce
-udp://tracker123.cn:8080/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
