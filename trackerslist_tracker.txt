@@ -12,6 +12,7 @@ http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
+http://bittracker.ru:80/announce
 http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -81,6 +82,7 @@ http://t.nyaatracker.com:80/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
+http://tk.nvacg.org:3333/announce
 http://torrent-downloads.to:5869/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
@@ -97,7 +99,6 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker.acgnx.se:80/announce
-http://tracker.aletorrenty.pl:2710/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:81/announce
@@ -122,6 +123,7 @@ http://tracker.files.fm:6969/announce
 http://tracker.flashtorrents.org:6969/announce
 http://tracker.funfile.org:2710/announce
 http://tracker.gbitt.info:80/announce
+http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.iso8.com:8000/announce
 http://tracker.kamigami.org:2710/announce
@@ -134,7 +136,6 @@ http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -223,7 +224,6 @@ udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
-udp://9.rarbg.to:2730/announce
 udp://adm.category5.tv:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://adminion.n-blade.ru:6969/announce
@@ -284,6 +284,7 @@ udp://git.vulnix.sh:6969/announce
 udp://handrew.me:6969/announce
 udp://icynet.eu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
+udp://josueunhuit.com:6969/announce
 udp://jsb.by:8000/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
@@ -341,7 +342,6 @@ udp://tr.cili001.com:8070/announce
 udp://tr2.ysagin.top:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
-udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
