@@ -42,7 +42,6 @@ http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
 http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
-http://prestige.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -82,6 +81,7 @@ http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
+http://tracker.gigatorrents.ws:2710/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -137,7 +137,6 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
-https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -164,7 +163,6 @@ udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
 udp://asger.xyz:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.dy20188.com:80/announce
@@ -178,7 +176,6 @@ udp://caramelo.ddns.net:8000/announce
 udp://chucaiyun.cn:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://dpiui.reedlan.com:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
@@ -264,7 +261,6 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
