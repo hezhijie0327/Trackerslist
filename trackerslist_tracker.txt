@@ -44,6 +44,7 @@ http://mail2.zelenaya.net:80/announce
 http://mirror.aptus.co.tz:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
+http://netwarer.xyz:6960/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
@@ -235,7 +236,9 @@ udp://api.bitumconference.ru:6969/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
+udp://bioquantum.co.za:6969/announce
 udp://bitsparadise.info:6969/announce
+udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 udp://bt.delbertbeta.cc:19943/announce
@@ -271,7 +274,6 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -397,7 +399,6 @@ udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
-udp://tracker123.cn:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
