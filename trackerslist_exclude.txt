@@ -35,6 +35,7 @@ http://magic.felfoldi.net:6969/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://nbz.f3322.net:36006/announce
+http://netwarer.xyz:6960/announce
 http://node.611.to:9000/announce
 http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
@@ -155,13 +156,13 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
-udp://9.rarbg.me:2780/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
 udp://asger.xyz:6969/announce
 udp://bioquantum.co.za:6969/announce
+udp://bittracker.ru:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.dy20188.com:80/announce
@@ -257,6 +258,7 @@ udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce

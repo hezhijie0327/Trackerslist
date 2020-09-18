@@ -44,7 +44,6 @@ http://mail2.zelenaya.net:80/announce
 http://mirror.aptus.co.tz:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
-http://netwarer.xyz:6960/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
@@ -222,6 +221,7 @@ udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
+udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://adm.category5.tv:6969/announce
@@ -236,7 +236,6 @@ udp://aruacfilmes.com.br:6969/announce
 udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
 udp://bitsparadise.info:6969/announce
-udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 udp://bt.delbertbeta.cc:19943/announce
@@ -371,7 +370,6 @@ udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
