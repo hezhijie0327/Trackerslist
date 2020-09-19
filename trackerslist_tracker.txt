@@ -31,6 +31,7 @@ http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
 http://cx42light.cn:39652/announce
+http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
 http://explodie.org:6969/announce
@@ -59,8 +60,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -68,7 +67,6 @@ http://retracker.spark-rostov.ru:80/announce
 http://rt.tace.ru:80/announce
 http://sandrotracker.biz:1337/announce
 http://secure.pow7.com:80/announce
-http://seeders-paradise.org:80/announce
 http://servandroidkino.ru:80/announce
 http://shadowshq.eddie4.nl:6969/announce
 http://shadowshq.yi.org:6969/announce
@@ -150,6 +148,7 @@ http://tracker.shittyurl.org:80/announce
 http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tiny-vps.com:6969/announce
+http://tracker.torrent.zond.org:80/announce
 http://tracker.torrentleech.org:2710/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
@@ -223,7 +222,6 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
@@ -277,6 +275,7 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -366,6 +365,7 @@ udp://tracker.fortu.io:6969/announce
 udp://tracker.gbitt.info:80/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.jae.moe:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kamigami.org:2710/announce
