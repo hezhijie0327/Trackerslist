@@ -1,11 +1,11 @@
 http://00.mercax.com:443/announce
-http://0123456789nonexistent.com:80/announce
 http://aaa.army:8866/announce
 http://agusiq-torrents.pl:6969/announce
 http://aliasgos.top:6960/announce
 http://bandari.org:6969/announce
 http://beautifull.top:6960/announce
 http://beertracker.ml:80/announce
+http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
@@ -20,7 +20,7 @@ http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt.wiiyi.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
-http://bt2.edwardk.info:6969/announce
+http://bt2.edwardk.info:2710/announce
 http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://check.ipredator.se:6969/announce
@@ -68,6 +68,7 @@ http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
@@ -95,7 +96,6 @@ http://tracker.moeking.me:6969/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
@@ -128,6 +128,7 @@ http://trk.kuzko.eu:6969/announce
 http://update.cctvqueretaro.com:443/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
+http://vps2.avc.cx:7171/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.wareztorrent.com:80/announce
 http://x17.hexapi.xyz:2610/announce
@@ -139,6 +140,7 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
+https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -158,6 +160,7 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
+udp://9.rarbg.to:2730/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -189,7 +192,6 @@ udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
-udp://josueunhuit.com:6969/announce
 udp://letting.cf:26327/announce
 udp://mage23.schminkparadies.ch:6969/announce
 udp://mail.moneysfast.com:6969/announce
@@ -206,8 +208,8 @@ udp://oscar.reyesleon.xyz:6969/announce
 udp://peerfect.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
+udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:2710/announce
-udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.nts.su:2710/announce
@@ -229,7 +231,7 @@ udp://tracker.acg.gg:2710/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:6969/announce
+udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -256,7 +258,6 @@ udp://tracker.kiwifarms.net:8000/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
-udp://tracker.moeking.me:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
@@ -292,7 +293,6 @@ udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
 udp://vps2.avc.cx:7171/announce
 udp://wambo.club:1337/announce
-udp://z.mercax.com:53/announce
 ws://tracker.btsync.cf:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
 wss://tracker.fastcast.nz:443/announce
