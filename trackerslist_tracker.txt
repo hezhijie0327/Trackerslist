@@ -39,6 +39,7 @@ http://explodie.org:6969/announce
 http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
 http://genesis.1337x.org:1337/announce
+http://grifon.info:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
@@ -83,6 +84,7 @@ http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
 http://tk.nvacg.org:3333/announce
+http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
@@ -108,6 +110,7 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
 http://tracker.dmhy.org:8000/announce
@@ -184,6 +187,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://explodie.org:6969/announce
+https://grifon.info:80/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -273,6 +277,7 @@ udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://eliastre100.fr:6969/announce
 udp://engplus.ru:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -286,6 +291,7 @@ udp://handrew.me:6969/announce
 udp://icynet.eu:6969/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
+udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
@@ -321,6 +327,7 @@ udp://retracker.maxnet.ua:80/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://robbmob.com:6969/announce
+udp://rutorrent.frontline-mod.com:6969/announce
 udp://sandrotracker.biz:1337/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
@@ -345,10 +352,10 @@ udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
