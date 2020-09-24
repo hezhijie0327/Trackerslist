@@ -38,7 +38,6 @@ http://eddie4.nl:6969/announce
 http://explodie.org:6969/announce
 http://funfile.org:2710/announce
 http://genesis.1337x.org:1337/announce
-http://grifon.info:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
@@ -86,7 +85,6 @@ http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
 http://tk.nvacg.org:3333/announce
-http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
@@ -190,7 +188,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://explodie.org:6969/announce
-https://grifon.info:80/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -226,6 +224,7 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
