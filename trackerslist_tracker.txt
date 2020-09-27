@@ -14,6 +14,7 @@ http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bittracker.ru:80/announce
+http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.firebit.org:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -22,6 +23,7 @@ http://bt.uglab.org:6800/announce
 http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt1.archive.org:6969/announce
+http://bt1.the9.com:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bttrack.9you.com:8080/announce
@@ -33,7 +35,6 @@ http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://eddie4.nl:6969/announce
-http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
@@ -105,9 +106,6 @@ http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
-http://tracker.anirena.com:6969/announce
-http://tracker.anirena.com:80/announce
-http://tracker.anirena.com:81/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
 http://tracker.bittor.pw:1337/announce
@@ -138,6 +136,7 @@ http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
 http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
+http://tracker.levelup.cn:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
@@ -192,6 +191,7 @@ https://1337.abcvg.info:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://explodie.org:6969/announce
 https://grifon.info:80/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -202,7 +202,6 @@ https://tr.kxmp.cf:80/announce
 https://tr.ready4.icu:443/announce
 https://tr.steins-gate.moe:2096/announce
 https://tracker.acgnx.se:443/announce
-https://tracker.anirena.com:80/announce
 https://tracker.ansopen.org:8443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.cryental.dev:443/announce
