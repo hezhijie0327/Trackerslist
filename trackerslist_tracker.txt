@@ -1,3 +1,4 @@
+http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://0d.kebhana.mx:80/announce
@@ -145,6 +146,7 @@ http://tracker.moeking.me:6969/announce
 http://tracker.mytorrenttracker.com:6099/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -291,7 +293,6 @@ udp://forever.publictracker.xyz:6969/announce
 udp://forum.m3x.org:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 udp://free1.mchost.cc:26137/announce
-udp://git.vulnix.sh:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://handrew.me:6969/announce
 udp://icynet.eu:6969/announce
@@ -424,6 +425,7 @@ udp://us-tracker.publictracker.xyz:6969/announce
 udp://v-192-223-24-180.unman-vds.inap-nyc.nfoservers.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
+udp://vps2.avc.cx:7171/announce
 udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://wood.goandplay.fun:25824/announce
