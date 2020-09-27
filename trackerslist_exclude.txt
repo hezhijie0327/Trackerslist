@@ -39,6 +39,8 @@ http://nyaatorrents.info:7266/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -62,9 +64,6 @@ http://torrent-download.to:5869/announce
 http://torrentsmd.me:8080/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
-http://tracker.anirena.com:6969/announce
-http://tracker.anirena.com:80/announce
-http://tracker.anirena.com:81/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.btsync.gq:233/announce
@@ -76,6 +75,7 @@ http://tracker.dm258.cn:7070/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.edoardocolombo.eu:6969/announce
+http://tracker.electro-torrent.pl:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
@@ -133,12 +133,12 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://gwp2-v19.rinet.ru:80/announce
+https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
-https://tracker.anirena.com:80/announce
 https://tracker.coalition.space:443/announce
 https://tracker.dutchtracking.com:80/announce
 https://tracker.ecdn.icu:8443/announce
@@ -153,7 +153,7 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
-udp://9.rarbg.to:2730/announce
+udp://9.rarbg.me:2780/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -252,7 +252,6 @@ udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.port443.xyz:6969/announce
