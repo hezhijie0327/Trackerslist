@@ -128,6 +128,7 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://gwp2-v19.rinet.ru:80/announce
+https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -148,7 +149,7 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://9.rarbg.to:2730/announce
+udp://9.rarbg.me:2780/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -171,7 +172,6 @@ udp://exodus.desync.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
-udp://git.vulnix.sh:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv6.leechers-paradise.org:6969/announce
@@ -271,7 +271,6 @@ udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://trackerxyz.tk:1337/announce
-udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
