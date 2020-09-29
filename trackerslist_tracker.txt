@@ -66,8 +66,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://pubt.in:80/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -102,7 +100,6 @@ http://torrentclub.tech:6969/announce
 http://torrents-nn.cn:2710/announce
 http://torrentsmd.com:8080/announce
 http://torrentsmd.eu:8080/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
@@ -168,7 +165,6 @@ http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
-http://tracker.videodrugproject.com:80/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
 http://tracker.ygsub.com:6969/announce
@@ -384,6 +380,7 @@ udp://tracker.fortu.io:6969/announce
 udp://tracker.gbitt.info:80/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.jae.moe:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kamigami.org:2710/announce
