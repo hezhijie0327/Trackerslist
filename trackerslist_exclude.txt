@@ -1,4 +1,5 @@
 http://00.mercax.com:443/announce
+http://0123456789nonexistent.com:80/announce
 http://aaa.army:8866/announce
 http://aliasgos.top:6960/announce
 http://bandari.org:6969/announce
@@ -168,6 +169,7 @@ udp://chihaya.de:6969/announce
 udp://chucaiyun.cn:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
@@ -211,6 +213,7 @@ udp://tc.animereactor.ru:8082/announce
 udp://thetribunes.xyz:6969/announce
 udp://torrent.gresille.org:80/announce
 udp://tr1.jilangyy.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-v6.zooki.xyz:6969/announce
 udp://tracker.0o.is:6969/announce
 udp://tracker.3304399.com:6969/announce
@@ -225,6 +228,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -270,6 +274,7 @@ udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://trackerxyz.tk:1337/announce
+udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
