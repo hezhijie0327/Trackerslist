@@ -28,9 +28,7 @@ http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.careland.com.cn:6969/announce
-http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
-http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.ktkj.com:8080/announce
 http://bt.okmp3.ru:2710/announce
@@ -47,7 +45,7 @@ http://bt1.the9.com:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
-http://bt2.edwardk.info:4040/announce
+http://bt2.edwardk.info:6969/announce
 http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://bttrack.9you.com:8080/announce
@@ -157,7 +155,6 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
-http://torrent.ubuntu.com:6969/announce
 http://torrentclub.tech:6969/announce
 http://torrents-nn.cn:2710/announce
 http://torrentsmd.com:8080/announce
@@ -296,6 +293,7 @@ http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.dler.org:6969/announce
 http://tracker4.itzmx.com:2710/announce
+http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://trun.tom.ru:80/announce
@@ -307,7 +305,6 @@ http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.blackcats-games.net:2228/announce
 http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
@@ -591,7 +588,6 @@ udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darli.net:5181/announce
