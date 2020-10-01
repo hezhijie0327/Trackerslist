@@ -112,6 +112,7 @@ http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.i2p.rocks:6969/announce
+http://opentracker.xyz:80/announce
 http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
