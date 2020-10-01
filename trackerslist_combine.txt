@@ -393,6 +393,7 @@ https://w.wwwww.wtf:443/announce
 udp://10.rarbg.me:80/announce
 udp://12.rarbg.me:80/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
+udp://3rt.tace.ru:60889/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://61626c.net:6969/announce
