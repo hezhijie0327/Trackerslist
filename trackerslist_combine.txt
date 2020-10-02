@@ -3,6 +3,7 @@ http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
+http://5rt.tace.ru:60889/announce
 http://9.rarbg.com:2710/announce
 http://aaa.army:8866/announce
 http://agusiq-torrents.pl:6969/announce
@@ -394,6 +395,7 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://2rt.tace.ru:60889/announce
 udp://3rt.tace.ru:60889/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
