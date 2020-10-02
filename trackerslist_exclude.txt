@@ -124,7 +124,6 @@ http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xku.tv:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker1.xku.tv:6969/announce
@@ -147,7 +146,6 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru:80/announce
-https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -167,6 +165,9 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 udp://3rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
+udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2800/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -254,7 +255,6 @@ udp://tracker.e-utp.net:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.felfoldi.net:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.filepit.to:6969/announce
 udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fixr.pro:6969/announce
@@ -274,7 +274,6 @@ udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.port443.xyz:6969/announce
@@ -300,7 +299,6 @@ udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://trackerxyz.tk:1337/announce
-udp://tsundere.pw:6969/announce
 udp://tw.opentracker.ga:36920/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
