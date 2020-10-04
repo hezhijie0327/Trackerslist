@@ -30,7 +30,6 @@ http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
-http://cx42light.cn:39652/announce
 http://denis.stalker.upeer.me:6969/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
@@ -148,6 +147,7 @@ http://tracker.luyixia.com:2710/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -198,7 +198,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://explodie.org:6969/announce
 https://grifon.info:80/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.xyz:443/announce
 https://publictracker.pp.ua:443/announce
@@ -260,7 +259,6 @@ udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
 udp://bioquantum.co.za:6969/announce
 udp://bitsparadise.info:6969/announce
-udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 udp://bt.delbertbeta.cc:19943/announce
@@ -380,6 +378,7 @@ udp://tracker.cangku.in:52515/announce
 udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -402,6 +401,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.piratepublic.com:1337/announce
@@ -420,6 +420,7 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.xelion.fr:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
