@@ -144,7 +144,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://gwp2-v19.rinet.ru:80/announce
-https://open.kickasstracker.com:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -166,9 +165,6 @@ udp://2rt.tace.ru:60889/announce
 udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2800/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -249,6 +245,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -290,6 +287,7 @@ udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xku.tv:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker1.xku.tv:6969/announce
