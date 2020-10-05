@@ -74,6 +74,7 @@ http://genesis.1337x.org:1337/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
+http://hdreactor.org:2710/announce
 http://highteahop.top:6960/announce
 http://inferno.demonoid.ooo:3395/announce
 http://inferno.demonoid.ooo:3410/announce
@@ -279,6 +280,7 @@ http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
+http://tracker.tordb.ml:6881/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentleech.org:2710/announce
 http://tracker.torrentyorg.pl:80/announce
