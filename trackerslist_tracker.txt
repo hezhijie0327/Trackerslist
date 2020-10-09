@@ -74,6 +74,8 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -385,7 +387,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.piratepublic.com:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
@@ -400,7 +401,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.xelion.fr:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce

@@ -45,8 +45,6 @@ http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
-http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -157,6 +155,7 @@ https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
+https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
 https://tracker.anirena.com:80/announce
 https://tracker.coalition.space:443/announce
@@ -289,6 +288,7 @@ udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
@@ -306,6 +306,7 @@ udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xku.tv:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker123.cn:8080/announce
