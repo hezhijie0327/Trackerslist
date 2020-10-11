@@ -35,7 +35,6 @@ http://ipv6.tracker.harry.lu:80/announce
 http://magic.felfoldi.net:6969/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
-http://mixfiend.com:6969/announce
 http://nbz.f3322.net:36006/announce
 http://node.611.to:9000/announce
 http://nyaatorrents.info:3277/announce
@@ -79,7 +78,6 @@ http://tracker.anirena.com:81/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.birkenwald.de:6969/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
@@ -122,7 +120,6 @@ http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tordb.ml:6881/announce
 http://tracker.torrent.to:2710/announce
-http://tracker.torrentyorg.pl:80/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.vivancos.eu:80/announce
@@ -194,6 +191,7 @@ udp://bubu.mapfactor.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://chihaya.de:6969/announce
 udp://chucaiyun.cn:6969/announce
+udp://coppersurfer.tk:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://exodus.desync.com:6969/announce

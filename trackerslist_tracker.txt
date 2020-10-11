@@ -53,6 +53,7 @@ http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://mail2.zelenaya.net:80/announce
 http://mirror.aptus.co.tz:6969/announce
+http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://netwarer.xyz:6960/announce
@@ -115,6 +116,7 @@ http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cangku.in:52515/announce
@@ -157,6 +159,7 @@ http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
+http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
@@ -271,7 +274,6 @@ udp://chihaya.toss.li:9696/announce
 udp://code2chicken.nl:6969/announce
 udp://concen.org:6969/announce
 udp://contra.sf.ca.us:6969/announce
-udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
 udp://cyteam.ru:6969/announce
