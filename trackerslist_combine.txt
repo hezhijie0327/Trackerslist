@@ -480,6 +480,7 @@ udp://discord.heihachi.pw:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
 udp://dunkelhost.de:6969/announce
+udp://ec2-15-161-63-165.eu-south-1.compute.amazonaws.com:6969/announce
 udp://eddie4.nl:6969/announce
 udp://edenbridge.org.uk:6969/announce
 udp://edu.uifr.ru:6969/announce
