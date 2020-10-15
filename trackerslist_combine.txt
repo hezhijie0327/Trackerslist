@@ -451,7 +451,6 @@ udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
 udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
-udp://bt.oiyo.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
