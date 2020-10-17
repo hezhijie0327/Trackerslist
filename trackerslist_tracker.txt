@@ -158,6 +158,7 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
 http://tracker.ygsub.com:6969/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.itzmx.com:8080/announce
@@ -224,10 +225,11 @@ udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2720/announce
+udp://9.rarbg.com:2770/announce
+udp://9.rarbg.com:2780/announce
+udp://9.rarbg.com:2790/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2800/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2740/announce
@@ -415,7 +417,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
