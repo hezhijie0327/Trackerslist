@@ -1,4 +1,5 @@
 http://00.mercax.com:443/announce
+http://0123456789nonexistent.com:80/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://bandari.org:6969/announce
@@ -58,6 +59,7 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.telecom.by:80/announce
+http://server0001.duckdns.org:443/announce
 http://share.camecn:8080/announce
 http://shareservi.xyz:6960/announce
 http://spoof.tokyotosho.info:1234/announce
@@ -172,9 +174,6 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2800/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -224,6 +223,7 @@ udp://opentracker.sktorrent.org:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
+udp://peerfect.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:2710/announce
@@ -298,7 +298,6 @@ udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xku.tv:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker123.cn:8080/announce
