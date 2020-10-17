@@ -1,5 +1,4 @@
 http://00.mercax.com:443/announce
-http://0123456789nonexistent.com:80/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://bandari.org:6969/announce
@@ -71,6 +70,7 @@ http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrentsmd.me:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.36dm.com:2710/announce
 http://tracker.acg.gg:1578/announce
 http://tracker.acg.gg:2710/announce
@@ -129,6 +129,7 @@ http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xfsub.com:9999/announce
 http://tracker.xku.tv:6969/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker1.xku.tv:6969/announce
@@ -223,7 +224,6 @@ udp://opentracker.sktorrent.org:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
-udp://peerfect.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:2710/announce
