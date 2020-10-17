@@ -1,4 +1,5 @@
 http://00.mercax.com:443/announce
+http://0d.kebhana.mx:443/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://bandari.org:6969/announce
@@ -57,6 +58,7 @@ http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
+http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://server0001.duckdns.org:443/announce
 http://share.camecn:8080/announce
@@ -80,6 +82,7 @@ http://tracker.animeun.com:6969/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.birkenwald.de:6969/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
@@ -91,6 +94,7 @@ http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.edoardocolombo.eu:6969/announce
 http://tracker.ex.ua:80/announce
+http://tracker.filemail.com:6969/announce
 http://tracker.filepit.to:6969/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
@@ -109,11 +113,9 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -129,13 +131,13 @@ http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xfsub.com:9999/announce
 http://tracker.xku.tv:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker1.xku.tv:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker4.emce.org:12345/announce
+http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
@@ -150,7 +152,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://grifon.info:80/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -166,7 +167,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
@@ -175,12 +175,16 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2790/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
 udp://asger.xyz:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
+udp://bittracker.ru:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.dy20188.com:80/announce
@@ -284,7 +288,6 @@ udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.port443.xyz:6969/announce
@@ -310,6 +313,7 @@ udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
 udp://wambo.club:1337/announce
+udp://wood.goandplay.fun:25824/announce
 udp://z.mercax.com:53/announce
 ws://tracker.btsync.cf:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
