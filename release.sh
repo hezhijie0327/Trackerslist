@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.2
+# Current Version: 1.3.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && chmod 0777 ./Trackerslist/release.sh && bash ./Trackerslist/release.sh
@@ -32,7 +32,6 @@ function GetData() {
         "https://tinytorrent.net/best-torrent-tracker-list-updated/"
         "https://torrents.io/torrent-tracker-list/?download=latest"
         "https://zooqle.com/api/json_trackers.php?txt=1&limit=65536"
-        "https://techspree.net/torrent-tracker-list-updated/"
     )
     trackerlist_http=(
         "https://newtrackon.com/api/http"
