@@ -1,4 +1,3 @@
-http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
@@ -223,6 +222,7 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -235,6 +235,11 @@ udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2720/announce
+udp://9.rarbg.com:2770/announce
+udp://9.rarbg.com:2780/announce
+udp://9.rarbg.com:2790/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
@@ -333,7 +338,6 @@ udp://packages.crunchbangplusplus.org:6969/announce
 udp://peerfect.org:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
-udp://pubt.in:2710/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.local.msn-net.ru:6969/announce
@@ -373,7 +377,6 @@ udp://tracker.cangku.in:52515/announce
 udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -428,7 +431,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
