@@ -1,5 +1,4 @@
 http://00.mercax.com:443/announce
-http://0123456789nonexistent.com:80/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://alpha.torrenttracker.nl:443/announce
@@ -60,7 +59,6 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.telecom.by:80/announce
-http://server0001.duckdns.org:443/announce
 http://share.camecn:8080/announce
 http://shareservi.xyz:6960/announce
 http://spoof.tokyotosho.info:1234/announce
@@ -86,14 +84,12 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.com:2710/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.edoardocolombo.eu:6969/announce
-http://tracker.electro-torrent.pl:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filepit.to:6969/announce
 http://tracker.filetracker.pl:8089/announce
@@ -168,6 +164,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
