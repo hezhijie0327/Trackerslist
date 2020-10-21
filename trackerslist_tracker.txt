@@ -194,6 +194,7 @@ http://www.yqzuji.com:80/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://explodie.org:6969/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -216,6 +217,7 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
