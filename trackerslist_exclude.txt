@@ -51,6 +51,7 @@ http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.xyz:80/announce
+http://potuk.com:2710/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -62,7 +63,6 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.telecom.by:80/announce
-http://server0001.duckdns.org:443/announce
 http://share.camecn:8080/announce
 http://shareservi.xyz:6960/announce
 http://spoof.tokyotosho.info:1234/announce
@@ -98,6 +98,7 @@ http://tracker.dutchtracking.com:80/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.edoardocolombo.eu:6969/announce
 http://tracker.ex.ua:80/announce
+http://tracker.filemail.com:6969/announce
 http://tracker.filepit.to:6969/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
@@ -114,11 +115,9 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -183,9 +182,6 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2800/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -210,7 +206,6 @@ udp://f68.n5022.z2.binkp.net:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://git.vulnix.sh:6969/announce
-udp://glotorrents.com:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://hk1.opentracker.ga:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -295,7 +290,6 @@ udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.port443.xyz:6969/announce
