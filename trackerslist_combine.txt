@@ -298,6 +298,7 @@ http://www.skyts.net:6969/announce
 http://www.thegeeks.bz:3210/announce
 http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
+http://www.yqzuji.com:80/announce
 http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
 https://1.atrack.114913.xyz:443/announce
@@ -316,6 +317,9 @@ https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
 https://t.quic.ws:443/announce
+https://t1.leech.ie:443/announce
+https://t2.leech.ie:443/announce
+https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
