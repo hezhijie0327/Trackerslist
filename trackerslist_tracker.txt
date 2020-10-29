@@ -28,7 +28,6 @@ http://bt2.54new.com:8080/announce
 http://bttrack.9you.com:8080/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
-http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://cx42light.cn:39652/announce
 http://denis.stalker.upeer.me:6969/announce
@@ -140,7 +139,6 @@ http://tracker.luyixia.com:2710/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -188,7 +186,6 @@ http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce

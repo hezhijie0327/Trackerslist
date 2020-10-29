@@ -26,6 +26,7 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
+http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
 http://deviloid.net:6969/announce
@@ -112,6 +113,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
@@ -153,6 +155,7 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
