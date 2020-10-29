@@ -52,6 +52,7 @@ http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.xyz:80/announce
+http://private.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -63,6 +64,7 @@ http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.telecom.by:80/announce
 http://rutracker.ohys.net:80/announce
+http://server0001.duckdns.org:443/announce
 http://share.camecn:8080/announce
 http://shareservi.xyz:6960/announce
 http://spoof.tokyotosho.info:1234/announce
@@ -116,7 +118,6 @@ http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -154,7 +155,6 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -204,8 +204,6 @@ udp://f68.n5022.z2.binkp.net:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://git.vulnix.sh:6969/announce
-udp://glotorrents.com:6969/announce
-udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://hk1.opentracker.ga:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -218,7 +216,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
 udp://josueunhuit.com:6969/announce
 udp://mage23.schminkparadies.ch:6969/announce
-udp://mail.moneysfast.com:6969/announce
 udp://mgtracker.org:2710/announce
 udp://mgtracker.org:6969/announce
 udp://mts.tvbit.co:6969/announce
@@ -272,7 +269,6 @@ udp://tracker.filepit.to:6969/announce
 udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fixr.pro:6969/announce
 udp://tracker.freddit.nl:6969/announce
-udp://tracker.glotorrents.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:80/announce
@@ -284,13 +280,13 @@ udp://tracker.kiwifarms.net:8000/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
+udp://tracker.monitorit4.me:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
@@ -311,7 +307,6 @@ udp://tracker123.cn:8080/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker4.piratux.com:6969/announce
-udp://tsundere.pw:6969/announce
 udp://tw.opentracker.ga:36920/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
