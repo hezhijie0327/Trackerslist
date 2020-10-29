@@ -1,5 +1,4 @@
 http://00.mercax.com:443/announce
-http://0123456789nonexistent.com:80/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://alpha.torrenttracker.nl:443/announce
@@ -116,6 +115,7 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -169,6 +169,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
@@ -287,6 +288,7 @@ udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce

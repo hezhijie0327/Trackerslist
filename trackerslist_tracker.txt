@@ -1,3 +1,4 @@
+http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
@@ -143,7 +144,6 @@ http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -211,7 +211,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
@@ -387,7 +386,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.piratepublic.com:1337/announce
