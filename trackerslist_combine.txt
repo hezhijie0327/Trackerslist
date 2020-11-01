@@ -517,6 +517,7 @@ udp://ln.mtahost.co:6969/announce
 udp://mage23.schminkparadies.ch:6969/announce
 udp://mail.moneysfast.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mgtracker.org:2710/announce
 udp://mgtracker.org:6969/announce
 udp://movies.zsw.ca:6969/announce

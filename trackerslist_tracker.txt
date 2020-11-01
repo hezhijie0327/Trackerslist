@@ -71,7 +71,6 @@ http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -140,10 +139,10 @@ http://tracker.luyixia.com:2710/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -185,6 +184,7 @@ http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -304,6 +304,7 @@ udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.moneysfast.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://movies.zsw.ca:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://newtoncity.org:6969/announce
@@ -384,7 +385,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.piratepublic.com:1337/announce
@@ -403,6 +403,7 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.xelion.fr:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
@@ -418,6 +419,7 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
+udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
