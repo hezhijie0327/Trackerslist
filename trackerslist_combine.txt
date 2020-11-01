@@ -416,6 +416,7 @@ udp://anidex.moe:6969/announce
 udp://anime.dayman.online:6969/announce
 udp://anonseed.com:6969/announce
 udp://api.bitumconference.ru:6969/announce
+udp://app.icon256.com:8000/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://asger.xyz:6969/announce
 udp://bclearning.top:6969/announce
@@ -500,6 +501,7 @@ udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
+udp://johnrosen1.com:6969/announce
 udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
