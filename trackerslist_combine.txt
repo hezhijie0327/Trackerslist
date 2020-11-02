@@ -464,6 +464,7 @@ udp://chanchan.uchuu.co.uk:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://chucaiyun.cn:6969/announce
+udp://cloud.matsurifubuki.xyz:8826/announce
 udp://code2chicken.nl:6969/announce
 udp://concen.org:6969/announce
 udp://contra.sf.ca.us:6969/announce
