@@ -29,7 +29,6 @@ http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
-http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://cx42light.cn:39652/announce
 http://denis.stalker.upeer.me:6969/announce
@@ -154,6 +153,7 @@ http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
 http://tracker.xdvdz.com:2710/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -221,11 +221,6 @@ udp://9.rarbg.com:2710/announce
 udp://9.rarbg.com:2720/announce
 udp://9.rarbg.com:2770/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2720/announce
-udp://9.rarbg.me:2730/announce
-udp://9.rarbg.me:2740/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce
 udp://9.rarbg.to:2730/announce
