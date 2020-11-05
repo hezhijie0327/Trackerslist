@@ -30,6 +30,7 @@ http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
+http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
@@ -71,7 +72,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
@@ -151,7 +151,6 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrentleech.org:2710/announce
-http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
@@ -377,6 +376,7 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cangku.in:52515/announce
 udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -396,6 +396,7 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce
