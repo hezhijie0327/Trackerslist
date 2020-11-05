@@ -1,6 +1,7 @@
 http://00.mercax.com:443/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
+http://agusiq-torrents.pl:6969/announce
 http://alpha.torrenttracker.nl:443/announce
 http://bandari.org:6969/announce
 http://beautifull.top:6960/announce
@@ -95,6 +96,7 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.lelux.fi:80/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -105,7 +107,6 @@ http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -120,7 +121,6 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.ygsub.com:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
@@ -157,7 +157,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
@@ -166,6 +165,11 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
+udp://9.rarbg.me:2720/announce
+udp://9.rarbg.me:2730/announce
+udp://9.rarbg.me:2740/announce
+udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2780/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://allesanddro.de:1337/announce
@@ -244,7 +248,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -283,6 +286,7 @@ udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xku.tv:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.christianbro.pw:6969/announce
