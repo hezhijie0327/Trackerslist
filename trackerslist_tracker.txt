@@ -1,3 +1,4 @@
+http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
@@ -24,6 +25,7 @@ http://bt2.54new.com:8080/announce
 http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
+http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
@@ -43,7 +45,6 @@ http://inferno.demonoid.ooo:3416/announce
 http://inferno.demonoid.ooo:3418/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://jabber.esiliati.org:6969/announce
-http://jsb.by:8000/announce
 http://mail2.zelenaya.net:80/announce
 http://mirror.aptus.co.tz:6969/announce
 http://music-torrent.net:2710/announce
@@ -131,10 +132,10 @@ http://tracker.luyixia.com:2710/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.sloppyta.co:80/announce
@@ -201,7 +202,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
@@ -366,7 +366,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cangku.in:52515/announce
 udp://tracker.cloudfactory.org:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
@@ -386,7 +385,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce
@@ -436,7 +434,6 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
-ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
