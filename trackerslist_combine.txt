@@ -375,7 +375,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 https://tracker.imgoingto.icu:443/announce
-https://tracker.jae.moe:443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.magnetoo.io:443/announce
@@ -420,6 +419,7 @@ udp://9.rarbg.me:2740/announce
 udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.me:2800/announce
+udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce
 udp://9.rarbg.to:2730/announce
@@ -428,6 +428,7 @@ udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2780/announce
 udp://9.rarbg.to:2790/announce
 udp://9.rarbg.to:2800/announce
+udp://9.rarbg.to:2820/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://adm.category5.tv:6969/announce
