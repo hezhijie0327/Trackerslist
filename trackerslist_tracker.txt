@@ -68,7 +68,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -105,9 +104,6 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker.aletorrenty.pl:2710/announce
-http://tracker.anirena.com:6969/announce
-http://tracker.anirena.com:80/announce
-http://tracker.anirena.com:81/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
 http://tracker.bittor.pw:1337/announce
@@ -115,7 +111,6 @@ http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cangku.in:52515/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -193,7 +188,6 @@ https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce
 https://tr.steins-gate.moe:2096/announce
-https://tracker.anirena.com:80/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.cyber-hub.net:443/announce
@@ -314,7 +308,6 @@ udp://kpax.net:6969/announce
 udp://letting.cf:26327/announce
 udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
-udp://mail.moneysfast.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://matsurifubuki.xyz:8826/announce
 udp://movies.zsw.ca:6969/announce
@@ -328,7 +321,6 @@ udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -375,8 +367,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cangku.in:52515/announce
 udp://tracker.cloudfactory.org:6969/announce
-udp://tracker.dler.org:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
