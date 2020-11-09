@@ -114,7 +114,6 @@ http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cangku.in:52515/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -202,6 +201,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 https://tracker.imgoingto.icu:443/announce
+https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.magnetoo.io:443/announce
 https://tracker.nitrix.me:443/announce

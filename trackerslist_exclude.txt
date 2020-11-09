@@ -91,6 +91,7 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.com:2710/announce
 http://tracker.dmcomic.org:2710/announce
@@ -166,7 +167,6 @@ https://tk.mabo.ltd:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.ecdn.icu:8443/announce
 https://tracker.fastdownload.xyz:443/announce
-https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
