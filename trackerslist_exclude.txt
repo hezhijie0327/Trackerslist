@@ -22,7 +22,6 @@ http://bt.wiiyi.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
-http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
@@ -238,7 +237,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
@@ -255,6 +253,7 @@ udp://tracker.justseed.it:1337/announce
 udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kiwifarms.net:8000/announce
 udp://tracker.kuroy.me:5944/announce
+udp://tracker.lelux.fi:6969/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce

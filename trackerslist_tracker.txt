@@ -28,6 +28,7 @@ http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
+http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
@@ -351,6 +352,7 @@ udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -363,7 +365,6 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kamigami.org:2710/announce
 udp://tracker.leechers-paradise.org:6969/announce
-udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.openbittorrent.com:80/announce
