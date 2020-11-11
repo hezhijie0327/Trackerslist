@@ -249,6 +249,7 @@ http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.shittyurl.org:80/announce
+http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
@@ -343,6 +344,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 https://tracker.imgoingto.icu:443/announce
+https://tracker.jae.moe:443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.magnetoo.io:443/announce

@@ -68,6 +68,7 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
+http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
@@ -112,7 +113,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -129,6 +129,7 @@ http://tracker.kamigami.org:2710/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
 http://tracker.leechers-paradise.org:6969/announce
+http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
@@ -296,7 +297,6 @@ udp://koli.services:6969/announce
 udp://kpax.net:6969/announce
 udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
-udp://mail.moneysfast.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://matsurifubuki.xyz:8826/announce
 udp://movies.zsw.ca:6969/announce
@@ -350,7 +350,6 @@ udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
