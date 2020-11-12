@@ -26,6 +26,7 @@ http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
+http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
@@ -61,6 +62,7 @@ http://open.lolicon.eu:7777/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.i2p.rocks:6969/announce
+http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
@@ -108,7 +110,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -303,6 +304,7 @@ udp://opentor.org:2710/announce
 udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentrackr.org:1337/announce
+udp://p4p.arenabg.com:1337/announce
 udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
@@ -401,7 +403,6 @@ ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
-wss://tracker.lab.vvc.niif.hu:443/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce

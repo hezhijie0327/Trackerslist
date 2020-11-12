@@ -22,7 +22,6 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
-http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
@@ -47,7 +46,6 @@ http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.xyz:80/announce
 http://p4p.arenabg.ch:1337/announce
-http://p4p.arenabg.com:1337/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -78,6 +76,7 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
@@ -196,7 +195,6 @@ udp://npserver.intranet.pw:4201/announce
 udp://open.demonii.si:1337/announce
 udp://open.nyap2p.com:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
-udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
