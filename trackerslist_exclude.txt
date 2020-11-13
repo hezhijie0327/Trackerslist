@@ -14,21 +14,18 @@ http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:6969/announce
 http://bt.henbt.com:2710/announce
-http://bt.popgo.net:7456/announce
 http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
-http://bt.wiiyi.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
+http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
-http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
 http://fxtt.ru:80/announce
-http://genesis.1337x.org:1337/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://highteahop.top:6960/announce
@@ -39,8 +36,6 @@ http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://nbz.f3322.net:36006/announce
 http://node.611.to:9000/announce
-http://nyaatorrents.info:3277/announce
-http://nyaatorrents.info:7266/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
@@ -67,7 +62,6 @@ http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
 http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
-http://torrent-download.to:5869/announce
 http://torrent.nwps.ws:80/announce
 http://torrentsmd.me:8080/announce
 http://tracker.ali213.net:8000/announce
@@ -79,7 +73,6 @@ http://tracker.calculate.ru:6969/announce
 http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.edoardocolombo.eu:6969/announce
@@ -92,6 +85,7 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.lelux.fi:80/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -108,7 +102,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tordb.ml:6881/announce
-http://tracker.torrent.to:2710/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.xfsub.com:6868/announce
@@ -159,8 +152,8 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://9.rarbg.to:2730/announce
-udp://9.rarbg.to:2820/announce
+udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2980/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://anime.dayman.online:6969/announce
