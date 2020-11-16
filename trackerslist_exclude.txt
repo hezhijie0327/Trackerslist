@@ -5,7 +5,6 @@ http://bandari.org:6969/announce
 http://beautifull.top:6960/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
@@ -89,6 +88,7 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.lelux.fi:80/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -145,7 +145,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -251,7 +250,6 @@ udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -260,7 +258,6 @@ udp://tracker.supertracker.net:1337/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker123.cn:8080/announce
