@@ -234,6 +234,7 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.funfile.org:2710/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
+http://tracker.gigateam.net:6969/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
