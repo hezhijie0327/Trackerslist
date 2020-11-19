@@ -60,7 +60,6 @@ http://nibba.trade:1337/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
-http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
 http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
@@ -126,6 +125,7 @@ http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cangku.in:52515/announce
 http://tracker.city9x.com:2710/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -153,6 +153,7 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -407,7 +408,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce
