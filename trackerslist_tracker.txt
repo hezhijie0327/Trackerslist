@@ -24,7 +24,6 @@ http://bt2.54new.com:8080/announce
 http://btracker.top:11451/announce
 http://bttracker.debian.org:6969/announce
 http://carapax.net:6969/announce
-http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
@@ -156,6 +155,7 @@ http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.uw0.xyz:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -234,6 +234,14 @@ udp://9.rarbg.me:2780/announce
 udp://9.rarbg.me:2800/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2720/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2780/announce
+udp://9.rarbg.to:2790/announce
+udp://9.rarbg.to:2800/announce
+udp://9.rarbg.to:2820/announce
 udp://adm.category5.tv:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://adminion.n-blade.ru:6969/announce
@@ -368,6 +376,7 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cangku.in:52515/announce
 udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -420,7 +429,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
