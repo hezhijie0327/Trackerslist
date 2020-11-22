@@ -13,6 +13,7 @@ http://alpha.torrenttracker.nl:443/announce
 http://amigacity.xyz:6969/announce
 http://anidex.moe:6969/announce
 http://ankeschwarz.net:6969/announce
+http://announce.torrentsmd.com:6969/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
@@ -29,6 +30,7 @@ http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.btvery.com:2710/announce
+http://bt.careland.com.cn:6969/announce
 http://bt.cnscg.com:6969/announce
 http://bt.cnscg.org:6969/announce
 http://bt.edwardk.info:4040/announce
@@ -245,6 +247,7 @@ http://tracker.ktxp.com:7070/announce
 http://tracker.ktxp.org:6868/announce
 http://tracker.ktxp.org:7070/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
 http://tracker.luyixia.com:2710/announce
@@ -338,7 +341,6 @@ http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
 https://1.atrack.114913.xyz:443/announce
 https://1337.abcvg.info:443/announce
-https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
