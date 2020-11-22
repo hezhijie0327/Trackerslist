@@ -754,6 +754,7 @@ udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://tw.opentracker.ga:36920/announce
 udp://u.wwwww.wtf:1/announce
+udp://udp-tracker.shittyurl.org:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://ultra.zt.ua:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
