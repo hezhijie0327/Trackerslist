@@ -128,6 +128,7 @@ http://tracker.gigatorrent.xyz:6969/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
+http://tracker.itservicekoeberl.de:32769/announce
 http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.ktxp.com:6868/announce
@@ -179,7 +180,6 @@ http://www.skyts.net:6969/announce
 http://www.thegeeks.bz:3210/announce
 http://www.theplace.bz:2910/announce
 http://www.tvnihon.com:6969/announce
-http://www.yqzuji.com:80/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://explodie.org:6969/announce
@@ -219,13 +219,9 @@ udp://12.rarbg.me:80/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2720/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2720/announce
-udp://9.rarbg.me:2730/announce
-udp://9.rarbg.me:2740/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce
 udp://9.rarbg.to:2730/announce
@@ -362,6 +358,7 @@ udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -374,6 +371,7 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kamigami.org:2710/announce
 udp://tracker.leechers-paradise.org:6969/announce
+udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -405,7 +403,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
