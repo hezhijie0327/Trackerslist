@@ -141,6 +141,7 @@ http://rutracker.ohys.net:80/announce
 http://sandrotracker.biz:1337/announce
 http://secure.pow7.com:80/announce
 http://server0001.duckdns.org:443/announce
+http://share.camecn:8080/announce
 http://share.camoe.cn:8080/announce
 http://shareservi.xyz:6960/announce
 http://sub4all.org:2710/announce
