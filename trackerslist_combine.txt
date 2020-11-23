@@ -308,7 +308,6 @@ http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
 http://x17.hexapi.xyz:2610/announce
 http://zip.files.fm:6969/announce
-https://1.atrack.114913.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
