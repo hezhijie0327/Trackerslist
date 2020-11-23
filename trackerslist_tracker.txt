@@ -62,6 +62,7 @@ http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
 http://omg.wtftrackr.xyz:80/announce
 http://open.lolicon.eu:7777/announce
+http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.i2p.rocks:6969/announce
@@ -115,7 +116,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -217,8 +217,6 @@ udp://12.rarbg.me:80/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://9.rarbg.com:2710/announce
-udp://9.rarbg.com:2720/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -361,6 +359,7 @@ udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -394,6 +393,7 @@ udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zooki.xyz:6969/announce
