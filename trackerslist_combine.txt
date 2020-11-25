@@ -438,7 +438,6 @@ udp://chanchan.uchuu.co.uk:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://chucaiyun.cn:6969/announce
-udp://cloud.matsurifubuki.xyz:8826/announce
 udp://code2chicken.nl:6969/announce
 udp://concen.org:6969/announce
 udp://contra.sf.ca.us:6969/announce
@@ -480,7 +479,6 @@ udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.leechers-paradise.org:6969/announce
 udp://ipv6.mercax.com:53/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
@@ -702,6 +700,7 @@ udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
+ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://ltrackr.iamhansen.xyz:443/announce
