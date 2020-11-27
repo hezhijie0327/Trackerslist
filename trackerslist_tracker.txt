@@ -3,6 +3,7 @@ http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
 http://acg.rip:6699/announce
 http://agusiq-torrents.pl:6969/announce
+http://aliasgos.top:6960/announce
 http://amigacity.xyz:6969/announce
 http://anidex.moe:6969/announce
 http://ankeschwarz.net:6969/announce
@@ -10,6 +11,7 @@ http://announce.torrentsmd.com:6969/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
+http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.firebit.org:2710/announce
@@ -22,7 +24,6 @@ http://bt2.54new.com:8080/announce
 http://btracker.top:11451/announce
 http://bttracker.debian.org:6969/announce
 http://carapax.net:6969/announce
-http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
@@ -65,7 +66,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -129,9 +129,11 @@ http://tracker.lelux.fi:80/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.sloppyta.co:80/announce
@@ -177,6 +179,7 @@ https://1337.abcvg.info:443/announce
 https://explodie.org:6969/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
+https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
 https://publictracker.pp.ua:443/announce
 https://retracker.now.sh:443/announce
@@ -369,7 +372,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce

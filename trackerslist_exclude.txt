@@ -2,12 +2,10 @@ http://00.mercax.com:443/announce
 http://0123456789nonexistent.com:80/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
-http://aliasgos.top:6960/announce
 http://bandari.org:6969/announce
 http://beautifull.top:6960/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
@@ -25,6 +23,7 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://btfile.sdo.com:6961/announce
 http://buny.uk:6969/announce
+http://check.ipredator.se:6969/announce
 http://codeaddress.top:6960/announce
 http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
@@ -43,6 +42,7 @@ http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.trackerlist.xyz:80/announce
+http://prestige.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -94,11 +94,9 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.skyts.cc:6969/announce
@@ -131,7 +129,6 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://gwp2-v19.rinet.ru:80/announce
-https://opentracker.co:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
 https://t1.leech.ie:443/announce
@@ -248,6 +245,7 @@ udp://tracker.nextrp.ru:6969/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.skynetcloud.site:6969/announce
