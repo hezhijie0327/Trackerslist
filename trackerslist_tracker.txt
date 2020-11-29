@@ -114,7 +114,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -207,6 +206,7 @@ https://tracker.magnetoo.io:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -320,6 +320,7 @@ udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -360,7 +361,7 @@ udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.ds.is:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -374,6 +375,7 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce
@@ -391,7 +393,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zooki.xyz:6969/announce
