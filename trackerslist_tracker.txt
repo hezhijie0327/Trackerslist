@@ -26,6 +26,7 @@ http://btracker.top:11451/announce
 http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
 http://carapax.net:6969/announce
+http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
 http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
@@ -109,7 +110,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -150,7 +150,6 @@ http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xelion.fr:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -160,7 +159,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
-http://tracker4.itzmx.com:6961/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps2.avc.cx:7171/announce
@@ -212,6 +210,8 @@ udp://12.rarbg.me:80/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2720/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -354,7 +354,6 @@ udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -364,7 +363,6 @@ udp://tracker.fortu.io:6969/announce
 udp://tracker.gbitt.info:80/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.kali.org:6969/announce
-udp://tracker.kamigami.org:2710/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
