@@ -429,6 +429,7 @@ udp://bt.dy20188.com:80/announce
 udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
+udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.3kb.xyz:6969/announce
@@ -449,6 +450,7 @@ udp://chucaiyun.cn:6969/announce
 udp://code2chicken.nl:6969/announce
 udp://concen.org:6969/announce
 udp://contra.sf.ca.us:6969/announce
+udp://coppersurfer.tk:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
@@ -640,6 +642,7 @@ udp://tracker.patatje.eu:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 udp://tracker.pomf.se:80/announce
+udp://tracker.prq.to:80/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
