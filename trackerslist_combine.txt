@@ -317,7 +317,6 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://explodie.org:6969/announce
-https://gwp2-v19.rinet.ru:80/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.co:443/announce
