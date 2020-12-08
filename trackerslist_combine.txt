@@ -775,5 +775,6 @@ wss://tracker.btorrent.xyz:443/announce
 wss://tracker.fastcast.nz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.lab.vvc.niif.hu:443/announce
+wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce
