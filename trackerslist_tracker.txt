@@ -1,4 +1,5 @@
 http://0205.uptm.ch:6969/announce
+http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
 http://9.rarbg.com:2710/announce
 http://acg.rip:6699/announce
@@ -10,7 +11,6 @@ http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
 http://beautifull.top:6960/announce
-http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.firebit.org:2710/announce
@@ -71,6 +71,8 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -227,6 +229,10 @@ udp://9.rarbg.com:2770/announce
 udp://9.rarbg.com:2780/announce
 udp://9.rarbg.com:2790/announce
 udp://9.rarbg.me:2710/announce
+udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2800/announce
+udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2740/announce
@@ -399,6 +405,7 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.xelion.fr:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zooki.xyz:6969/announce
