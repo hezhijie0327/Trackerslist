@@ -11,6 +11,7 @@ http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
 http://beautifull.top:6960/announce
+http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.okmp3.ru:2710/announce
@@ -43,6 +44,7 @@ http://inferno.demonoid.ooo:3410/announce
 http://inferno.demonoid.ooo:3412/announce
 http://inferno.demonoid.ooo:3416/announce
 http://inferno.demonoid.ooo:3418/announce
+http://inferno.demonoid.ph:3415/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://jabber.esiliati.org:6969/announce
 http://mail2.zelenaya.net:80/announce
@@ -87,6 +89,7 @@ http://t.nyaatracker.com:80/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
+http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.resonatingmedia.com:6969/announce
@@ -134,7 +137,6 @@ http://tracker.levelup.cn:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -255,6 +257,7 @@ udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
+udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -360,6 +363,7 @@ udp://tracker.archlinux.org.theoks.net:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -378,7 +382,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -397,7 +400,6 @@ udp://tracker.torrentbay.to:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zooki.xyz:6969/announce
