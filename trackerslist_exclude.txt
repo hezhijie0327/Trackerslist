@@ -7,7 +7,6 @@ http://alpha.torrenttracker.nl:443/announce
 http://bandari.org:6969/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
@@ -118,6 +117,7 @@ http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
@@ -170,7 +170,6 @@ https://tracker.fastdownload.xyz:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -229,7 +228,6 @@ udp://npge.nprotect.com:6969/announce
 udp://npserver.intranet.pw:4201/announce
 udp://open.nyaatorrents.info:6544/announce
 udp://open.nyap2p.com:6969/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://peerfect.org:6969/announce
