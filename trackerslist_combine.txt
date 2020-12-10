@@ -32,8 +32,8 @@ http://bt.btvery.com:2710/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.cnscg.com:6969/announce
 http://bt.cnscg.org:6969/announce
-http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:6969/announce
+http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.popgo.net:7456/announce
@@ -96,6 +96,7 @@ http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
+http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
@@ -104,7 +105,6 @@ http://newtoncity.org:6969/announce
 http://nibba.trade:1337/announce
 http://node.611.to:9000/announce
 http://novaopcj.icu:10325/announce
-http://npserver.intranet.pw:4201/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
@@ -161,15 +161,17 @@ http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
 http://t.wahaha.work:6699/announce
 http://t1.pow7.com:80/announce
-http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
+http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
+http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
+http://torrent.ubuntu.com:6969/announce
 http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
 http://torrents-nn.cn:2710/announce
@@ -189,7 +191,7 @@ http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.acgsou.com:2710/announce
 http://tracker.aletorrenty.pl:2710/announce
-http://tracker.ali213.net:8080/announce
+http://tracker.ali213.net:8000/announce
 http://tracker.animeun.com:6969/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
@@ -221,6 +223,7 @@ http://tracker.edoardocolombo.eu:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.etree.org:6969/announce
 http://tracker.ex.ua:80/announce
+http://tracker.fdn.fr:6969/announce
 http://tracker.filemail.com:6969/announce
 http://tracker.filepit.to:6969/announce
 http://tracker.files.fm:6969/announce
@@ -268,6 +271,7 @@ http://tracker.pussytorrents.org:3000/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
+http://tracker.shittyurl.org:80/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -276,7 +280,6 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
-http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.tordb.ml:6881/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentleech.org:2710/announce
@@ -289,6 +292,7 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.vraphim.com:6969/announce
+http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -355,6 +359,7 @@ https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
 https://t.quic.ws:443/announce
+https://t2.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
@@ -712,6 +717,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.thepornvilla.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.tntvillage.scambioetico.org:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentbay.to:6969/announce
 udp://tracker.trackton.ga:7070/announce
