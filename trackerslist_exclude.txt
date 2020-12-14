@@ -5,6 +5,7 @@ http://agusiq-torrents.pl:6969/announce
 http://bandari.org:6969/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
+http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
@@ -42,10 +43,8 @@ http://node.611.to:9000/announce
 http://novaopcj.icu:10325/announce
 http://npserver.intranet.pw:4201/announce
 http://ns349743.ip-91-121-106.eu:80/announce
-http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
-http://private.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
