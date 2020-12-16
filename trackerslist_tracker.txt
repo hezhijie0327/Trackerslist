@@ -70,6 +70,7 @@ http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
 http://omg.wtftrackr.pw:1337/announce
 http://omg.wtftrackr.xyz:80/announce
+http://open.acgnxtracker.com:80/announce
 http://open.lolicon.eu:7777/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.com:6869/announce
@@ -80,6 +81,8 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
+http://prestige.minimafia.nl:443/announce
+http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
@@ -158,7 +161,6 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -200,7 +202,6 @@ http://xbtrutor.com:2710/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://explodie.org:6969/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.xyz:443/announce
 https://publictracker.pp.ua:443/announce
@@ -227,7 +228,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -245,12 +245,6 @@ udp://9.rarbg.com:2770/announce
 udp://9.rarbg.com:2780/announce
 udp://9.rarbg.com:2790/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2720/announce
-udp://9.rarbg.me:2730/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2800/announce
-udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce
 udp://9.rarbg.to:2730/announce
@@ -277,6 +271,7 @@ udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 udp://bt.firebit.org:2710/announce
+udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.3kb.xyz:6969/announce
@@ -411,7 +406,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -444,7 +438,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
