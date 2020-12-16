@@ -28,6 +28,7 @@ http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
+http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.cnscg.com:6969/announce
@@ -96,6 +97,7 @@ http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
+http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
@@ -172,6 +174,8 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
+http://torrent.rus.ec:2710/announce
+http://torrent.ubuntu.com:6969/announce
 http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
 http://torrents-nn.cn:2710/announce
@@ -192,6 +196,7 @@ http://tracker.acgnx.se:80/announce
 http://tracker.acgsou.com:2710/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
+http://tracker.ali213.net:8080/announce
 http://tracker.animeun.com:6969/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
@@ -240,6 +245,7 @@ http://tracker.grepler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
+http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
@@ -291,6 +297,7 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.vraphim.com:6969/announce
+http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -337,6 +344,7 @@ http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
 http://x17.hexapi.xyz:2610/announce
+http://xbtrutor.com:2710/announce
 http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
@@ -574,6 +582,7 @@ udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.coltel.ru:2710/announce
@@ -631,6 +640,7 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce
 udp://tracker.cangku.in:52515/announce
 udp://tracker.casual.run:6969/announce
