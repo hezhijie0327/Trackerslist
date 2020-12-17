@@ -175,7 +175,6 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -194,6 +193,7 @@ http://www.acgsou.com:2710/announce
 http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
+http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
 http://www.skyts.net:6969/announce
 http://www.thegeeks.bz:3210/announce
@@ -321,6 +321,7 @@ udp://johnrosen1.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
+udp://koli.services:6969/announce
 udp://kpax.net:6969/announce
 udp://letting.cf:26327/announce
 udp://line-net.ru:6969/announce
@@ -340,6 +341,7 @@ udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -437,6 +439,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
