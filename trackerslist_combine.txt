@@ -12,7 +12,6 @@ http://aliasgos.top:6960/announce
 http://alpha.torrenttracker.nl:443/announce
 http://anidex.moe:6969/announce
 http://ankeschwarz.net:6969/announce
-http://announce.torrentsmd.com:6969/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
@@ -31,7 +30,6 @@ http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.btvery.com:2710/announce
-http://bt.careland.com.cn:6969/announce
 http://bt.cnscg.com:6969/announce
 http://bt.cnscg.org:6969/announce
 http://bt.edwardk.info:2710/announce
@@ -70,7 +68,6 @@ http://denis.stalker.h3q.com:6969/announce
 http://denis.stalker.upeer.me:6969/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
-http://eddie4.nl:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://fr33dom.h33t.com:3310/announce
@@ -155,8 +152,6 @@ http://rt.tace.ru:80/announce
 http://rutracker.ohys.net:80/announce
 http://secure.pow7.com:80/announce
 http://server0001.duckdns.org:443/announce
-http://shadowshq.eddie4.nl:6969/announce
-http://shadowshq.yi.org:6969/announce
 http://share.camecn:8080/announce
 http://share.camoe.cn:8080/announce
 http://shareservi.xyz:6960/announce
@@ -258,7 +253,6 @@ http://tracker.ktxp.com:7070/announce
 http://tracker.ktxp.org:6868/announce
 http://tracker.ktxp.org:7070/announce
 http://tracker.kuroy.me:5944/announce
-http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
 http://tracker.lintk.me:2710/announce
@@ -341,7 +335,6 @@ http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.acgsou.com:2710/announce
 http://www.blackcats-games.net:2228/announce
-http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
