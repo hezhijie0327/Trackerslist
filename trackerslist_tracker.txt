@@ -14,7 +14,6 @@ http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
 http://baibako.tv:80/announce
 http://beautifull.top:6960/announce
-http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.firebit.org:2710/announce
@@ -36,6 +35,7 @@ http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://explodie.org:6969/announce
 http://freerainbowtables.com:6969/announce
+http://funfile.org:2710/announce
 http://glotorrents.pw:80/announce
 http://grifon.info:80/announce
 http://h4.trakx.nibba.trade:80/announce
@@ -63,6 +63,7 @@ http://nibba.trade:1337/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
+http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
 http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
@@ -106,7 +107,6 @@ http://torrentclub.tech:6969/announce
 http://torrents-nn.cn:2710/announce
 http://torrentsmd.com:8080/announce
 http://torrentsmd.eu:8080/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
