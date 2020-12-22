@@ -5,7 +5,6 @@ http://aliasgos.top:6960/announce
 http://bandari.org:6969/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bobbialbano.com:6969/announce
 http://breakbttext.xyz:6960/announce
 http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
@@ -38,12 +37,14 @@ http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
+http://jsb.by:8000/announce
 http://magic.felfoldi.net:6969/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://nbz.f3322.net:36006/announce
 http://node.611.to:9000/announce
 http://npserver.intranet.pw:4201/announce
+http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
@@ -119,7 +120,6 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
@@ -228,7 +228,6 @@ udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
@@ -262,6 +261,7 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker01.loveapp.com:6789/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.indowebster.com:6969/announce
