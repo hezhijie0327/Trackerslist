@@ -40,7 +40,6 @@ http://ipv6-publictracker.zooki.xyz:6969/announce
 http://magic.felfoldi.net:6969/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
-http://mixfiend.com:6969/announce
 http://nbz.f3322.net:36006/announce
 http://node.611.to:9000/announce
 http://npserver.intranet.pw:4201/announce
@@ -48,6 +47,7 @@ http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
+http://prestige.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -55,7 +55,6 @@ http://retracker.bashtel.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.mgts.by:80/announce
-http://retracker.omsk.ru:2710/announce
 http://retracker.telecom.by:80/announce
 http://server0001.duckdns.org:443/announce
 http://shareservi.xyz:6960/announce
@@ -119,6 +118,7 @@ http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker6.emce.org:12345/announce
+http://tracker810.xyz:11450/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -126,7 +126,6 @@ http://www.h33t.com:3310/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
 http://x17.hexapi.xyz:2610/announce
-http://xbtrutor.com:2710/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
@@ -139,7 +138,6 @@ https://opentracker.co:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
-https://t.quic.ws:443/announce
 https://tk.mabo.ltd:443/announce
 https://tracker.ecdn.icu:8443/announce
 https://tracker.fastdownload.xyz:443/announce
@@ -232,7 +230,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
@@ -281,3 +278,4 @@ udp://wood.goandplay.fun:25824/announce
 udp://z.mercax.com:53/announce
 udp://zer0day.to:1337/announce
 ws://tracker.btsync.cf:6969/announce
+wss://tracker.novage.com.ua:443/announce
