@@ -10,7 +10,6 @@ http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
-http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.btvery.com:2710/announce
 http://bt.careland.com.cn:6969/announce
@@ -23,7 +22,6 @@ http://bt.sc-ol.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
 http://bt.wiiyi.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
-http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
@@ -47,6 +45,7 @@ http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
+http://prestige.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -158,6 +157,13 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
+udp://9.rarbg.to:2720/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2780/announce
+udp://9.rarbg.to:2800/announce
+udp://9.rarbg.to:2820/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://ali.delbertbeta.cc:4427/announce
@@ -263,7 +269,6 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
-udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce

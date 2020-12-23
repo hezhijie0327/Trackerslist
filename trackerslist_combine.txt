@@ -28,13 +28,11 @@ http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
-http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.btvery.com:2710/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:6969/announce
-http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.popgo.net:7456/announce
@@ -50,7 +48,6 @@ http://bt1.the9.com:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.careland.com.cn:6969/announce
-http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
@@ -250,7 +247,6 @@ http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
-http://tracker.shittyurl.org:80/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -259,6 +255,7 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
+http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.tordb.ml:6881/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentleech.org:2710/announce
@@ -302,7 +299,6 @@ http://vps2.avc.cx:7171/announce
 http://vpsgotrette.top:6961/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.bit-hdtv.com:2710/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
@@ -657,7 +653,6 @@ udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
-udp://tracker.tntvillage.scambioetico.org:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -705,7 +700,6 @@ udp://webmail.wookiespmc.com:6969/announce
 udp://wood.goandplay.fun:25824/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
-udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
