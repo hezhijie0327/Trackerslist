@@ -5,6 +5,7 @@ http://alpha.torrenttracker.nl:443/announce
 http://bandari.org:6969/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
+http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -109,11 +110,9 @@ http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -137,7 +136,6 @@ http://tracker1.xku.tv:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker4.emce.org:12345/announce
-http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://vps.tracker.eu.org:9000/announce
@@ -164,7 +162,6 @@ https://tracker.fastdownload.xyz:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
-https://tracker.publictorrent.net:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -192,7 +189,6 @@ udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://asger.xyz:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
@@ -247,6 +243,7 @@ udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce
 udp://tc.animereactor.ru:8082/announce
+udp://teamspeak.value-wolf.org:6969/announce
 udp://thetribunes.xyz:6969/announce
 udp://torrent.gresille.org:80/announce
 udp://torrent.tdjs.tech:6969/announce
@@ -292,7 +289,6 @@ udp://tracker.nextrp.ru:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.novg.net:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to:80/announce
