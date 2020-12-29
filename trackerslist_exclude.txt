@@ -3,7 +3,6 @@ http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -32,7 +31,6 @@ http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
 http://fxtt.ru:80/announce
-http://genesis.1337x.org:1337/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://magic.felfoldi.net:6969/announce
@@ -54,6 +52,7 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.telecom.by:80/announce
 http://rutracker.ohys.net:80/announce
+http://server0001.duckdns.org:443/announce
 http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
@@ -248,7 +247,7 @@ udp://tracker.supertracker.net:1337/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
-udp://tracker.zer0day.to:1337/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.christianbro.pw:6969/announce
@@ -264,6 +263,5 @@ udp://webmail.wookiespmc.com:6969/announce
 udp://wood.goandplay.fun:25824/announce
 udp://z.mercax.com:53/announce
 udp://zer0day.ch:1337/announce
-udp://zer0day.to:1337/announce
 ws://tracker.btsync.cf:6969/announce
 wss://tracker.novage.com.ua:443/announce
