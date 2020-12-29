@@ -4,6 +4,7 @@ http://aaa.army:8866/announce
 http://bandari.org:6969/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
+http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -44,6 +45,7 @@ http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
+http://open.touki.ru:80/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -54,6 +56,7 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.telecom.by:80/announce
 http://rutracker.ohys.net:80/announce
+http://server0001.duckdns.org:443/announce
 http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
@@ -109,13 +112,13 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.ygsub.com:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
+http://vpn.flying-datacenter.de:6969/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -251,7 +254,6 @@ udp://tracker.supertracker.net:1337/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker123.cn:8080/announce
@@ -259,7 +261,6 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
-udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
@@ -268,6 +269,7 @@ udp://wambo.club:1337/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://wood.goandplay.fun:25824/announce
 udp://z.mercax.com:53/announce
+udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
 ws://tracker.btsync.cf:6969/announce
 wss://tracker.novage.com.ua:443/announce
