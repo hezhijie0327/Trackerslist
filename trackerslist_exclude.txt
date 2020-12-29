@@ -151,19 +151,6 @@ udp://3rt.tace.ru:60889/announce
 udp://4rt.tace.ru:60889/announce
 udp://51-158-23-91.rev.lelux.fi:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://9.rarbg.me:2720/announce
-udp://9.rarbg.me:2730/announce
-udp://9.rarbg.me:2740/announce
-udp://9.rarbg.me:2770/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2980/announce
-udp://9.rarbg.to:2720/announce
-udp://9.rarbg.to:2730/announce
-udp://9.rarbg.to:2740/announce
-udp://9.rarbg.to:2770/announce
-udp://9.rarbg.to:2780/announce
-udp://9.rarbg.to:2800/announce
-udp://9.rarbg.to:2820/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://ali.delbertbeta.cc:4427/announce
@@ -200,7 +187,6 @@ udp://mts.tvbit.co:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://npserver.intranet.pw:4201/announce
 udp://open.nyap2p.com:6969/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
@@ -262,7 +248,6 @@ udp://tracker.supertracker.net:1337/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker123.cn:8080/announce
