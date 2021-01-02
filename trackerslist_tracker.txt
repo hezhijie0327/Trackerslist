@@ -75,7 +75,6 @@ http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
-http://private.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
@@ -102,6 +101,7 @@ http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
 http://torrentsmd.com:8080/announce
 http://torrentsmd.eu:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
@@ -156,6 +156,7 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xelion.fr:6969/announce
 http://tracker.yoshi210.com:6969/announce
+http://tracker.yowe.net:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -166,7 +167,6 @@ http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
-http://vpn.flying-datacenter.de:6969/announce
 http://vps2.avc.cx:7171/announce
 http://web4.obit.ru:80/announce
 http://www.36dm.com:2710/announce
@@ -221,8 +221,6 @@ udp://12.rarbg.me:80/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://9.rarbg.com:2710/announce
-udp://9.rarbg.com:2720/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
