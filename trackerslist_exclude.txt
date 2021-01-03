@@ -34,6 +34,7 @@ http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
+http://jsb.by:8000/announce
 http://magic.felfoldi.net:6969/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
@@ -170,6 +171,7 @@ udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
+udp://bt.firebit.org:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce

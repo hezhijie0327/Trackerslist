@@ -48,7 +48,6 @@ http://inferno.demonoid.ooo:3418/announce
 http://inferno.demonoid.ph:3415/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://jabber.esiliati.org:6969/announce
-http://jsb.by:8000/announce
 http://mail2.zelenaya.net:80/announce
 http://mediaclub.tv:80/announce
 http://milanesitracker.tekcities.com:80/announce
@@ -255,7 +254,6 @@ udp://bitsparadise.info:6969/announce
 udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
