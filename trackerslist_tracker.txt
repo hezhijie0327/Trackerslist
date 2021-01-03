@@ -73,7 +73,7 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://private.minimafia.nl:443/announce
+http://prestige.minimafia.nl:443/announce
 http://retracker.goodline.info:80/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
@@ -93,11 +93,13 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
+http://torrent.ubuntu.com:6969/announce
 http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
 http://torrents-nn.cn:2710/announce
 http://torrentsmd.com:8080/announce
 http://torrentsmd.eu:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
@@ -251,6 +253,7 @@ udp://bitsparadise.info:6969/announce
 udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
+udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
@@ -362,6 +365,7 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
