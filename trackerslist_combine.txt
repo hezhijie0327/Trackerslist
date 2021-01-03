@@ -147,6 +147,7 @@ http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
+http://t1.leech.ie:80/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
@@ -157,6 +158,7 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
+http://torrent.rus.ec:2710/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
@@ -176,6 +178,7 @@ http://tracker.acg.gg:1578/announce
 http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
+http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
@@ -237,6 +240,7 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
+http://tracker.pow7.com:80/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
@@ -531,6 +535,7 @@ udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -586,6 +591,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -698,6 +704,7 @@ udp://webmail.wookiespmc.com:6969/announce
 udp://wood.goandplay.fun:25824/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
+udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
