@@ -56,6 +56,7 @@ http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://check.ipredator.se:6969/announce
 http://cocaine.ninja:6969/announce
+http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
 http://denis.stalker.h3q.com:6969/announce
 http://derpyradio.net:6969/announce
@@ -138,7 +139,6 @@ http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
-http://t1.leech.ie:80/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
@@ -169,7 +169,6 @@ http://tracker.acg.gg:1578/announce
 http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
-http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
@@ -324,6 +323,7 @@ https://t.overflow.biz:443/announce
 https://t.quic.ws:443/announce
 https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
+https://torrent.ubuntu.com:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.kxmp.cf:80/announce
@@ -524,7 +524,6 @@ udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
-udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -578,6 +577,7 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
+udp://tracker.btsync.gq:6969/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:80/announce
