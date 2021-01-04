@@ -89,7 +89,6 @@ http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
 http://netwarer.xyz:6960/announce
 http://nibba.trade:1337/announce
-http://node.611.to:9000/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
