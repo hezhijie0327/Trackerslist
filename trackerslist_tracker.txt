@@ -13,7 +13,6 @@ http://aws1.millegrilles.com:6969/announce
 http://baibako.tv:80/announce
 http://bandari.org:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.firebit.org:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -93,7 +92,6 @@ http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.acgnx.se:80/announce
-http://tracker.anirena.com:80/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
 http://tracker.bittor.pw:1337/announce
@@ -213,6 +211,13 @@ udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2720/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2780/announce
+udp://9.rarbg.to:2800/announce
+udp://9.rarbg.to:2820/announce
 udp://adm.category5.tv:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://adminion.n-blade.ru:6969/announce
@@ -228,6 +233,7 @@ udp://bitsparadise.info:6969/announce
 udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
+udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.tk:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
@@ -326,7 +332,6 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:6666/announce
 udp://tr.cili001.com:8070/announce
 udp://tr2.ysagin.top:2710/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.archlinux.org.theoks.net:6969/announce
@@ -337,6 +342,7 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -358,6 +364,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 udp://tracker.pomf.se:80/announce
+udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
