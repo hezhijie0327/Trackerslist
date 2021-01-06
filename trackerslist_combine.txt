@@ -40,6 +40,7 @@ http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt2.54new.com:8080/announce
 http://bt2.careland.com.cn:6969/announce
+http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
@@ -426,6 +427,7 @@ udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
 udp://cyteam.ru:6969/announce
 udp://daveking.com:6969/announce
+udp://denis.stalker.upeer.me:1337/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dns.mercax.com:53/announce
@@ -557,9 +559,11 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.dler.org:6969/announce
