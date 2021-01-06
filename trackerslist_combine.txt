@@ -67,7 +67,6 @@ http://h4.trakx.nibba.trade:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
-http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mediaclub.tv:80/announce
 http://mgtracker.org:2710/announce
@@ -290,7 +289,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
-https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
@@ -459,6 +457,7 @@ udp://icynet.eu:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
+udp://ipv6.leechers-paradise.org:6969/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
