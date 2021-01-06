@@ -418,6 +418,7 @@ udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://chucaiyun.cn:6969/announce
 udp://code2chicken.nl:6969/announce
+udp://colombia.subventas.com:53/announce
 udp://concen.org:6969/announce
 udp://contra.sf.ca.us:6969/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
