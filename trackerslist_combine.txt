@@ -52,6 +52,7 @@ http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
 http://derpyradio.net:6969/announce
+http://deviloid.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
@@ -230,7 +231,6 @@ http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrentleech.org:2710/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
@@ -300,7 +300,7 @@ https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
 https://t.quic.ws:443/announce
-https://t3.leech.ie:443/announce
+https://t1.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent.ubuntu.com:443/announce
 https://tr.bangumi.moe:6969/announce
@@ -503,7 +503,6 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
-udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
@@ -558,10 +557,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.dler.org:6969/announce
