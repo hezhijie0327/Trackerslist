@@ -7,6 +7,7 @@ http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://acg.rip:6699/announce
 http://agusiq-torrents.pl:6969/announce
+http://alpha.torrenttracker.nl:443/announce
 http://anidex.moe:6969/announce
 http://ankeschwarz.net:6969/announce
 http://announce.torrentsmd.com:6969/announce
@@ -64,6 +65,7 @@ http://glotorrents.pw:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
+http://ipv4.tracker.harry.lu:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
@@ -77,12 +79,14 @@ http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
 http://netwarer.xyz:6960/announce
+http://newtoncity.org:6969/announce
 http://nibba.trade:1337/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
+http://omg.wtftrackr.pw:1337/announce
 http://omg.wtftrackr.xyz:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
@@ -99,6 +103,7 @@ http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
+http://pt.lax.mx:80/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -293,6 +298,7 @@ https://bittorrent.gongt.net:443/announce
 https://explodie.org:6969/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
+https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
 https://p2pdl.com:443/announce
 https://publictracker.pp.ua:443/announce
@@ -310,6 +316,7 @@ https://tr.kxmp.cf:80/announce
 https://tr.ready4.icu:443/announce
 https://tr.steins-gate.moe:2096/announce
 https://tracker.anirena.com:80/announce
+https://tracker.baka-sub.cf:443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cryental.dev:443/announce
@@ -361,11 +368,13 @@ udp://9.rarbg.me:2730/announce
 udp://9.rarbg.me:2740/announce
 udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2950/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce
 udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2760/announce
 udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2780/announce
 udp://9.rarbg.to:2800/announce
