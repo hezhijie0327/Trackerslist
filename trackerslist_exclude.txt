@@ -57,6 +57,7 @@ http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
 http://t2.leech.ie:80/announce
 http://torrentsmd.me:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.36dm.com:2710/announce
 http://tracker.acg.gg:1578/announce
 http://tracker.acg.gg:2710/announce
@@ -110,10 +111,11 @@ http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
+http://tracker2.itzmx.com:6961/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker3.itzmx.com:6961/announce
 http://tracker4.dler.org:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
@@ -225,6 +227,7 @@ udp://tracker.btsync.gq:6969/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce

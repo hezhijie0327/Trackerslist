@@ -55,6 +55,7 @@ http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://check.ipredator.se:6969/announce
+http://cloud.nyap2p.com:8080/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://cx42light.cn:39652/announce
