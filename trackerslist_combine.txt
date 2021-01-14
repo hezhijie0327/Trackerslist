@@ -77,6 +77,7 @@ http://glotorrents.pw:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
