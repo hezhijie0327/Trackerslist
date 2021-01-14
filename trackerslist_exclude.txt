@@ -2,7 +2,6 @@ http://00.mercax.com:443/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://beertracker.ml:80/announce
-http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -13,6 +12,7 @@ http://bt.ali213.net:8080/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:6969/announce
+http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.popgo.net:7456/announce
 http://bt.pusacg.org:8080/announce
@@ -127,6 +127,7 @@ http://tracker4.dler.org:6969/announce
 http://tracker4.emce.org:12345/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
+http://vpn.flying-datacenter.de:6969/announce
 http://vps.tracker.eu.org:9000/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -167,6 +168,7 @@ udp://ali.delbertbeta.cc:4427/announce
 udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://asger.xyz:6969/announce
+udp://bclearning.top:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
@@ -276,6 +278,7 @@ udp://tracker2.indowebster.com:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
+udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
