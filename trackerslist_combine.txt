@@ -496,7 +496,6 @@ udp://icynet.eu:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
-udp://ipv6.leechers-paradise.org:6969/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -515,7 +514,6 @@ udp://mail.moneysfast.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://matsurifubuki.xyz:8826/announce
 udp://mgtracker.org:2710/announce
-udp://mgtracker.org:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
