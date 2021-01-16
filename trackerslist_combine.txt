@@ -5,6 +5,7 @@ http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
 http://5rt.tace.ru:60889/announce
 http://9.rarbg.com:2710/announce
+http://a.vip123.cf:6969/announce
 http://aaa.army:8866/announce
 http://acg.rip:6699/announce
 http://agusiq-torrents.pl:6969/announce
