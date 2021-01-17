@@ -94,12 +94,10 @@ http://tracker.kuroy.me:5944/announce
 http://tracker.leechers-paradise.org:6969/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
-http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -117,11 +115,12 @@ http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
+http://tracker2.itzmx.com:6961/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker3.itzmx.com:6961/announce
 http://tracker4.dler.org:6969/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
@@ -137,7 +136,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
@@ -272,10 +270,10 @@ udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
-udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
+udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
