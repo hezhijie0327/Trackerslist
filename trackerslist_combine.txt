@@ -436,7 +436,7 @@ udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
 udp://bt.firebit.org:2710/announce
-udp://bt.hackfront.tk:6969/announce
+udp://bt.hackfront.eu:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://bt1.archive.org:6969/announce
@@ -711,7 +711,6 @@ udp://vps2.avc.cx:7171/announce
 udp://wambo.club:1337/announce
 udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
-udp://wood.goandplay.fun:25824/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://www.torrent.eu.org:451/announce
