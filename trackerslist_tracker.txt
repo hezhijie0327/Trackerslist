@@ -173,15 +173,14 @@ http://tracker.yowe.net:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
-http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
 http://tracker3.dler.org:2710/announce
-http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps2.avc.cx:7171/announce
 http://web4.obit.ru:80/announce
+http://www.36dm.com:2710/announce
 http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
@@ -225,6 +224,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -240,6 +240,12 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.com:2720/announce
 udp://9.rarbg.me:2710/announce
+udp://9.rarbg.me:2720/announce
+udp://9.rarbg.me:2730/announce
+udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2950/announce
+udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce
 udp://9.rarbg.to:2730/announce
@@ -306,6 +312,7 @@ udp://icynet.eu:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://johnrosen1.com:6969/announce
+udp://kanbooru.com:6969/announce
 udp://kawaii.social:6969/announce
 udp://koli.services:6969/announce
 udp://letting.cf:26327/announce
@@ -414,9 +421,11 @@ udp://tracker.zooki.xyz:6969/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.org:80/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce

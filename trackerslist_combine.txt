@@ -178,6 +178,9 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
+http://tracker.36dm.com:2710/announce
+http://tracker.acg.gg:1578/announce
+http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
@@ -303,6 +306,7 @@ http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
+http://www.36dm.com:2710/announce
 http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
