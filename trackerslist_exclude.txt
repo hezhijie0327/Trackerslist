@@ -3,7 +3,7 @@ http://5rt.tace.ru:60889/announce
 http://a.vip123.cf:6969/announce
 http://aaa.army:8866/announce
 http://beertracker.ml:80/announce
-http://bt-tracker.gamexp.ru:2710/announce
+http://bobbialbano.com:6969/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
@@ -90,11 +90,9 @@ http://tracker.leechers-paradise.org:6969/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.publictorrent.net:80/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
@@ -116,7 +114,6 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
-http://tracker2.itzmx.com:6961/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.dler.org:6969/announce
@@ -134,7 +131,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
@@ -145,6 +141,7 @@ https://tracker.fastdownload.xyz:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.vectahosting.eu:2053/announce
@@ -229,7 +226,6 @@ udp://tracker.casual.run:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
@@ -269,6 +265,7 @@ udp://tracker1.absentmusing.com:8000/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.itzmx.com:6961/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
