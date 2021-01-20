@@ -34,10 +34,10 @@ http://bt.careland.com.cn:6969/announce
 http://bt.cnscg.com:6969/announce
 http://bt.cnscg.org:6969/announce
 http://bt.edwardk.info:2710/announce
+http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
 http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
-http://bt.ktkj.com:8080/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.popgo.net:7456/announce
 http://bt.pusacg.org:8080/announce
@@ -55,9 +55,9 @@ http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
+http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
-http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://bttrack.9you.com:8080/announce
@@ -161,7 +161,6 @@ http://shadowshq.eddie4.nl:6969/announce
 http://shadowshq.yi.org:6969/announce
 http://share.camecn:8080/announce
 http://share.camoe.cn:8080/announce
-http://share.newdmhy.net:8000/announce
 http://spoof.tokyotosho.info:1234/announce
 http://sub4all.org:2710/announce
 http://sukebei.tracker.wf:8888/announce
@@ -281,7 +280,6 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
-http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.pow7.com:80/announce
@@ -337,6 +335,7 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.dler.org:6969/announce
 http://tracker4.emce.org:12345/announce
 http://tracker4.itzmx.com:2710/announce
+http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://trun.tom.ru:80/announce
@@ -353,7 +352,6 @@ http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
 http://www.skyts.net:6969/announce
-http://www.theplace.bz:2910/announce
 http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com:80/announce
@@ -381,6 +379,7 @@ https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
 https://t.quic.ws:443/announce
+https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
 https://tr.bangumi.moe:6969/announce
@@ -588,7 +587,6 @@ udp://open.nyaatorrents.info:6544/announce
 udp://open.nyap2p.com:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
-udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -627,7 +625,6 @@ udp://sd-161673.dedibox.fr:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://storage.groupees.com:6969/announce
-udp://sugoi.pomf.se:80/announce
 udp://t.acg.rip:6699/announce
 udp://t.lint2.com:9000/announce
 udp://t.nyaatracker.com:80/announce
