@@ -84,6 +84,7 @@ http://glotorrents.pw:80/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
+http://home.yxgz.club:6969/announce
 http://inferno.demonoid.ooo:3395/announce
 http://inferno.demonoid.ooo:3410/announce
 http://inferno.demonoid.ooo:3412/announce
