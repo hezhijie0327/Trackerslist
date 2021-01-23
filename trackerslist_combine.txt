@@ -75,7 +75,6 @@ http://denis.stalker.h3q.com:6969/announce
 http://denis.stalker.upeer.me:6969/announce
 http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
-http://eddie4.nl:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://freerainbowtables.com:6969/announce
@@ -162,8 +161,6 @@ http://rt.tace.ru:80/announce
 http://rutracker.ohys.net:80/announce
 http://secure.pow7.com:80/announce
 http://server0001.duckdns.org:443/announce
-http://shadowshq.eddie4.nl:6969/announce
-http://shadowshq.yi.org:6969/announce
 http://share.camecn:8080/announce
 http://share.camoe.cn:8080/announce
 http://share.newdmhy.net:8000/announce
@@ -304,12 +301,10 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
-http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentleech.org:2710/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
@@ -344,7 +339,6 @@ http://tracker4.dler.org:6969/announce
 http://tracker4.emce.org:12345/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker6.emce.org:12345/announce
-http://tracker810.xyz:11450/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
@@ -353,8 +347,6 @@ http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.36dm.com:2710/announce
 http://www.acgsou.com:2710/announce
-http://www.blackcats-games.net:2228/announce
-http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
@@ -519,7 +511,6 @@ udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
 udp://cyteam.ru:6969/announce
 udp://daveking.com:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dns.mercax.com:53/announce
@@ -609,7 +600,6 @@ udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:2710/announce
-udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.coltel.ru:2710/announce
@@ -668,7 +658,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
-udp://tracker.btsync.gq:6969/announce
 udp://tracker.cangku.in:52515/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.ccc.de:80/announce
@@ -827,6 +816,5 @@ wss://tracker.btorrent.xyz:443/announce
 wss://tracker.fastcast.nz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.lab.vvc.niif.hu:443/announce
-wss://tracker.novage.com.ua:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce
