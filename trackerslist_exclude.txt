@@ -33,6 +33,7 @@ http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://check.ipredator.se:6969/announce
+http://cx42light.cn:39652/announce
 http://denis.stalker.h3q.com:6969/announce
 http://denis.stalker.upeer.me:6969/announce
 http://exodus.desync.com:6969/announce
@@ -78,6 +79,7 @@ http://t.wahaha.work:6699/announce
 http://t1.leech.ie:80/announce
 http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
+http://torrent.nwps.ws:80/announce
 http://torrentsmd.me:8080/announce
 http://tracker.36dm.com:2710/announce
 http://tracker.acg.gg:1578/announce
@@ -110,6 +112,7 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigateam.net:6969/announce
 http://tracker.gigatorrent.xyz:6969/announce
+http://tracker.gigatorrents.ws:2710/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kamigami.org:2710/announce
@@ -146,8 +149,8 @@ http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xku.tv:6969/announce
 http://tracker.ygsub.com:6969/announce
-http://tracker.yoshi210.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker1.xku.tv:6969/announce
 http://tracker114514.top:11450/announce
@@ -167,6 +170,8 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
+https://open.kickasstracker.com:443/announce
+https://opentracker.co:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
@@ -201,7 +206,6 @@ udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://btt.service.gongt.me:43079/announce
@@ -211,6 +215,7 @@ udp://chanchan.uchuu.co.uk:6969/announce
 udp://chucaiyun.cn:6969/announce
 udp://colombia.subventas.com:53/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
+udp://cx42light.cn:39652/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dns.mercax.com:53/announce
 udp://dunkelhost.de:6969/announce
@@ -276,6 +281,7 @@ udp://tracker.ccc.de:80/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
@@ -321,10 +327,12 @@ udp://tracker01.loveapp.com:6789/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
+udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.itzmx.com:6961/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
@@ -336,7 +344,6 @@ udp://v-192-223-24-180.unman-vds.inap-nyc.nfoservers.com:6969/announce
 udp://wambo.club:1337/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://z.mercax.com:53/announce
-udp://zephir.monocul.us:6969/announce
 udp://zer0day.to:1337/announce
 ws://tracker.btsync.cf:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
