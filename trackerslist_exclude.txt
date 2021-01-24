@@ -4,6 +4,7 @@ http://a.vip123.cf:6969/announce
 http://aaa.army:8866/announce
 http://alpha.torrenttracker.nl:443/announce
 http://beertracker.ml:80/announce
+http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -123,7 +124,6 @@ http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.novg.net:6969/announce
 http://tracker.nyap2p.com:8080/announce
-http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
@@ -164,7 +164,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
-https://open.kickasstracker.com:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
@@ -175,6 +174,7 @@ https://tracker.fastdownload.xyz:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -197,7 +197,6 @@ udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://btt.service.gongt.me:43079/announce
@@ -207,6 +206,7 @@ udp://chanchan.uchuu.co.uk:6969/announce
 udp://chucaiyun.cn:6969/announce
 udp://colombia.subventas.com:53/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
+udp://cx42light.cn:39652/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dns.mercax.com:53/announce
 udp://dunkelhost.de:6969/announce
@@ -227,7 +227,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://jockesnusk.duckdns.org:6969/announce
 udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
-udp://kanbooru.com:6969/announce
 udp://mage23.schminkparadies.ch:6969/announce
 udp://mgtracker.org:2710/announce
 udp://mgtracker.org:6969/announce
@@ -272,6 +271,7 @@ udp://tracker.ccc.de:80/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
