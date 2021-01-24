@@ -600,7 +600,6 @@ udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:2710/announce
-udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.coltel.ru:2710/announce
