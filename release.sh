@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.5
+# Current Version: 1.3.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Trackerslist.git" && bash ./Trackerslist/release.sh
@@ -9,7 +9,7 @@
 # Get Data
 function GetData() {
     dead_domain=(
-        "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_dead.txt"
     )
     trackerlist_combine=(
         "http://www.torrenttrackerlist.com/torrent-tracker-list"
