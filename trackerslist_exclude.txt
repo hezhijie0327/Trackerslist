@@ -18,7 +18,6 @@ http://bt.cnscg.org:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
-http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.ktkj.com:8080/announce
 http://bt.popgo.net:7456/announce
@@ -34,6 +33,7 @@ http://bt2.edwardk.info:6969/announce
 http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
+http://buny.uk:6969/announce
 http://check.ipredator.se:6969/announce
 http://denis.stalker.h3q.com:6969/announce
 http://denis.stalker.upeer.me:6969/announce
@@ -200,12 +200,10 @@ udp://allesanddro.de:1337/announce
 udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://asger.xyz:6969/announce
-udp://bitsparadise.info:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://btt.service.gongt.me:43079/announce
@@ -331,6 +329,7 @@ udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.itzmx.com:6961/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
