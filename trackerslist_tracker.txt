@@ -59,7 +59,6 @@ http://mail2.zelenaya.net:80/announce
 http://mediaclub.tv:80/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
-http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://netwarer.xyz:6960/announce
@@ -159,6 +158,7 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -180,9 +180,10 @@ http://tracker.yowe.net:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
-http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
+http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
@@ -201,6 +202,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://bittorrent.gongt.net:443/announce
 https://explodie.org:6969/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
@@ -316,6 +318,7 @@ udp://forum.m3x.org:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 udp://free1.mchost.cc:26137/announce
 udp://glotorrents.com:6969/announce
+udp://gra1.joshkeegan.co.uk:6969/announce
 udp://handrew.me:6969/announce
 udp://home.penza.com.ru:6969/announce
 udp://icynet.eu:6969/announce
@@ -433,7 +436,6 @@ udp://tracker.thepornvilla.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentbay.to:6969/announce
-udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
@@ -445,12 +447,11 @@ udp://tracker.zooki.xyz:6969/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.org:80/announce
-udp://tracker2.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
@@ -467,7 +468,6 @@ udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
-udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
