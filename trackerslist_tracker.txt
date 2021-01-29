@@ -56,7 +56,6 @@ http://mvgroup.org:2710/announce
 http://newtoncity.org:6969/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
-http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
 http://nyaatorrents.info:3277/announce
 http://nyaatorrents.info:7266/announce
@@ -101,7 +100,6 @@ http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
 http://torrentsmd.com:8080/announce
 http://torrentsmd.eu:8080/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
@@ -141,6 +139,7 @@ http://tracker.lintk.me:2710/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
@@ -165,6 +164,7 @@ http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
 http://tracker3.dler.org:2710/announce
+http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
@@ -182,6 +182,7 @@ https://1337.abcvg.info:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.nfshost.com:443/announce
 https://explodie.org:6969/announce
+https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
@@ -212,6 +213,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.publictorrent.net:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.sloppyta.co:443/announce
@@ -228,13 +230,7 @@ udp://61626c.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
-udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2950/announce
-udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2710/announce
-udp://9.rarbg.to:2730/announce
-udp://9.rarbg.to:2760/announce
-udp://9.rarbg.to:2820/announce
 udp://adm.category5.tv:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://adminion.n-blade.ru:6969/announce
@@ -426,6 +422,7 @@ udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
+udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
