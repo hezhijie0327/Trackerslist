@@ -13,6 +13,8 @@ http://aws1.millegrilles.com:6969/announce
 http://baibako.tv:80/announce
 http://bandari.org:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
+http://bobbialbano.com:6969/announce
+http://bt-tracker.gamexp.ru:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.beatrice-raws.org:80/announce
 http://bt.firebit.org:2710/announce
@@ -155,6 +157,7 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
+http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
@@ -236,7 +239,6 @@ udp://bitsparadise.info:6969/announce
 udp://bittracker.ru:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.eu:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
@@ -393,6 +395,7 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.org:80/announce
+udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tv.axfree.net:6969/announce
