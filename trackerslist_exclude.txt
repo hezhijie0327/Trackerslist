@@ -2,6 +2,8 @@ http://00.mercax.com:443/announce
 http://a.vip123.cf:6969/announce
 http://aaa.army:8866/announce
 http://beertracker.ml:80/announce
+http://bobbialbano.com:6969/announce
+http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
@@ -16,6 +18,7 @@ http://bt.henbt.com:2710/announce
 http://bt.ktkj.com:8080/announce
 http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
+http://bt2.54new.com:8080/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
@@ -37,6 +40,7 @@ http://netwarer.xyz:6960/announce
 http://nibba.trade:1337/announce
 http://novaopcj.icu:10325/announce
 http://npserver.intranet.pw:4201/announce
+http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
@@ -156,12 +160,10 @@ udp://ali.delbertbeta.cc:4427/announce
 udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://asger.xyz:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.dy20188.com:80/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -261,8 +263,10 @@ udp://tracker01.loveapp.com:6789/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
+udp://tracker1.itzmx.com:8080/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
+udp://tracker2.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
