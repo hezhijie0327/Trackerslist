@@ -128,6 +128,7 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentracker.xyz:80/announce
 http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
+http://peersteers.org:80/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
@@ -186,6 +187,9 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
+http://tracker.36dm.com:2710/announce
+http://tracker.acg.gg:1578/announce
+http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
@@ -203,6 +207,7 @@ http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.city9x.com:2710/announce
+http://tracker.cypherpunks.ru:6969/announce
 http://tracker.devil-torrents.pl:80/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
@@ -253,6 +258,7 @@ http://tracker.open-tracker.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
+http://tracker.port443.xyz:6969/announce
 http://tracker.pow7.com:80/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.publictorrent.net:80/announce
@@ -309,6 +315,7 @@ http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
+http://www.36dm.com:2710/announce
 http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.h33t.com:3310/announce
@@ -596,6 +603,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:6969/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -725,7 +733,9 @@ ws://tracker.files.fm:7072/announce
 ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
+wss://ltrackr.iamhansen.xyz:443/announce
 wss://tracker.btorrent.xyz:443/announce
+wss://tracker.fastcast.nz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.lab.vvc.niif.hu:443/announce
 wss://tracker.novage.com.ua:443/announce
