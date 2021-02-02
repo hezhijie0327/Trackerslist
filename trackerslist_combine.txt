@@ -27,6 +27,7 @@ http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
+http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.beatrice-raws.org:80/announce
 http://bt.btvery.com:2710/announce
@@ -549,6 +550,7 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
+udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
@@ -603,7 +605,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:6969/announce
+udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -720,6 +722,7 @@ udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
+udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
