@@ -27,6 +27,7 @@ http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
+http://buny.uk:6969/announce
 http://check.ipredator.se:6969/announce
 http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
@@ -125,7 +126,6 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker4.itzmx.com:2710/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://vps02.net.orel.ru:80/announce
@@ -139,6 +139,7 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
+https://open.kickasstracker.com:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t.overflow.biz:443/announce
@@ -200,7 +201,6 @@ udp://mts.tvbit.co:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://npserver.intranet.pw:4201/announce
 udp://open.demonii.si:1337/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -255,6 +255,7 @@ udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -274,6 +275,7 @@ udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
@@ -284,7 +286,6 @@ udp://v-192-223-24-180.unman-vds.inap-nyc.nfoservers.com:6969/announce
 udp://wambo.club:1337/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://z.mercax.com:53/announce
-udp://zephir.monocul.us:6969/announce
 udp://zer0day.to:1337/announce
 wss://ltrackr.iamhansen.xyz:443/announce
 wss://tracker.fastcast.nz:443/announce

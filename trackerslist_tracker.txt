@@ -31,7 +31,6 @@ http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
-http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cloud.nyap2p.com:8080/announce
 http://cocaine.ninja:6969/announce
@@ -178,6 +177,7 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
+http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps2.avc.cx:7171/announce
@@ -197,7 +197,6 @@ https://1337.abcvg.info:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.nfshost.com:443/announce
 https://explodie.org:6969/announce
-https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.xyz:443/announce
 https://p2pdl.com:443/announce
@@ -333,6 +332,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -393,7 +393,6 @@ udp://tracker.miniget001.com:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.open-tracker.org:1337/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -420,7 +419,6 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
-udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
@@ -438,12 +436,15 @@ udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
+udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
+ws://tracker.lab.vvc.niif.hu:80/announce
 ws://tracker.sloppyta.co:80/announce
 wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
+wss://tracker.lab.vvc.niif.hu:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce
