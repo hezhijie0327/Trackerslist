@@ -2,7 +2,6 @@ http://00.mercax.com:443/announce
 http://a.vip123.cf:6969/announce
 http://aaa.army:8866/announce
 http://beertracker.ml:80/announce
-http://bobbialbano.com:6969/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
@@ -15,6 +14,7 @@ http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
+http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.popgo.net:7456/announce
 http://bt.pusacg.org:8080/announce
@@ -27,6 +27,7 @@ http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
+http://buny.uk:6969/announce
 http://check.ipredator.se:6969/announce
 http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
@@ -125,6 +126,7 @@ http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.itzmx.com:6961/announce
@@ -184,7 +186,6 @@ udp://chanchan.uchuu.co.uk:6969/announce
 udp://chucaiyun.cn:6969/announce
 udp://colombia.subventas.com:53/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
-udp://cx42light.cn:39652/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dns.mercax.com:53/announce
 udp://dunkelhost.de:6969/announce
@@ -262,6 +263,7 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nextrp.ru:6969/announce
+udp://tracker.open-tracker.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -281,7 +283,6 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.itzmx.com:6961/announce
-udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
 udp://tracker7.dler.org:6969/announce
