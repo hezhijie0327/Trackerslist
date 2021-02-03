@@ -641,7 +641,6 @@ udp://tracker.justseed.it:1337/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kamigami.org:2710/announce
 udp://tracker.kicks-ass.net:80/announce
-udp://tracker.kiwifarms.net:8000/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
