@@ -161,7 +161,9 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.overflow.biz:80/announce
 http://t1.pow7.com:80/announce
+http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
+http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://torrent-download.to:5869/announce
 http://torrent-downloads.to:5869/announce
@@ -550,6 +552,7 @@ udp://publictracker.xyz:6969/announce
 udp://pubt.in:2710/announce
 udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -605,6 +608,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -672,6 +676,7 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackton.ga:7070/announce
+udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
