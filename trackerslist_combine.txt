@@ -574,7 +574,6 @@ udp://sd-161673.dedibox.fr:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://storage.groupees.com:6969/announce
-udp://sub4all.org:2710/announce
 udp://sugoi.pomf.se:80/announce
 udp://t.acg.rip:6699/announce
 udp://t.lint2.com:9000/announce
@@ -663,7 +662,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.patatje.eu:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 udp://tracker.pomf.se:80/announce
-udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.shkinev.me:6969/announce
