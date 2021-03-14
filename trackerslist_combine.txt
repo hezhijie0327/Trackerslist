@@ -70,6 +70,7 @@ http://ed2k.vip:2716/announce
 http://ed2k.vip:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
+http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
 http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
@@ -242,7 +243,6 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
-http://tracker.nighthawk.pw:4201/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
@@ -325,7 +325,12 @@ https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
+https://atrack-asia-e2.120181311.xyz:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
+https://atrack-asia-s1.120181311.xyz:443/announce
+https://atrack-eu-w1.120181311.xyz:443/announce
+https://atrack-sa-e1.120181311.xyz:443/announce
+https://atrack-us-c1.120181311.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.nfshost.com:443/announce
@@ -635,7 +640,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.nextrp.ru:6969/announce
-udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
 udp://tracker.openbittorrent.com:80/announce
@@ -705,6 +709,7 @@ udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
+udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
@@ -712,7 +717,6 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
-ws://tracker.btsync.cf:6969/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.sloppyta.co:80/announce
 wss://ltrackr.iamhansen.xyz:443/announce
