@@ -90,7 +90,6 @@ http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
-http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
@@ -309,7 +308,6 @@ http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.blackcats-games.net:2228/announce
-http://www.freerainbowtables.com:6969/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
