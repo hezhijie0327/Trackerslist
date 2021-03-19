@@ -60,7 +60,6 @@ http://concen.org:6969/announce
 http://derpyradio.net:6969/announce
 http://deviloid.net:6969/announce
 http://dn42.smrsh.net:6969/announce
-http://eddie4.nl:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://fr33dom.h33t.com:3310/announce
@@ -78,9 +77,12 @@ http://jsb.by:8000/announce
 http://lima-peru.subventas.com:443/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
+http://mediaclub.tv:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
+http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
+http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
@@ -126,8 +128,6 @@ http://rt.optizone.ru:80/announce
 http://rt.tace.ru:80/announce
 http://secure.pow7.com:80/announce
 http://server0001.duckdns.org:443/announce
-http://shadowshq.eddie4.nl:6969/announce
-http://shadowshq.yi.org:6969/announce
 http://share.camecn:8080/announce
 http://share.camoe.cn:8080/announce
 http://sub4all.org:2710/announce
@@ -167,8 +167,6 @@ http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
-http://tracker.acg.gg:1578/announce
-http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
@@ -295,10 +293,8 @@ http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.36dm.com:2710/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.blackcats-games.net:2228/announce
-http://www.eddie4.nl:6969/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
@@ -340,6 +336,7 @@ https://t.quic.ws:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
+https://torrent.ubuntu.com:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce
@@ -635,7 +632,6 @@ udp://tracker.open-internet.nl:6969/announce
 udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://tracker.patatje.eu:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
