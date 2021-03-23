@@ -29,6 +29,7 @@ http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.beatrice-raws.org:80/announce
+http://bt.btvery.com:2710/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
@@ -70,6 +71,7 @@ http://derpyradio.net:6969/announce
 http://dn42.smrsh.net:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
+http://fr33dom.h33t.com:3310/announce
 http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://grifon.info:80/announce
@@ -174,6 +176,9 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
+http://tracker.36dm.com:2710/announce
+http://tracker.acg.gg:1578/announce
+http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
@@ -234,12 +239,12 @@ http://tracker.kuroy.me:5944/announce
 http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.loadbt.com:6969/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
-http://tracker.nyaa.uk:6969/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
@@ -299,7 +304,9 @@ http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
+http://www.36dm.com:2710/announce
 http://www.freerainbowtables.com:6969/announce
+http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
@@ -466,6 +473,7 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://exponage-api.com:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
+udp://fasttracker.foreverpirates.co:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://forever.publictracker.xyz:6969/announce
@@ -700,8 +708,8 @@ udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
+ws://tracker.nighthawk.pw:4201/announce
 ws://tracker.sloppyta.co:80/announce
-wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.novage.com.ua:443/announce
