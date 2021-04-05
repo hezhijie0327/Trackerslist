@@ -51,7 +51,6 @@ http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://bttracker.debian.org:6969/announce
-http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://check.ipredator.se:6969/announce
 http://cloud.nyap2p.com:8080/announce
@@ -64,6 +63,7 @@ http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://filetracker.xyz:11451/announce
 http://fr33dom.h33t.com:3310/announce
+http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
@@ -82,6 +82,7 @@ http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
+http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
@@ -234,7 +235,6 @@ http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.shittyurl.org:80/announce
-http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
@@ -286,7 +286,6 @@ http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.blackcats-games.net:2228/announce
-http://www.freerainbowtables.com:6969/announce
 http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
@@ -613,6 +612,7 @@ udp://tracker.nighthawk.pw:2052/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
@@ -686,6 +686,7 @@ ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce
 ws://tracker.sloppyta.co:80/announce
+wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.novage.com.ua:443/announce
