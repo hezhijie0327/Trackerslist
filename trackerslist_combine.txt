@@ -36,11 +36,9 @@ http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
 http://bt.firebit.org:2710/announce
 http://bt.hliang.com:2710/announce
-http://bt.ktkj.com:8080/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
-http://bt.sumisora.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
 http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
@@ -51,7 +49,6 @@ http://bt2.archive.org:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
-http://btfans.3322.org:8000/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://bttracker.debian.org:6969/announce
@@ -69,6 +66,7 @@ http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://filetracker.xyz:11451/announce
 http://fr33dom.h33t.com:3310/announce
+http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
@@ -93,6 +91,7 @@ http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://mirror.aptus.co.tz:6969/announce
+http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://nbz.f3322.net:36006/announce
@@ -105,7 +104,6 @@ http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
-http://nyaatorrents.info:3277/announce
 http://omg.wtftrackr.xyz:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
@@ -138,7 +136,6 @@ http://rt.tace.ru:80/announce
 http://secure.pow7.com:80/announce
 http://server0001.duckdns.org:443/announce
 http://share.camoe.cn:8080/announce
-http://share.newdmhy.net:8000/announce
 http://sub4all.org:2710/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
@@ -244,7 +241,6 @@ http://tracker.nighthawk.pw:2052/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
-http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
 http://tracker.publicbt.com:80/announce
@@ -280,6 +276,7 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
@@ -299,7 +296,6 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker4.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
-http://tracker810.xyz:11450/announce
 http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
 http://v6.nyaatorrents.info:3277/announce
@@ -311,6 +307,7 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.36dm.com:2710/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.blackcats-games.net:2228/announce
+http://www.freerainbowtables.com:6969/announce
 http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
@@ -712,9 +709,9 @@ ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce
 ws://tracker.sloppyta.co:80/announce
+ws://tracker.xn--vzyr4p.top:80/announce
 wss://hub.bugout.link:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
-wss://tracker.novage.com.ua:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce
