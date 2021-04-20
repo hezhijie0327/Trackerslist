@@ -58,7 +58,6 @@ http://ed2k.vip:6969/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://filetracker.xyz:11451/announce
-http://freerainbowtables.com:6969/announce
 http://funfile.org:2710/announce
 http://fxtt.ru:80/announce
 http://grifon.info:80/announce
@@ -281,6 +280,7 @@ http://web4.obit.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.blackcats-games.net:2228/announce
+http://www.freerainbowtables.com:6969/announce
 http://www.mvgroup.org:2710/announce
 http://www.proxmox.com:6969/announce
 http://www.thegeeks.bz:3210/announce
