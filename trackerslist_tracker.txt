@@ -24,6 +24,7 @@ http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://btfile.sdo.com:6961/announce
 http://bttracker.debian.org:6969/announce
+http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
@@ -101,6 +102,7 @@ http://tracker.aletorrenty.pl:2710/announce
 http://tracker.anirena.com:80/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.city9x.com:2710/announce
 http://tracker.darmowy-torrent.pl:80/announce
@@ -181,7 +183,7 @@ https://t.quic.ws:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce
-https://tr.steins-gate.moe:2096/announce
+https://tracker.bt-hash.com:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -221,10 +223,10 @@ udp://adminion.n-blade.ru:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anonseed.com:6969/announce
-udp://app.icon256.com:8000/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
+udp://bioquantum.co.za:6969/announce
 udp://bitsparadise.info:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
@@ -235,7 +237,6 @@ udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
-udp://caramelo.ddns.net:8000/announce
 udp://carapax.net:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
 udp://chihaya.de:6969/announce
@@ -367,8 +368,10 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
+udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://ultra.zt.ua:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
@@ -381,6 +384,7 @@ udp://webmail.wookiespmc.com:6969/announce
 udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://xxxtor.com:2710/announce
+udp://zephir.monocul.us:6969/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce

@@ -51,6 +51,7 @@ http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://bttracker.debian.org:6969/announce
+http://buny.uk:6969/announce
 http://carapax.net:6969/announce
 http://check.ipredator.se:6969/announce
 http://cloud.nyap2p.com:8080/announce
@@ -84,6 +85,7 @@ http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
+http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
@@ -115,7 +117,6 @@ http://opentracker.xyz:80/announce
 http://p4p.arenabg.com:1337/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
-http://pt.lax.mx:80/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
 http://re-tracker.uz:80/announce
@@ -248,7 +249,6 @@ http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.shittyurl.org:80/announce
-http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
@@ -318,6 +318,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-e2.120181311.xyz:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
@@ -549,7 +550,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://robbmob.com:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://rutschmania.duckdns.org:6969/announce
-udp://santost12.xyz:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://storage.groupees.com:6969/announce
 udp://sugoi.pomf.se:80/announce
