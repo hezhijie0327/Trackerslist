@@ -20,6 +20,7 @@ http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
+http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.hliang.com:2710/announce
 http://bt.pusacg.org:8080/announce
@@ -81,8 +82,6 @@ http://torrent.nwps.ws:80/announce
 http://torrentsmd.me:8080/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker.36dm.com:2710/announce
-http://tracker.acg.gg:1578/announce
-http://tracker.acg.gg:2710/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.baravik.org:6970/announce
@@ -107,11 +106,11 @@ http://tracker.gcvchp.com:2710/announce
 http://tracker.gigateam.net:6969/announce
 http://tracker.gigatorrent.xyz:6969/announce
 http://tracker.grepler.com:6969/announce
-http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kisssub.org:2015/announce
+http://tracker.leechers-paradise.org:6969/announce
 http://tracker.loadbt.com:6969/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -136,6 +135,7 @@ http://tracker.vcke.xyz:8080/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.itzmx.com:6961/announce
@@ -205,7 +205,6 @@ udp://bt.100.pet:2711/announce
 udp://bt.1000.pet:2713/announce
 udp://bt.10000.pet:2715/announce
 udp://bt.delbertbeta.cc:19943/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.eu:6969/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -272,6 +271,8 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dyn.im:6969/announce
 udp://tracker.dyne.org:6969/announce
@@ -280,9 +281,9 @@ udp://tracker.fortu.io:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
-udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.kamigami.org:2710/announce
+udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.loadbt.com:6969/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
@@ -296,7 +297,6 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.trackton.ga:7070/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.zemoj.com:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
@@ -304,7 +304,9 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
+udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
+udp://u.wwwww.wtf:1/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
@@ -313,5 +315,4 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
-udp://zephir.monocul.us:6969/announce
 wss://tracker.novage.com.ua:443/announce
