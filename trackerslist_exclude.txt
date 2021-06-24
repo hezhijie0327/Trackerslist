@@ -37,8 +37,9 @@ http://googer.cc:1337/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://home.yxgz.club:6969/announce
-http://inferno.demonoid.ooo:3416/announce
+http://inferno.demonoid.ooo:3418/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
+http://jsb.by:8000/announce
 http://lima-peru.subventas.com:443/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
@@ -74,6 +75,7 @@ http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 http://tehconnection.eu:2790/announce
 http://torrent.nwps.ws:80/announce
+http://torrentclub.tech:6969/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker.36dm.com:2710/announce
 http://tracker.acg.gg:1578/announce
@@ -115,7 +117,6 @@ http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.sloppyta.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
@@ -139,6 +140,7 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
+http://tracker810.xyz:11450/announce
 http://trk.publictracker.xyz:6969/announce
 http://v6.nyaatorrents.info:3277/announce
 http://vpn.flying-datacenter.de:6969/announce
@@ -174,7 +176,6 @@ https://tracker.opentracker.se:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.skynetcloud.site:8443/announce
-https://tracker.sloppyta.co:443/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -213,7 +214,6 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cx42light.cn:39652/announce
 udp://cyteam.ru:6969/announce
 udp://daveking.com:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://dns.mercax.com:53/announce
 udp://exodus.desync.com:6969/announce
@@ -237,6 +237,7 @@ udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.si:1337/announce
 udp://open.publictracker.xyz:6969/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://peru.subventas.com:53/announce
 udp://public-tracker.zooki.xyz:6969/announce
@@ -274,13 +275,13 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nextrp.ru:6969/announce
+udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.zooki.xyz:6969/announce
@@ -291,8 +292,8 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
+udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
-udp://u.wwwww.wtf:1/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
@@ -301,4 +302,4 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
-udp://zephir.monocul.us:6969/announce
+wss://tracker.novage.com.ua:443/announce
