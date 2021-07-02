@@ -52,6 +52,7 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://rt.tace.ru:80/announce
 http://secure.pow7.com:80/announce
+http://server0001.duckdns.org:443/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
@@ -95,6 +96,7 @@ http://tracker.ktxp.org:7070/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.nyap2p.com:8080/announce
+http://tracker.pow7.com:80/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
@@ -103,7 +105,6 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
-http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.xfsub.com:6868/announce
@@ -168,7 +169,6 @@ udp://bt.100.pet:2711/announce
 udp://bt.1000.pet:2713/announce
 udp://bt.10000.pet:2715/announce
 udp://bt.delbertbeta.cc:19943/announce
-udp://bt.firebit.org:2710/announce
 udp://bt.hackfront.eu:6969/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -249,10 +249,8 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.zemoj.com:6969/announce
 udp://tracker.zooki.xyz:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
@@ -261,6 +259,7 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
+udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
@@ -272,3 +271,4 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
+udp://zephir.monocul.us:6969/announce
