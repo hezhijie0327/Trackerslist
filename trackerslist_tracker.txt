@@ -34,7 +34,6 @@ http://hdreactor.org:2710/announce
 http://inferno.demonoid.ooo:3395/announce
 http://inferno.demonoid.ooo:3410/announce
 http://inferno.demonoid.ooo:3412/announce
-http://inferno.demonoid.ooo:3416/announce
 http://inferno.demonoid.ooo:3418/announce
 http://inferno.demonoid.ph:3415/announce
 http://ipv4.tracker.harry.lu:80/announce
@@ -42,6 +41,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://kamileg.dynv6.net:9000/announce
+http://mediaclub.tv:80/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
 http://mixfiend.com:6969/announce
@@ -133,6 +133,7 @@ http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker3.dler.org:2710/announce
 http://tracker4.itzmx.com:2710/announce
+http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://www.mvgroup.org:2710/announce
@@ -145,7 +146,6 @@ https://1337.abcvg.info:443/announce
 https://atrack-asia-e2.120181311.xyz:443/announce
 https://bittorrent.gongt.net:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
-https://danielrcloud.ddns.net:443/announce
 https://mytracker.fly.dev:443/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
@@ -157,6 +157,7 @@ https://sound-park.world:443/announce
 https://t.quic.ws:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent.rexjohannes.repl.co:443/announce
+https://torrent.ubuntu.com:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce
@@ -185,8 +186,8 @@ https://w.wwwww.wtf:443/announce
 https://wtorrent.manalejandro.com:443/announce
 https://www.wareztorrent.com:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://9.rarbg.com:2740/announce
 udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2850/announce
 udp://9.rarbg.com:2980/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
@@ -248,7 +249,9 @@ udp://ns1.epsilonthree.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
+udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
@@ -263,6 +266,7 @@ udp://robbmob.com:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://storage.groupees.com:6969/announce
+udp://sugoi.pomf.se:80/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
 udp://thetribunes.xyz:6969/announce
@@ -279,6 +283,7 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.dler.com:6969/announce
@@ -295,10 +300,12 @@ udp://tracker.nighthawk.pw:2052/announce
 udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://tracker.sbsub.com:2710/announce
 udp://tracker.shittyurl.org:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sktorrent.net:6969/announce
@@ -317,6 +324,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tsundere.pw:6969/announce
+udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://ultra.zt.ua:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce

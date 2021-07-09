@@ -36,6 +36,7 @@ http://googer.cc:1337/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://home.yxgz.club:6969/announce
+http://inferno.demonoid.ooo:3416/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://lima-peru.subventas.com:443/announce
 http://magic.felfoldi.net:6969/announce
@@ -104,7 +105,6 @@ http://tracker.publicbt.com:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
-http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
@@ -126,7 +126,6 @@ http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
-http://trk.publictracker.xyz:6969/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -141,6 +140,7 @@ https://bitstorm.azukachan.com:443/announce
 https://bt.nfshost.com:443/announce
 https://carapax.net:443/announce
 https://danielcloud.ddns.net:443/announce
+https://danielrcloud.ddns.net:443/announce
 https://opentracker.co:443/announce
 https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
@@ -217,7 +217,6 @@ udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.si:1337/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.cl:1337/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -228,6 +227,8 @@ udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
+udp://t2.leech.ie:1337/announce
+udp://t3.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -254,7 +255,6 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nextrp.ru:6969/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -269,9 +269,7 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
-udp://u.wwwww.wtf:1/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
