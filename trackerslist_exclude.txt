@@ -116,7 +116,6 @@ http://tracker.sakurato.xyz:23333/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.sukimad.com:3901/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.tordb.ml:6881/announce
@@ -157,7 +156,6 @@ https://rt.msk-server.ga:443/announce
 https://rt.proxy-for.ga:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
-https://tr.steins-gate.moe:2096/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.ecdn.icu:8443/announce
@@ -219,7 +217,6 @@ udp://free1.mchost.cc:26137/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://inferno.demonoid.is:3391/announce
-udp://inferno.demonoid.pw:3418/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu:80/announce
@@ -242,7 +239,6 @@ udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
-udp://t3.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -254,6 +250,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.fileparadise.in:1337/announce
@@ -284,13 +282,11 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://tv.axfree.net:6969/announce
-udp://u.wwwww.wtf:1/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
 udp://v-192-223-24-180.unman-vds.inap-nyc.nfoservers.com:6969/announce
 udp://www.loushao.net:8080/announce
-udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
