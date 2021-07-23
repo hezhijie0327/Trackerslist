@@ -91,7 +91,6 @@ http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
-http://mediaclub.tv:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://milanesitracker.tekcities.com:80/announce
@@ -173,8 +172,6 @@ http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
-http://tracker.acg.gg:1578/announce
-http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
@@ -263,7 +260,6 @@ http://tracker.vcke.xyz:8080/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfsub.com:6868/announce
-http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
@@ -289,12 +285,10 @@ http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.36dm.com:2710/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.blackcats-games.net:2228/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
-http://www.proxmox.com:6969/announce
 http://www.skyts.net:6969/announce
 http://www.thegeeks.bz:3210/announce
 http://www.theoccult.bz:3010/announce
@@ -366,6 +360,7 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.publictorrent.net:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
+https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -382,9 +377,10 @@ https://www.wareztorrent.com:443/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://9.rarbg.com:2750/announce
+udp://9.rarbg.com:2760/announce
 udp://9.rarbg.com:2810/announce
-udp://9.rarbg.com:2860/announce
+udp://9.rarbg.com:2830/announce
+udp://9.rarbg.com:2950/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://aaa.army:8866/announce
@@ -468,7 +464,6 @@ udp://grohub07.grohub.org:80/announce
 udp://handrew.me:6969/announce
 udp://icynet.eu:6969/announce
 udp://inferno.demonoid.is:3391/announce
-udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.btsync.gq:2710/announce
@@ -526,7 +521,10 @@ udp://rutorrent.frontline-mod.com:6969/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://storage.groupees.com:6969/announce
+udp://sugoi.pomf.se:80/announce
 udp://t.lint2.com:9000/announce
+udp://t1.leech.ie:1337/announce
+udp://t3.leech.ie:1337/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
 udp://thetribunes.xyz:6969/announce
@@ -566,7 +564,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.fortu.io:6969/announce
-udp://tracker.gbitt.info:80/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
@@ -584,7 +581,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nextrp.ru:6969/announce
 udp://tracker.nighthawk.pw:2052/announce
-udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -651,6 +647,7 @@ udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
+ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.files.fm:7073/announce
