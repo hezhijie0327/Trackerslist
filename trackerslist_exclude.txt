@@ -78,6 +78,7 @@ http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bz:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.ex.ua:80/announce
@@ -192,7 +193,6 @@ udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 udp://free.publictracker.xyz:6969/announce
-udp://free1.mchost.cc:26137/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://ipv6.mercax.com:53/announce
@@ -207,6 +207,7 @@ udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.si:1337/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.cl:1337/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -216,8 +217,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
-udp://sugoi.pomf.se:80/announce
 udp://t.lint2.com:9000/announce
+udp://t3.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -228,7 +229,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.casual.run:6969/announce
-udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -244,8 +244,6 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
-udp://tracker.openbittorrent.com:80/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
@@ -263,6 +261,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://tv.axfree.net:6969/announce
+udp://u.wwwww.wtf:1/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
