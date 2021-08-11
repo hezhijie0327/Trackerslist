@@ -45,7 +45,6 @@ http://mgtracker.org:6969/announce
 http://nbz.f3322.net:36006/announce
 http://netwarer.xyz:6960/announce
 http://novaopcj.icu:10325/announce
-http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.nyaatorrents.info:6544/announce
 http://opentracker.i2p.rocks:6969/announce
@@ -82,7 +81,6 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.nl:80/announce
@@ -173,6 +171,7 @@ udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://asger.xyz:6969/announce
+udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.100.pet:2711/announce
@@ -188,6 +187,7 @@ udp://caramelo.ddns.net:8000/announce
 udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
 udp://chanchan.uchuu.co.uk:6969/announce
+udp://chucaiyun.cn:6969/announce
 udp://citrus.carapax.net:6969/announce
 udp://colombia.subventas.com:53/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
@@ -204,7 +204,6 @@ udp://frank.cise.ufl.edu:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
-udp://handrew.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.btsync.gq:2710/announce
@@ -222,13 +221,13 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
+udp://qg.lorzl.gq:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
-udp://t1.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
@@ -239,8 +238,11 @@ udp://tracker.3304399.com:6969/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:6969/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.fileparadise.in:1337/announce
