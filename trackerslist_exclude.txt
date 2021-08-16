@@ -103,7 +103,6 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.vcke.xyz:8080/announce
-http://tracker.vraphim.com:6969/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
@@ -175,6 +174,7 @@ udp://bt.yui.cat:55268/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
+udp://camera.lei001.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
@@ -215,6 +215,7 @@ udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
@@ -229,11 +230,15 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.casual.run:6969/announce
+udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
-udp://tracker.e-utp.net:6969/announce
 udp://tracker.fileparadise.in:1337/announce
 udp://tracker.fortu.io:6969/announce
+udp://tracker.grepler.com:6969/announce
+udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.joybomb.tw:6969/announce
@@ -247,8 +252,10 @@ udp://tracker.ololosh.space:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
+udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.v6speed.org:6969/announce
+udp://tracker.vanitycore.co:6969/announce
 udp://tracker.xn--vzyr4p.top:80/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zooki.xyz:6969/announce
@@ -258,7 +265,6 @@ udp://tracker1.absentmusing.com:8000/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
