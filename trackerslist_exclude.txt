@@ -61,11 +61,11 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
-http://tracker.frozen-layer.com:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigateam.net:6969/announce
 http://tracker.gigatorrent.xyz:6969/announce
@@ -74,6 +74,7 @@ http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kisssub.org:2015/announce
+http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -86,6 +87,7 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tyker.xyz:8080/announce
+http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
@@ -109,13 +111,11 @@ https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://bt.nfshost.com:443/announce
-https://carapax.net:443/announce
 https://danielcloud.ddns.net:443/announce
 https://danielrcloud.ddns.net:443/announce
 https://publictracker.pp.ua:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
-https://tracker.coalition.space:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.ecdn.icu:8443/announce
@@ -166,6 +166,7 @@ udp://frank.cise.ufl.edu:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
+udp://handrew.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.btsync.gq:2710/announce
@@ -189,7 +190,6 @@ udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
-udp://t2.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -200,14 +200,15 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.casual.run:6969/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.fortu.io:6969/announce
+udp://tracker.grepler.com:6969/announce
+udp://tracker.halfchub.club:6969/announce
 udp://tracker.haynet.io:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.kamigami.org:2710/announce
 udp://tracker.leech.ie:1337/announce
+udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
@@ -217,7 +218,6 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.zemoj.com:6969/announce
 udp://tracker.zooki.xyz:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
