@@ -51,7 +51,6 @@ http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
 http://tk.nvacg.org:3333/announce
 http://torrent.nwps.ws:80/announce
-http://torrentclub.online:54123/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
@@ -192,9 +191,7 @@ udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
-udp://t1.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
-udp://torrentclub.online:54123/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-v6.zooki.xyz:6969/announce
@@ -206,7 +203,6 @@ udp://tracker.casual.run:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.fortu.io:6969/announce
-udp://tracker.grepler.com:6969/announce
 udp://tracker.haynet.io:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.kamigami.org:2710/announce
@@ -230,6 +226,7 @@ udp://tracker1.absentmusing.com:8000/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
+udp://udp.tracker.coalition.space:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
