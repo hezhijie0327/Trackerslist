@@ -154,6 +154,7 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
+http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de:80/announce
 http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
@@ -200,6 +201,7 @@ http://tracker.etree.org:6969/announce
 http://tracker.ex.ua:80/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
+http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.funfile.org:2710/announce
 http://tracker.gbitt.info:80/announce
@@ -238,7 +240,6 @@ http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
-http://tracker.shittyurl.org:80/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -379,9 +380,9 @@ https://www.wareztorrent.com:443/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://9.rarbg.com:2770/announce
 udp://9.rarbg.com:2810/announce
-udp://9.rarbg.com:2970/announce
+udp://9.rarbg.com:2830/announce
+udp://9.rarbg.com:2900/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://aaa.army:8866/announce
@@ -432,6 +433,7 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
 udp://daveking.com:6969/announce
+udp://denis.stalker.upeer.me:1337/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dns.mercax.com:53/announce
 udp://dpiui.reedlan.com:6969/announce
@@ -489,6 +491,7 @@ udp://open.demonii.si:1337/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
+udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -516,7 +519,8 @@ udp://sd-161673.dedibox.fr:6969/announce
 udp://storage.groupees.com:6969/announce
 udp://sugoi.pomf.se:80/announce
 udp://t.lint2.com:9000/announce
-udp://t3.leech.ie:1337/announce
+udp://t1.leech.ie:1337/announce
+udp://t2.leech.ie:1337/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
 udp://threads.run:6969/announce
