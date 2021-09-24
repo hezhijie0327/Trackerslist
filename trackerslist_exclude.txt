@@ -13,7 +13,6 @@ http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
-http://bt.firebit.org:2710/announce
 http://bt.hliang.com:2710/announce
 http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
@@ -65,6 +64,8 @@ http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
 http://tk.nvacg.org:3333/announce
 http://torrent.nwps.ws:80/announce
+http://torrentclub.online:54123/announce
+http://torrentclub.tech:6969/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
@@ -86,7 +87,6 @@ http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
-http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigateam.net:6969/announce
@@ -188,11 +188,13 @@ udp://cx42light.cn:39652/announce
 udp://dns.mercax.com:53/announce
 udp://exodus.desync.com:6969/announce
 udp://exponage-api.com:6969/announce
+udp://fasttracker.foreverpirates.co:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 udp://frank.cise.ufl.edu:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
+udp://handrew.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.btsync.gq:2710/announce
@@ -215,9 +217,8 @@ udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
-udp://t1.leech.ie:1337/announce
-udp://t2.leech.ie:1337/announce
 udp://torrent.tdjs.tech:6969/announce
+udp://torrentclub.online:54123/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-v6.zooki.xyz:6969/announce
@@ -231,6 +232,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.fortu.io:6969/announce
+udp://tracker.halfchub.club:6969/announce
 udp://tracker.haynet.io:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.kamigami.org:2710/announce
@@ -244,6 +246,7 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.v6speed.org:6969/announce
+udp://tracker.zemoj.com:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
@@ -251,6 +254,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://tsundere.pw:6969/announce
+udp://u.wwwww.wtf:1/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
@@ -261,4 +265,5 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
+udp://zephir.monocul.us:6969/announce
 wss://tracker.novage.com.ua:443/announce
