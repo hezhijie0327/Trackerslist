@@ -29,6 +29,7 @@ http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.artvid.ru:6969/announce
 http://bt.beatrice-raws.org:80/announce
+http://bt.btvery.com:2710/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
@@ -71,6 +72,7 @@ http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://filetracker.xyz:11451/announce
 http://fosstorrents.com:6969/announce
+http://fr33dom.h33t.com:3310/announce
 http://freerainbowtables.com:6969/announce
 http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
@@ -95,6 +97,7 @@ http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
+http://mediaclub.tv:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://milanesitracker.tekcities.com:80/announce
@@ -215,7 +218,6 @@ http://tracker.fdn.fr:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.flashtorrents.org:6969/announce
-http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
@@ -252,6 +254,7 @@ http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
+http://tracker.shittyurl.org:80/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -301,6 +304,7 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.36dm.com:2710/announce
 http://www.blackcats-games.net:2228/announce
 http://www.freerainbowtables.com:6969/announce
+http://www.h33t.com:3310/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.skyts.net:6969/announce
@@ -400,8 +404,8 @@ udp://9.rarbg.com:2780/announce
 udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2880/announce
 udp://9.rarbg.com:2930/announce
-udp://9.rarbg.com:2950/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
