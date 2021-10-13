@@ -205,7 +205,6 @@ http://tracker.fdn.fr:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.flashtorrents.org:6969/announce
-http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
@@ -391,7 +390,6 @@ udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2880/announce
-udp://9.rarbg.com:2900/announce
 udp://9.rarbg.com:2930/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
@@ -620,6 +618,7 @@ udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
