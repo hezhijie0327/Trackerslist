@@ -3,6 +3,7 @@ http://5rt.tace.ru:60889/announce
 http://a.leopard-raws.org:6969/announce
 http://aaa.army:8866/announce
 http://aws1.millegrilles.com:6969/announce
+http://beertracker.ml:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -99,15 +100,12 @@ http://tracker.sakurato.xyz:23333/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.tfile.co:80/announce
-http://tracker.tiny-vps.com:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrenty.org:6969/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.xfsub.com:6868/announce
-http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.itzmx.com:8080/announce
@@ -147,7 +145,6 @@ https://tracker.nodetopia.xyz:443/announce
 https://tracker.nullrebel.com:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
-https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -162,7 +159,6 @@ udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aruacfilmes.com.br:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.hackfront.eu:6969/announce
@@ -235,7 +231,10 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.ccc.de:80/announce
+udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.filetracker.pl:8089/announce
@@ -258,13 +257,10 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sakurato.art:23333/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.sigterm.xyz:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
-udp://tracker.zemoj.com:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
@@ -275,7 +271,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://tsundere.pw:6969/announce
-udp://u.wwwww.wtf:1/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
