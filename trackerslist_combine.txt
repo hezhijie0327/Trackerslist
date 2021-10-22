@@ -73,7 +73,6 @@ http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
-http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
@@ -276,7 +275,6 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
-https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-e2.120181311.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
@@ -342,7 +340,6 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yui.cat:443/announce
 https://tracker2.absentmusing.com:443/announce
-https://tracker6.lelux.fi:443/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
 https://w.wwwww.wtf:443/announce
@@ -362,8 +359,7 @@ udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2880/announce
-udp://9.rarbg.com:2930/announce
-udp://9.rarbg.com:2950/announce
+udp://9.rarbg.com:2890/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -631,7 +627,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
 udp://tracker.openbittorrent.com:1337/announce
-udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pirateparty.gr:6969/announce
