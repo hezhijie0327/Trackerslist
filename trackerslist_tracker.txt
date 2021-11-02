@@ -22,7 +22,6 @@ http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt1.archive.org:6969/announce
 http://bt1.the9.com:6969/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://btfile.sdo.com:6961/announce
@@ -94,7 +93,6 @@ http://torrentsmd.eu:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org:80/announce
 http://tr.bangumi.moe:6969/announce
-http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://tr.ysagin.top:2710/announce
@@ -109,7 +107,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.corpscorp.online:80/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -136,6 +133,7 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.pow7.com:80/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
+http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.me:80/announce
 http://tracker.theempire.bz:3110/announce
@@ -149,6 +147,7 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
 http://tracker.zerobytes.xyz:1337/announce
@@ -157,7 +156,6 @@ http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker3.dler.org:2710/announce
 http://tracker4.itzmx.com:2710/announce
-http://tracker810.xyz:11450/announce
 http://trackme.theom.nz:80/announce
 http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
@@ -211,6 +209,7 @@ https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
 https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
+https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.trafficmgr.net:443/announce
 https://tracker2.absentmusing.com:443/announce
@@ -230,7 +229,7 @@ udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2880/announce
-udp://9.rarbg.com:2930/announce
+udp://9.rarbg.com:2940/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -274,6 +273,7 @@ udp://anonseed.com:6969/announce
 udp://asger.xyz:6969/announce
 udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
+udp://bioquantum.co.za:6969/announce
 udp://bitsparadise.info:6969/announce
 udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
@@ -412,9 +412,10 @@ udp://tracker.trackerfix.com:85/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.xn--vzyr4p.top:80/announce
-udp://tracker.zemoj.com:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.zooki.xyz:6969/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -423,7 +424,6 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://tsundere.pw:6969/announce
 udp://tv.axfree.net:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://ultra.zt.ua:6969/announce
@@ -444,3 +444,4 @@ ws://tracker.files.fm:7072/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.sloppyta.co:443/announce

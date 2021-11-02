@@ -43,7 +43,6 @@ http://bt.wiiyi.com:6969/announce
 http://bt.zlofenix.org:81/announce
 http://bt1.archive.org:6969/announce
 http://bt1.the9.com:6969/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
@@ -91,7 +90,6 @@ http://mirror.aptus.co.tz:6969/announce
 http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
-http://nbz.f3322.net:36006/announce
 http://newtoncity.org:6969/announce
 http://novaopcj.icu:10325/announce
 http://npserver.intranet.pw:4201/announce
@@ -163,7 +161,6 @@ http://torrentsmd.eu:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org:80/announce
 http://tr.bangumi.moe:6969/announce
-http://tr.cili001.com:6666/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://tr.ysagin.top:2710/announce
@@ -175,6 +172,7 @@ http://tracker.acgnx.se:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
+http://tracker.animeun.com:6969/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:81/announce
@@ -186,13 +184,13 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dmhy.org:8000/announce
 http://tracker.dutchtracking.com:80/announce
@@ -223,6 +221,8 @@ http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
+http://tracker.ktxp.org:6868/announce
+http://tracker.ktxp.org:7070/announce
 http://tracker.kuroy.me:5944/announce
 http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
@@ -241,6 +241,7 @@ http://tracker.pow7.com:80/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
+http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -266,6 +267,7 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
@@ -282,7 +284,6 @@ http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker6.emce.org:12345/announce
-http://tracker810.xyz:11450/announce
 http://trackme.theom.nz:80/announce
 http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
@@ -392,7 +393,7 @@ udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2880/announce
-udp://9.rarbg.com:2930/announce
+udp://9.rarbg.com:2940/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce

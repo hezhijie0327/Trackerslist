@@ -41,7 +41,6 @@ http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
-http://nbz.f3322.net:36006/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://oh.fuuuuuck.com:6969/announce
@@ -73,14 +72,16 @@ http://tracker.36dm.com:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
+http://tracker.animeun.com:6969/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.breizh.pm:6969/announce
-http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.darmowy-torrent.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.dutchtracking.nl:80/announce
@@ -98,18 +99,20 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
+http://tracker.ktxp.org:6868/announce
+http://tracker.ktxp.org:7070/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.publicbt.com:80/announce
+http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.sloppyta.co:80/announce
 http://tracker.tfile.co:80/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.tyker.xyz:8080/announce
@@ -151,7 +154,6 @@ https://tracker.nullrebel.com:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.skynetcloud.site:8443/announce
-https://tracker.sloppyta.co:443/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -165,7 +167,6 @@ udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aruacfilmes.com.br:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.hackfront.eu:6969/announce
@@ -262,8 +263,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.tempest.org.cn:6969/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.yoshi210.com:6969/announce
-udp://tracker.zooki.xyz:6969/announce
+udp://tracker.zemoj.com:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
@@ -273,6 +273,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
+udp://tsundere.pw:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
@@ -287,4 +288,3 @@ udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 wss://tracker.novage.com.ua:443/announce
-wss://tracker.sloppyta.co:443/announce
