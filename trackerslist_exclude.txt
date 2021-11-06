@@ -9,7 +9,6 @@ http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
-http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:6969/announce
 http://bt.henbt.com:2710/announce
@@ -29,7 +28,6 @@ http://h4.trakx.nibba.trade:80/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
 http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
-http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
@@ -47,7 +45,7 @@ http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://rt.tace.ru:80/announce
-http://share.camecn:8080/announce
+http://server0001.duckdns.org:443/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.overflow.biz:6969/announce
 http://t.pldm.ml:6969/announce
@@ -101,7 +99,6 @@ http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
-http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tyker.xyz:8080/announce
@@ -120,10 +117,10 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.loushao.net:8080/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
-https://4.tracker.eu.org:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://bt.nfshost.com:443/announce
+https://carapax.net:443/announce
 https://danielcloud.ddns.net:443/announce
 https://danielrcloud.ddns.net:443/announce
 https://mytracker.fly.dev:443/announce
@@ -146,7 +143,6 @@ https://tracker.torrentsnows.com:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yui.cat:443/announce
-https://tracker6.lelux.fi:443/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://6rt.tace.ru:80/announce
@@ -250,8 +246,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.tempest.org.cn:6969/announce
+udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.v6speed.org:6969/announce
-udp://tracker.zemoj.com:6969/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
