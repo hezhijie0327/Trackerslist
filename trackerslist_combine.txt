@@ -317,6 +317,7 @@ https://torrent.ubuntu.com:443/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce
+https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga:443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.coalition.space:443/announce
@@ -724,6 +725,7 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
+ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.files.fm:7073/announce
