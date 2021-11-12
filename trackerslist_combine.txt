@@ -35,7 +35,6 @@ http://bt.ttk.artvid.ru:6969/announce
 http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt1.archive.org:6969/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
@@ -71,7 +70,6 @@ http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
-http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
@@ -164,7 +162,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.corpscorp.online:80/announce
@@ -223,7 +220,6 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
-http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentyorg.pl:80/announce
@@ -251,7 +247,6 @@ http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker6.emce.org:12345/announce
-http://tracker810.xyz:11450/announce
 http://trackme.theom.nz:80/announce
 http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
@@ -267,9 +262,9 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
-https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-e2.120181311.xyz:443/announce
+https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.nfshost.com:443/announce
@@ -334,7 +329,6 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yui.cat:443/announce
 https://tracker2.absentmusing.com:443/announce
-https://tracker6.lelux.fi:443/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
 https://w.wwwww.wtf:443/announce
@@ -572,6 +566,7 @@ udp://tracker.3304399.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
+udp://tracker.auctor.tv:6969/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
