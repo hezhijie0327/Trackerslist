@@ -8,6 +8,7 @@ http://acg.rip:6699/announce
 http://anidex.moe:6969/announce
 http://ankeschwarz.net:6969/announce
 http://announce.partis.si:80/announce
+http://announce.torrentsmd.com:6969/announce
 http://atrack.pow7.com:80/announce
 http://aws1.millegrilles.com:6969/announce
 http://baibako.tv:80/announce
@@ -18,11 +19,11 @@ http://bigfoot1942.sektori.org:6969/announce
 http://bobbialbano.com:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
-http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.beatrice-raws.org:80/announce
+http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:6969/announce
 http://bt.henbt.com:2710/announce
@@ -44,7 +45,6 @@ http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
-http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
@@ -78,6 +78,7 @@ http://jabber.esiliati.org:6969/announce
 http://jsb.by:8000/announce
 http://kamileg.dynv6.net:9000/announce
 http://lima-peru.subventas.com:443/announce
+http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
@@ -215,6 +216,7 @@ http://tracker.kisssub.org:2015/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.leechers-paradise.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
 http://tracker.loadbt.com:6969/announce
@@ -232,7 +234,6 @@ http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
-http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
@@ -283,6 +284,7 @@ http://zip.files.fm:6969/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-e2.120181311.xyz:443/announce
 https://atrack-asia-s1.114913.xyz:443/announce
@@ -349,6 +351,7 @@ https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yui.cat:443/announce
 https://tracker2.absentmusing.com:443/announce
+https://tracker6.lelux.fi:443/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
 https://w.wwwww.wtf:443/announce
@@ -719,7 +722,6 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
-ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.files.fm:7073/announce
