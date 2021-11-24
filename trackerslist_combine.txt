@@ -71,7 +71,6 @@ http://explodie.org:6969/announce
 http://filetracker.xyz:11451/announce
 http://fosstorrents.com:6969/announce
 http://freerainbowtables.com:6969/announce
-http://freetracker.top:11450/announce
 http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://googer.cc:1337/announce
@@ -236,7 +235,6 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
-http://tracker.nighthawk.pw:2052/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyap2p.com:8080/announce
@@ -325,7 +323,6 @@ https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
-https://p2pdl.com:443/announce
 https://publictracker.pp.ua:443/announce
 https://qbittorrent-tracker.120181311.xyz:443/announce
 https://retracker.now.sh:443/announce
@@ -466,7 +463,7 @@ udp://api.bitumconference.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://asger.xyz:6969/announce
-udp://atrack-asia-e2.120181311.xyz:80/announce
+udp://atrack-asia-e2.120181311.xyz:443/announce
 udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
 udp://bioquantum.co.za:6969/announce
@@ -544,7 +541,6 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.leechers-paradise.org:6969/announce
 udp://ipv6.mercax.com:53/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -665,6 +661,7 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.doko.moe:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -719,7 +716,6 @@ udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sakurato.art:23333/announce
 udp://tracker.sbsub.com:2710/announce
-udp://tracker.shittyurl.org:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.sktorrent.net:6969/announce
@@ -794,6 +790,7 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
+ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce
 ws://tracker.sloppyta.co:80/announce
