@@ -439,7 +439,6 @@ udp://api.bitumconference.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://asger.xyz:6969/announce
-udp://atrack-asia-e2.120181311.xyz:443/announce
 udp://bclearning.top:6969/announce
 udp://benouworldtrip.fr:6969/announce
 udp://bioquantum.co.za:6969/announce
@@ -512,7 +511,6 @@ udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://handrew.me:6969/announce
 udp://home.felfoldi.net:6969/announce
-udp://icynet.eu:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.leechers-paradise.org:6969/announce
@@ -582,7 +580,6 @@ udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://robbmob.com:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
-udp://rutschmania.duckdns.org:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
@@ -701,14 +698,12 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.teambelgium.net:6969/announce
-udp://tracker.tempest.org.cn:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.thinelephant.org:12710/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:81/announce
 udp://tracker.trackerfix.com:85/announce
-udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
@@ -766,7 +761,6 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
-ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce
 ws://tracker.sloppyta.co:80/announce

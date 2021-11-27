@@ -28,6 +28,7 @@ http://ed2k.vip:33333/announce
 http://ed2k.vip:7070/announce
 http://exodus.desync.com:6969/announce
 http://filetracker.xyz:11451/announce
+http://googer.cc:1337/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://home.yxgz.club:6969/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
@@ -75,7 +76,6 @@ http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.darmowy-torrent.pl:80/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.dutchtracking.nl:80/announce
@@ -104,11 +104,13 @@ http://tracker.sakurato.art:23333/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
+http://tracker.sloppyta.co:80/announce
 http://tracker.tfile.co:80/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vcke.xyz:8080/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.ygsub.com:6969/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.itzmx.com:8080/announce
@@ -153,6 +155,7 @@ https://tracker.nullrebel.com:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.skynetcloud.site:8443/announce
+https://tracker.sloppyta.co:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yui.cat:443/announce
@@ -187,6 +190,7 @@ udp://colombia.subventas.com:53/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cx42light.cn:39652/announce
 udp://cyteam.ru:6969/announce
+udp://denis.stalker.upeer.me:6969/announce
 udp://dns.mercax.com:53/announce
 udp://edenbridge.org.uk:6969/announce
 udp://eliastre100.fr:6969/announce
@@ -229,7 +233,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://rutschmania.duckdns.org:6969/announce
 udp://t.lint2.com:9000/announce
 udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
@@ -281,11 +284,10 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-udp://tracker.tempest.org.cn:6969/announce
-udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
+udp://tracker.zemoj.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
@@ -296,7 +298,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
-udp://tsundere.pw:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
@@ -308,4 +309,6 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
+ws://tracker.sloppyta.co:80/announce
 wss://tracker.novage.com.ua:443/announce
+wss://tracker.sloppyta.co:443/announce
