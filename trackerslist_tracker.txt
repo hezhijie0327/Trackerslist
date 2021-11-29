@@ -28,7 +28,6 @@ http://bt2.archive.org:6969/announce
 http://btfile.sdo.com:6961/announce
 http://bttrack.9you.com:8080/announce
 http://bttracker.debian.org:6969/announce
-http://buny.uk:6969/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 http://cloud.nyap2p.com:8080/announce
 http://cocaine.ninja:6969/announce
@@ -44,7 +43,6 @@ http://grifon.info:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://jabber.esiliati.org:6969/announce
-http://jsb.by:8000/announce
 http://milanesitracker.tekcities.com:80/announce
 http://mirror.aptus.co.tz:6969/announce
 http://mixfiend.com:6969/announce
@@ -61,6 +59,7 @@ http://nyaatorrents.info:7266/announce
 http://oh.fuuuuuck.com:6969/announce
 http://open.acgnxtracker.com:80/announce
 http://open.trackerlist.xyz:80/announce
+http://openbittorrent.com:80/announce
 http://opentracker.i2p.rocks:6969/announce
 http://opentrackr.org:1337/announce
 http://p4p.arenabg.com:1337/announce
@@ -137,7 +136,6 @@ http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
-http://tracker.sloppyta.co:80/announce
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
@@ -148,7 +146,7 @@ http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.uw0.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
-http://tracker.yoshi210.com:6969/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -173,6 +171,7 @@ https://bittorrent.gongt.net:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.co:443/announce
+https://qbittorrent-tracker.120181311.xyz:443/announce
 https://retracker.now.sh:443/announce
 https://sound-park.world:443/announce
 https://t.btcland.xyz:443/announce
@@ -206,7 +205,6 @@ https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
 https://tracker.publictorrent.net:443/announce
 https://tracker.shittyurl.org:443/announce
-https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker2.absentmusing.com:443/announce
@@ -309,6 +307,7 @@ udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cyteam.ru:6969/announce
 udp://daveking.com:6969/announce
+udp://denis.stalker.upeer.me:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
@@ -318,6 +317,7 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 udp://explodie.org:6969/announce
 udp://f68.n5022.z2.binkp.net:6969/announce
+udp://fasttracker.foreverpirates.co:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://forever.publictracker.xyz:6969/announce
 udp://forum.m3x.org:6969/announce
@@ -394,6 +394,8 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
@@ -441,8 +443,6 @@ udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.xn--vzyr4p.top:80/announce
-udp://tracker.yoshi210.com:6969/announce
-udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zooki.xyz:6969/announce
@@ -469,10 +469,9 @@ udp://xxxtor.com:2710/announce
 udp://z.crazyhd.com:2710/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
+ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce
-ws://tracker.sloppyta.co:80/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.sloppyta.co:443/announce
