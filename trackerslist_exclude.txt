@@ -36,6 +36,7 @@ http://ed2k.vip:7070/announce
 http://exodus.desync.com:6969/announce
 http://filetracker.xyz:11451/announce
 http://genesis.1337x.org:1337/announce
+http://googer.cc:1337/announce
 http://grifon.info:80/announce
 http://home.yxgz.club:6969/announce
 http://home.yxgz.vip:6969/announce
@@ -60,6 +61,7 @@ http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://rt.tace.ru:80/announce
+http://share.camecn:8080/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.overflow.biz:6969/announce
 http://t.pldm.ml:6969/announce
@@ -84,6 +86,7 @@ http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.darmowy-torrent.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
@@ -153,6 +156,7 @@ https://qbittorrent-tracker.120181311.xyz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://tr.steins-gate.moe:2096/announce
+https://tr.torland.ga:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.cyber-hub.net:443/announce
@@ -184,7 +188,6 @@ udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://bioquantum.co.za:6969/announce
-udp://bitsparadise.info:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.dy20188.com:80/announce
@@ -199,7 +202,6 @@ udp://bubu.mapfactor.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
-udp://chanakancloud.net:6969/announce
 udp://chanchan.uchuu.co.uk:6969/announce
 udp://chucaiyun.cn:6969/announce
 udp://colombia.subventas.com:53/announce
@@ -219,7 +221,6 @@ udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 udp://home.felfoldi.net:6969/announce
 udp://inferno.demonoid.is:3391/announce
-udp://ipv6.mercax.com:53/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -236,6 +237,7 @@ udp://npge.nprotect.com:6969/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.nyaatorrents.info:6544/announce
 udp://open.publictracker.xyz:6969/announce
+udp://opentracker.arg.bz:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -271,8 +273,6 @@ udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
-udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.felfoldi.net:6969/announce
@@ -325,7 +325,6 @@ udp://vibesleepyinternetfun.xyz:1738/announce
 udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://z.mercax.com:53/announce
-udp://zephir.monocul.us:6969/announce
 ws://tracker.sloppyta.co:80/announce
 wss://tracker.novage.com.ua:443/announce
 wss://tracker.sloppyta.co:443/announce
