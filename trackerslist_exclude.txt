@@ -11,6 +11,7 @@ http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
+http://bt.careland.com.cn:6969/announce
 http://bt.edwardk.info:4040/announce
 http://bt.edwardk.info:6969/announce
 http://bt.henbt.com:2710/announce
@@ -40,6 +41,7 @@ http://open.lolicon.eu:7777/announce
 http://open.nyaatorrents.info:6544/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
+http://opentracker.lingyurouqing.xyz:15004/announce
 http://opentracker.xyz:80/announce
 http://p4p.arenabg.ch:1337/announce
 http://pubt.net:2710/announce
@@ -51,7 +53,6 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://rt.tace.ru:80/announce
-http://share.camecn:8080/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
@@ -65,6 +66,7 @@ http://torrentclub.online:54123/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
+http://tracker.36dm.com:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
@@ -102,6 +104,7 @@ http://tracker.sakurato.art:23333/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
+http://tracker.tfile.co:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.vanitycore.co:6969/announce
@@ -167,7 +170,6 @@ udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.dy20188.com:80/announce
 udp://bt.hackfront.eu:6969/announce
-udp://bt.oiyo.tk:6969/announce
 udp://bt.reyesleon.eu:53/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
@@ -184,7 +186,6 @@ udp://chucaiyun.cn:6969/announce
 udp://colombia.subventas.com:53/announce
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 udp://cx42light.cn:39652/announce
-udp://cyteam.ru:6969/announce
 udp://dns.mercax.com:53/announce
 udp://edenbridge.org.uk:6969/announce
 udp://eliastre100.fr:6969/announce
@@ -270,7 +271,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.prq.to:80/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
-udp://tracker.sakurato.art:23333/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
