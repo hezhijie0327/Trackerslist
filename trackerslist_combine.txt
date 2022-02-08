@@ -24,8 +24,14 @@ http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.careland.com.cn:6969/announce
+http://bt.edwardk.info:12891/announce
+http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
+http://bt.edwardk.info:63124/announce
+http://bt.edwardk.info:676/announce
+http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
+http://bt.edwardk.info:972/announce
 http://bt.endpot.com:80/announce
 http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
@@ -45,7 +51,6 @@ http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bt1.the9.com:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
-http://bt2.54new.com:8080/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
@@ -88,7 +93,6 @@ http://mixfiend.com:6969/announce
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://newtoncity.org:6969/announce
-http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
@@ -179,7 +183,6 @@ http://tracker.baltracker.net:3390/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bittor.pw:1337/announce
-http://tracker.bittorrent.am:80/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btsync.gq:233/announce
