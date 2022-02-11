@@ -32,10 +32,10 @@ http://filetracker.xyz:11451/announce
 http://ftp.pet:7777/announce
 http://genesis.1337x.org:1337/announce
 http://googer.cc:1337/announce
+http://gwp2-v19.rinet.ru:80/announce
 http://home.yxgz.club:6969/announce
 http://home.yxgz.vip:6969/announce
 http://ipv6-publictracker.zooki.xyz:6969/announce
-http://jsb.by:8000/announce
 http://lima-peru.subventas.com:443/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
@@ -53,6 +53,7 @@ http://pubt.net:2710/announce
 http://retracker.goodline.info:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
+http://retracker.krs-ix.ru:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.telecom.by:80/announce
@@ -78,6 +79,7 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.nl:80/announce
@@ -99,7 +101,6 @@ http://tracker.publicbt.com:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -114,6 +115,7 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.wasabii.com.tw:6969/announce
+http://tracker3.dler.org:2710/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker6.emce.org:12345/announce
 http://trk.publictracker.xyz:6969/announce
@@ -126,6 +128,7 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
+https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://bt.nfshost.com:443/announce
 https://danielcloud.ddns.net:443/announce
@@ -216,6 +219,7 @@ udp://mgtracker.org:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.publictracker.xyz:6969/announce
+udp://open.tracker.ink:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.sktorrent.org:6969/announce
@@ -246,11 +250,13 @@ udp://tracker.btsync.gq:2710/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudfactory.org:6969/announce
+udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.doko.moe:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.ex.ua:80/announce
@@ -284,6 +290,7 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xn--vzyr4p.top:80/announce
 udp://tracker.yoshi210.com:6969/announce
+udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce

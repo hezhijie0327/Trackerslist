@@ -1,5 +1,6 @@
 http://00.mercax.com:443/announce
 http://0205.uptm.ch:6969/announce
+http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
 http://5rt.tace.ru:60889/announce
 http://9.rarbg.com:2710/announce
@@ -75,6 +76,7 @@ http://fxtt.ru:80/announce
 http://genesis.1337x.org:1337/announce
 http://googer.cc:1337/announce
 http://grifon.info:80/announce
+http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://home.yxgz.club:6969/announce
 http://home.yxgz.vip:6969/announce
@@ -125,6 +127,7 @@ http://reisub.nsupdate.info:6969/announce
 http://retracker.goodline.info:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
+http://retracker.krs-ix.ru:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
@@ -248,7 +251,6 @@ http://tracker.rp-api.tech:8100/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -291,6 +293,7 @@ http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
+http://vps2.avc.cx:7171/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.36dm.com:2710/announce
 http://www.blackcats-games.net:2228/announce
@@ -308,6 +311,7 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
+https://atrack-asia-s1.114913.xyz:443/announce
 https://bitstorm.azukachan.com:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.nfshost.com:443/announce
@@ -394,6 +398,7 @@ https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
 https://w.wwwww.wtf:443/announce
 https://www.wareztorrent.com:443/announce
+https://x-abirxox.cloud.okteto.net:443/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://3rt.tace.ru:60889/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -582,6 +587,7 @@ udp://open.nyap2p.com:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
+udp://open.tracker.ink:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
@@ -664,6 +670,7 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.doko.moe:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyne.org:6969/announce
