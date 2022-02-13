@@ -172,6 +172,7 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
+http://tracker.3304399.com:6969/announce
 http://tracker.36dm.com:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
@@ -267,7 +268,6 @@ http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfsub.com:6868/announce
-http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
@@ -323,6 +323,7 @@ https://mytracker.fly.dev:443/announce
 https://o-unkusrx.cloud.okteto.net:443/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
+https://opentracker.cc:443/announce
 https://opentracker.co:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz:443/announce
@@ -570,6 +571,7 @@ udp://mage23.schminkparadies.ch:6969/announce
 udp://mail.moneysfast.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://mgtracker.org:6969/announce
+udp://mirror.aptus.co.tz:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
@@ -701,6 +703,7 @@ udp://tracker.leechersparadise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.loadbt.com:6969/announce
 udp://tracker.loligirl.cn:1337/announce
+udp://tracker.lyretain.site:2710/announce
 udp://tracker.moeking.eu.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
