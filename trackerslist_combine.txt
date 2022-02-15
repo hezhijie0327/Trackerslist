@@ -52,6 +52,7 @@ http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bt1.the9.com:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
+http://bt2.54new.com:8080/announce
 http://bt2.edwardk.info:6969/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
@@ -123,6 +124,7 @@ http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://publictracker.ch:6969/announce
 http://pubt.net:2710/announce
+http://re-tracker.uz:80/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.adminko.org:80/announce
 http://retracker.goodline.info:80/announce
@@ -238,6 +240,7 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
+http://tracker.openzim.org:80/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.pow7.com:80/announce
@@ -303,6 +306,7 @@ http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
 http://xbtrutor.com:2710/announce
 http://zip.files.fm:6969/announce
+https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
@@ -417,10 +421,10 @@ udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2830/announce
-udp://9.rarbg.com:2880/announce
 udp://9.rarbg.com:2890/announce
 udp://9.rarbg.com:2900/announce
 udp://9.rarbg.com:2930/announce
+udp://9.rarbg.com:2950/announce
 udp://9.rarbg.com:2980/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
