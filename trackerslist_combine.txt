@@ -148,7 +148,6 @@ http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrentclub.online:54123/announce
 http://torrentclub.tech:6969/announce
 http://torrentsmd.com:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -163,7 +162,6 @@ http://tracker.36dm.com:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
-http://tracker.animeun.com:6969/announce
 http://tracker.anirena.com:6969/announce
 http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:81/announce
@@ -201,8 +199,6 @@ http://tracker.kamigami.org:2710/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
-http://tracker.ktxp.org:6868/announce
-http://tracker.ktxp.org:7070/announce
 http://tracker.kuroy.me:5944/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.levelup.cn:8080/announce
@@ -212,7 +208,6 @@ http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.nighthawk.pw:2052/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyaa.uk:6969/announce
@@ -227,7 +222,6 @@ http://tracker.publicbt.com:80/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.rp-api.tech:8100/announce
-http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
@@ -577,6 +571,7 @@ udp://retracker.netbynet.ru:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://robbmob.com:6969/announce
+udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
