@@ -382,8 +382,8 @@ udp://9.rarbg.com:2780/announce
 udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2800/announce
 udp://9.rarbg.com:2810/announce
-udp://9.rarbg.com:2820/announce
 udp://9.rarbg.com:2830/announce
+udp://9.rarbg.com:2880/announce
 udp://9.rarbg.com:2890/announce
 udp://9.rarbg.com:2900/announce
 udp://9.rarbg.com:2930/announce
