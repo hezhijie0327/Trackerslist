@@ -1,5 +1,4 @@
 http://00.mercax.com:443/announce
-http://0d.kebhana.mx:443/announce
 http://5rt.tace.ru:60889/announce
 http://aaa.army:8866/announce
 http://announce.partis.si:80/announce
@@ -27,9 +26,7 @@ http://bt.sc-ol.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
 http://bt.wiiyi.com:6969/announce
 http://bt1.the9.com:6969/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://bt2.edwardk.info:6969/announce
-http://btracker.top:11451/announce
 http://denis.stalker.h3q.com:6969/announce
 http://exodus.desync.com:6969/announce
 http://filetracker.xyz:11451/announce
@@ -64,6 +61,7 @@ http://tk.nvacg.org:3333/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.rus.ec:2710/announce
 http://torrentclub.online:54123/announce
+http://tr.bangumi.moe:6969/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
@@ -75,8 +73,10 @@ http://tracker.baravik.org:6970/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bz:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmguo.com:2710/announce
+http://tracker.edkj.club:6969/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.net:6969/announce
@@ -87,6 +87,7 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.ktxp.org:6868/announce
 http://tracker.ktxp.org:7070/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.nyap2p.com:8080/announce
@@ -94,11 +95,11 @@ http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sushirave.net:80/announce
+http://tracker.swarm3.network:6969/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.xfapi.top:6868/announce
@@ -112,7 +113,6 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker3.dler.org:2710/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker6.emce.org:12345/announce
 http://trk.publictracker.xyz:6969/announce
@@ -143,7 +143,6 @@ https://tracker.iriseden.eu:443/announce
 https://tracker.madassnews.net:443/announce
 https://tracker.magnetoo.io:443/announce
 https://tracker.morian.icu:443/announce
-https://tracker.moxing.party:6969/announce
 https://tracker.nodetopia.xyz:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.rsplwe.com:443/announce
@@ -156,7 +155,6 @@ https://tracker6.lelux.fi:443/announce
 https://w.wwwww.wtf:443/announce
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 udp://3rt.tace.ru:60889/announce
-udp://47.ip-51-68-199.eu:6969/announce
 udp://6rt.tace.ru:80/announce
 udp://aaa.army:8866/announce
 udp://adm.category5.tv:6969/announce
@@ -164,10 +162,12 @@ udp://ahimsa.yui.cat:6969/announce
 udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://aruacfilmes.com.br:6969/announce
+udp://bioquantum.co.za:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.dy20188.com:80/announce
 udp://bt.hackfront.eu:6969/announce
+udp://bt.oiyo.tk:6969/announce
 udp://bt.reyesleon.eu:53/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://bt.yui.cat:55268/announce
@@ -178,10 +178,10 @@ udp://bubu.mapfactor.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
-udp://chanakancloud.net:6969/announce
 udp://chanchan.uchuu.co.uk:6969/announce
 udp://citrus.carapax.net:6969/announce
 udp://colombia.subventas.com:53/announce
+udp://cyteam.ru:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dns.mercax.com:53/announce
 udp://eliastre100.fr:6969/announce
@@ -204,6 +204,7 @@ udp://josueunhuit.com:6969/announce
 udp://kanbooru.com:6969/announce
 udp://koli.services:6969/announce
 udp://kpax.net:6969/announce
+udp://mail.moneysfast.com:6969/announce
 udp://mgtracker.org:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://open.publictracker.xyz:6969/announce
@@ -214,6 +215,7 @@ udp://opentracker.sktorrent.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
+udp://qg.lorzl.gq:2710/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -234,17 +236,16 @@ udp://tracker.0o.is:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
+udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.cloudfactory.org:6969/announce
-udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
-udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyne.org:6969/announce
+udp://tracker.edkj.club:6969/announce
 udp://tracker.felfoldi.net:6969/announce
 udp://tracker.fortu.io:6969/announce
 udp://tracker.grepler.com:6969/announce
@@ -279,7 +280,6 @@ udp://tracker01.loveapp.com:6789/announce
 udp://tracker01.yowe.net:8080/announce
 udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
-udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.lelux.fi:6969/announce
