@@ -4,7 +4,6 @@ http://aaa.army:8866/announce
 http://announce.partis.si:80/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
-http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
@@ -49,6 +48,7 @@ http://grohub07.grohub.org:80/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://home.yxgz.vip:6969/announce
 http://i-p-v-6.tk:6969/announce
+http://kamileg.dynv6.net:9000/announce
 http://kaztorka.org:80/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
@@ -69,6 +69,7 @@ http://opentracker.lingyurouqing.xyz:15004/announce
 http://p4p.arenabg.ch:1337/announce
 http://pt.lax.mx:80/announce
 http://pubt.net:2710/announce
+http://retracker.adminko.org:80/announce
 http://retracker.akado-ural.ru:80/announce
 http://retracker.bashtel.ru:80/announce
 http://retracker.goodline.info:80/announce
@@ -100,6 +101,7 @@ http://torrent.nwps.ws:80/announce
 http://torrent.rus.ec:2710/announce
 http://torrentsmd.me:8080/announce
 http://tpb.tracker.prq.to:80/announce
+http://tr.bangumi.moe:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
@@ -115,6 +117,7 @@ http://tracker.ccc.de:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.devil-torrents.pl:80/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmguo.com:2710/announce
 http://tracker.dutchtracking.com:80/announce
@@ -135,6 +138,7 @@ http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.kisssub.org:80/announce
 http://tracker.loadbt.com:6969/announce
+http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.nwps.ws:6969/announce
@@ -154,7 +158,6 @@ http://tracker.tfile.co:80/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
-http://tracker.vraphim.com:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
@@ -185,6 +188,7 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com:80/announce
 https://00.mercax.com:443/announce
+https://0d.kebhana.mx:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
@@ -232,6 +236,7 @@ udp://ahimsa.yui.cat:6969/announce
 udp://anime.dayman.online:6969/announce
 udp://api.bitumconference.ru:6969/announce
 udp://aruacfilmes.com.br:6969/announce
+udp://bioquantum.co.za:6969/announce
 udp://borat-tracker.cf:6969/announce
 udp://brainmusic.pk:6969/announce
 udp://bt-trace.adgk.net:6969/announce
@@ -284,7 +289,6 @@ udp://leet-tracker.moe:6969/announce
 udp://mgtracker.org:2710/announce
 udp://mgtracker.org:6969/announce
 udp://mts.tvbit.co:6969/announce
-udp://open.4ever.tk:6969/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
@@ -310,7 +314,6 @@ udp://tc.animereactor.ru:8082/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetribunes.xyz:6969/announce
 udp://torrent.tdjs.tech:6969/announce
-udp://tr.bangumi.moe:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-v6.zooki.xyz:6969/announce
@@ -342,7 +345,6 @@ udp://tracker.kamigami.org:2710/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.loadbt.com:6969/announce
 udp://tracker.lyretain.site:2710/announce
-udp://tracker.merded.xyz:8000/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.nibba.trade:1337/announce
@@ -376,3 +378,4 @@ udp://wambo.club:1337/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://z.mercax.com:53/announce
+wss://tracker.novage.com.ua:443/announce
