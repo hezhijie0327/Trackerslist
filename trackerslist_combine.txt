@@ -369,6 +369,7 @@ http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yify-torrents.com:80/announce
@@ -680,6 +681,7 @@ udp://bt.wiiyi.com:6969/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://bt.yui.cat:55268/announce
 udp://bt1.archive.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -737,6 +739,7 @@ udp://git.vulnix.sh:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://handrew.me:6969/announce
 udp://home.felfoldi.net:6969/announce
+udp://home.yxgz.club:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
@@ -811,6 +814,7 @@ udp://publictracker.ch:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce
+udp://reisub.nsupdate.info:6969/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -841,7 +845,6 @@ udp://threads.run:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.resonatingmedia.com:6969/announce
 udp://torrent.tdjs.tech:6969/announce
-udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -897,7 +900,6 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13720/announce
-udp://tracker.fatkhoala.org:13750/announce
 udp://tracker.fdn.fr:6969/announce
 udp://tracker.felfoldi.net:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -977,7 +979,6 @@ udp://tracker.vraphim.com:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xelion.fr:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
