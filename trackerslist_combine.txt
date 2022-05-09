@@ -258,7 +258,6 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.ccc.de:80/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.comicat.org:80/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.ddunlimited.net:6969/announce
@@ -681,7 +680,6 @@ udp://bt.wiiyi.com:6969/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://bt.yui.cat:55268/announce
 udp://bt1.archive.org:6969/announce
-udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -739,7 +737,6 @@ udp://git.vulnix.sh:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 udp://handrew.me:6969/announce
 udp://home.felfoldi.net:6969/announce
-udp://home.yxgz.club:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
@@ -833,7 +830,6 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://storage.groupees.com:6969/announce
-udp://t.jaekr.sh:6969/announce
 udp://t.lint2.com:9000/announce
 udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
@@ -845,6 +841,7 @@ udp://threads.run:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.resonatingmedia.com:6969/announce
 udp://torrent.tdjs.tech:6969/announce
+udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -900,6 +897,7 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13720/announce
+udp://tracker.fatkhoala.org:13750/announce
 udp://tracker.fdn.fr:6969/announce
 udp://tracker.felfoldi.net:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -961,7 +959,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.tallpenguin.org:15710/announce
+udp://tracker.tallpenguin.org:15800/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
@@ -979,6 +977,7 @@ udp://tracker.vraphim.com:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xelion.fr:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
+udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
@@ -990,6 +989,7 @@ udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.christianbro.pw:6969/announce
+udp://tracker2.ctix.cn:6969/announce
 udp://tracker2.dler.com:6969/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker2.itzmx.com:6961/announce
