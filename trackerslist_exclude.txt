@@ -1,9 +1,9 @@
 http://5rt.tace.ru:60889/announce
 http://6rt.tace.ru:80/announce
+http://asnet.pw:2710/announce
 http://beertracker.ml:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://blackz.ro:80/announce
-http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
@@ -39,16 +39,14 @@ http://finbytes.org:80/announce
 http://ftp.pet:7777/announce
 http://grohub07.grohub.org:80/announce
 http://gwp2-v19.rinet.ru:80/announce
+http://home.yxgz.club:6969/announce
 http://home.yxgz.vip:6969/announce
 http://i-p-v-6.tk:6969/announce
-http://ibksturm.synology.me:6969/announce
 http://kaztorka.org:80/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
-http://mkfs.ru:80/announce
-http://music-torrent.net:2710/announce
 http://novaopcj.icu:10325/announce
 http://ns1.mindcraft.si.eu.org:6969/announce
 http://open.acgnxtracker.com:80/announce
@@ -61,10 +59,7 @@ http://opentracker.acgnx.se:80/announce
 http://opentracker.lingyurouqing.xyz:15004/announce
 http://p4p.arenabg.ch:1337/announce
 http://pt.lax.mx:80/announce
-http://pubt.net:2710/announce
 http://retracker.akado-ural.ru:80/announce
-http://retracker.bashtel.ru:80/announce
-http://retracker.goodline.info:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
@@ -139,6 +134,7 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nwps.ws:6969/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.plop.pm:6969/announce
@@ -180,6 +176,7 @@ http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com:80/announce
+http://www.megatorrents.kg:80/announce
 http://www.thegeeks.bz:3210/announce
 https://00.mercax.com:443/announce
 https://0d.kebhana.mx:443/announce
@@ -207,6 +204,7 @@ https://tr.doogh.club:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga:443/announce
+https://track.plop.pm:8989/announce
 https://tracker.acgnx.se:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cryental.dev:443/announce
@@ -287,6 +285,7 @@ udp://kpax.net:6969/announce
 udp://leet-tracker.moe:23861/announce
 udp://leet-tracker.moe:38151/announce
 udp://leet-tracker.moe:6969/announce
+udp://mail.moneysfast.com:6969/announce
 udp://mgtracker.org:2710/announce
 udp://mgtracker.org:6969/announce
 udp://mts.tvbit.co:6969/announce
@@ -297,9 +296,12 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
+udp://retracker.baikal-telecom.net:2710/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://retracker.nts.su:2710/announce
@@ -323,6 +325,7 @@ udp://tracker-v6.zooki.xyz:6969/announce
 udp://tracker.0o.is:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:2710/announce
 udp://tracker.cloudfactory.org:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
@@ -371,6 +374,7 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.yoshi210.com:6969/announce
+udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker1.absentmusing.com:8000/announce
@@ -386,5 +390,4 @@ udp://wambo.club:1337/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://z.mercax.com:53/announce
-ws://tracker.sloppyta.co:80/announce
-wss://tracker.sloppyta.co:443/announce
+wss://tracker.novage.com.ua:443/announce
