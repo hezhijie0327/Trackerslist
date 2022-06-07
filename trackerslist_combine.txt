@@ -407,7 +407,6 @@ http://www.36dm.com:2710/announce
 http://www.all4nothin.net:80/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.biztorrents.com:80/announce
-http://www.blackcats-games.net:2228/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.legittorrents.info:80/announce
 http://www.loushao.net:8080/announce
@@ -716,6 +715,7 @@ udp://discord.heihachi.pw:6969/announce
 udp://dn42.smrsh.net:6969/announce
 udp://dns.mercax.com:53/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://drsick.xyz:6969/announce
 udp://drumkitx.com:6969/announce
 udp://dunkelhost.de:6969/announce
 udp://eddie4.nl:6969/announce
@@ -781,6 +781,7 @@ udp://newtoncity.org:6969/announce
 udp://node3.burncycl.net:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.epsilonthree.com:6969/announce
+udp://ns1.mindcraft.si.eu.org:6969/announce
 udp://ns3107607.ip-54-36-126.eu:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
@@ -901,7 +902,6 @@ udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13720/announce
-udp://tracker.fatkhoala.org:13750/announce
 udp://tracker.fdn.fr:6969/announce
 udp://tracker.felfoldi.net:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -941,6 +941,7 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.nighthawk.pw:2052/announce
+udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -962,7 +963,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.tallpenguin.org:15750/announce
+udp://tracker.tallpenguin.org:15710/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
