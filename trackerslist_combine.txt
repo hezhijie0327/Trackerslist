@@ -162,7 +162,6 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.local:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.ohys.net:80/announce
-http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
@@ -344,7 +343,6 @@ http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
-http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfapi.top:6868/announce
@@ -635,7 +633,6 @@ udp://960303.xyz:6969/announce
 udp://aaa.army:8866/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://admin.videoenpoche.info:6969/announce
-udp://adminion.n-blade.ru:6969/announce
 udp://agusiq-torrents.pl:6969/announce
 udp://ahimsa.yui.cat:6969/announce
 udp://amigacity.xyz:6969/announce
@@ -768,7 +765,6 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://publictracker.ch:6969/announce
-udp://qg.lorzl.gq:233/announce
 udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce
 udp://reisub.nsupdate.info:6969/announce
@@ -789,7 +785,6 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://storage.groupees.com:6969/announce
-udp://t.jaekr.sh:6969/announce
 udp://t.lint2.com:9000/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t1.leech.ie:1337/announce
@@ -830,7 +825,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
@@ -847,6 +841,7 @@ udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
+udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
@@ -883,7 +878,6 @@ udp://tracker.mg64.net:6969/announce
 udp://tracker.moeking.eu.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.nighthawk.pw:2052/announce
@@ -906,6 +900,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
+udp://tracker.tallpenguin.org:15710/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
