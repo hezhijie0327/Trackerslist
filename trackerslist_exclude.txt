@@ -44,6 +44,7 @@ http://i-p-v-6.tk:6969/announce
 http://kaztorka.org:80/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
+http://mediaclub.tv:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://novaopcj.icu:10325/announce
@@ -86,7 +87,7 @@ http://torrent.gresille.org:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.rus.ec:2710/announce
 http://torrentsmd.me:8080/announce
-http://tr.bangumi.moe:6969/announce
+http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.36dm.com:2710/announce
@@ -101,9 +102,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.devil-torrents.pl:80/announce
-http://tracker.dler.com:6969/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.ex.ua:80/announce
@@ -132,7 +132,6 @@ http://tracker.publicbt.com:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -145,6 +144,7 @@ http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.yify-torrents.com:80/announce
 http://tracker.yoshi210.com:6969/announce
@@ -152,8 +152,8 @@ http://tracker.yowe.net:80/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.dler.com:80/announce
-http://tracker2.dler.org:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
+http://tracker3.dler.org:2710/announce
 http://tracker3.torrentino.com:80/announce
 http://tracker9.bol.bg:80/announce
 http://trackers.ibzu.me:80/announce
@@ -164,6 +164,7 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com:80/announce
 http://www.elitezones.ro:80/announce
+http://www.megatorrents.kg:80/announce
 http://www.thegeeks.bz:3210/announce
 https://00.mercax.com:443/announce
 https://2.tracker.eu.org:443/announce
@@ -181,6 +182,7 @@ https://o-unkusrx.cloud.okteto.net:443/announce
 https://open.acgnxtracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 https://opentracker.acgnx.se:443/announce
+https://private.minimafia.nl:443/announce
 https://publictracker.pp.ua:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -247,7 +249,6 @@ udp://citrus.carapax.net:6969/announce
 udp://colombia.subventas.com:53/announce
 udp://cutiegirl.ru:6969/announce
 udp://cx42light.cn:39652/announce
-udp://cyteam.ru:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dylan-park.com:6969/announce
 udp://escorts.subventas.com:53/announce
@@ -264,7 +265,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://mgtracker.org:2710/announce
 udp://mts.tvbit.co:6969/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.tracker.ink:6969/announce
 udp://public-tracker.zooki.xyz:6969/announce
@@ -283,11 +283,14 @@ udp://t3.leech.ie:1337/announce
 udp://tc.animereactor.ru:8082/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://testing.syahaha.live:6969/announce
-udp://thetribunes.xyz:6969/announce
+udp://tothemoon.host:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.babico.name.tr:8000/announce
+udp://tracker.btsync.gq:233/announce
+udp://tracker.cortexlabs.ai:5008/announce
+udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
