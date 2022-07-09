@@ -45,7 +45,6 @@ http://mail2.zelenaya.net:80/announce
 http://mediaclub.tv:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
-http://ns1.mindcraft.si.eu.org:6969/announce
 http://open.acgnxtracker.com:80/announce
 http://open.miotracker.com:80/announce
 http://open.tracker.ink:6969/announce
@@ -75,7 +74,6 @@ http://torrent-tracker.ru:80/announce
 http://torrent.gresille.org:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.rus.ec:2710/announce
-http://tr.bangumi.moe:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker.acgnx.se:80/announce
@@ -88,6 +86,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.devil-torrents.pl:80/announce
+http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.edkj.club:6969/announce
@@ -101,7 +101,6 @@ http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.loadbt.com:6969/announce
-http://tracker.logirl.moe:17052/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -127,7 +126,6 @@ http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
 http://tracker1.wasabii.com.tw:6969/announce
-http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.dler.org:2710/announce
@@ -143,6 +141,7 @@ http://www.thegeeks.bz:3210/announce
 https://00.mercax.com:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+https://337hhh.xyz:443/announce
 https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://atrack-asia-s1.114913.xyz:443/announce
@@ -255,7 +254,6 @@ udp://tr1.jilangyy.com:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.babico.name.tr:8000/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
@@ -283,7 +281,6 @@ udp://tracker.sylphix.com:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
-udp://tracker2.dler.com:6969/announce
 udp://tronml.cf:6969/announce
 udp://tsundere.pw:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
