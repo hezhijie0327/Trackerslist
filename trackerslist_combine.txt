@@ -365,6 +365,7 @@ http://tracker.torrenty.org:6969/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
+http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
@@ -424,7 +425,6 @@ http://www.36dm.com:2710/announce
 http://www.all4nothin.net:80/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.biztorrents.com:80/announce
-http://www.blackcats-games.net:2228/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.legittorrents.info:80/announce
 http://www.loushao.net:8080/announce
@@ -591,7 +591,7 @@ udp://9.rarbg.com:2740/announce
 udp://9.rarbg.com:2760/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2830/announce
-udp://9.rarbg.com:2850/announce
+udp://9.rarbg.com:2840/announce
 udp://9.rarbg.com:2890/announce
 udp://9.rarbg.com:2900/announce
 udp://9.rarbg.com:2980/announce
@@ -678,7 +678,6 @@ udp://debuz.com:6969/announce
 udp://denis.stalker.upeer.me:1337/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://deviloid.net:6969/announce
-udp://dfireworks.eu.org:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dn42.smrsh.net:6969/announce
 udp://download01.championsofregnum.com:6969/announce
@@ -859,7 +858,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
@@ -904,6 +902,7 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.nighthawk.pw:2052/announce
+udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nwps.ws:6969/announce
 udp://tracker.nyaa.uk:6969/announce
@@ -925,7 +924,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.tallpenguin.org:15800/announce
+udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
@@ -935,10 +934,10 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentbay.to:6969/announce
 udp://tracker.trackerfix.com:81/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
+udp://tracker.vraphim.com:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce

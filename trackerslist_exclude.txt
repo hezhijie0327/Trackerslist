@@ -32,6 +32,7 @@ http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://denis.stalker.h3q.com:80/announce
 http://derpyradio.net:6969/announce
+http://dfireworks.eu.org:6969/announce
 http://ed2k.vip:7070/announce
 http://exodus.desync.com:6969/announce
 http://exodus.desync.com:80/announce
@@ -103,6 +104,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.dutchtracking.nl:80/announce
+http://tracker.edkj.club:6969/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.com:6969/announce
@@ -131,7 +133,6 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.sloppyta.co:80/announce
 http://tracker.swarm3.network:6969/announce
 http://tracker.tfile.co:80/announce
-http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrenty.org:6969/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.uw0.xyz:6969/announce
@@ -150,7 +151,6 @@ http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.520.jp:2095/announce
-http://tracker3.dler.org:2710/announce
 http://tracker3.torrentino.com:80/announce
 http://tracker9.bol.bg:80/announce
 http://trackers.ibzu.me:80/announce
@@ -188,7 +188,6 @@ https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga:443/announce
 https://tracker.acgnx.se:443/announce
 https://tracker.babico.name.tr:443/announce
-https://tracker.baka.ink:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cryental.dev:443/announce
 https://tracker.cyber-hub.net:443/announce
@@ -213,13 +212,13 @@ udp://204.zablog.me:6969/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://3rt.tace.ru:60889/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://6.beyondth.cn:6969/announce
 udp://8.beyondth.cn:6969/announce
 udp://aaa.army:8866/announce
 udp://admin.52ywp.com:6969/announce
 udp://adt.adt-textile.ru:6969/announce
 udp://ahimsa.yui.cat:6969/announce
 udp://aruacfilmes.com.br:6969/announce
-udp://betasoftsp.com.br:6969/announce
 udp://borat-tracker.cf:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.hackfront.eu:6969/announce
@@ -250,6 +249,7 @@ udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://mts.tvbit.co:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
@@ -269,12 +269,16 @@ udp://tracker-de.ololosh.space:6969/announce
 udp://tracker.0o.is:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.babico.name.tr:8000/announce
+udp://tracker.cortexlabs.ai:5008/announce
+udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dump.cl:6969/announce
+udp://tracker.edkj.club:6969/announce
+udp://tracker.farted.net:6969/announce
 udp://tracker.fixr.pro:6969/announce
 udp://tracker.fortu.io:6969/announce
 udp://tracker.haynet.io:6969/announce
@@ -300,6 +304,7 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://tracker2.dler.com:6969/announce
+udp://tsundere.pw:6969/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://udp.yarr.pt:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
