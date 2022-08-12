@@ -589,9 +589,9 @@ udp://8.beyondth.cn:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.com:2740/announce
 udp://9.rarbg.com:2760/announce
-udp://9.rarbg.com:2790/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2830/announce
+udp://9.rarbg.com:2880/announce
 udp://9.rarbg.com:2890/announce
 udp://9.rarbg.com:2900/announce
 udp://9.rarbg.com:2980/announce
@@ -680,7 +680,6 @@ udp://debuz.com:6969/announce
 udp://denis.stalker.upeer.me:1337/announce
 udp://denis.stalker.upeer.me:6969/announce
 udp://deviloid.net:6969/announce
-udp://dfireworks.eu.org:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dn42.smrsh.net:6969/announce
 udp://download01.championsofregnum.com:6969/announce
@@ -732,6 +731,7 @@ udp://k1.com.br:6969/announce
 udp://kanbooru.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
+udp://kor.swallowy.tk:6969/announce
 udp://laze.cc:6969/announce
 udp://letsdecentralize.org:6969/announce
 udp://line-net.ru:6969/announce
@@ -920,7 +920,6 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.nighthawk.pw:2052/announce
-udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -942,7 +941,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.tallpenguin.org:15770/announce
+udp://tracker.tallpenguin.org:15710/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -1025,6 +1024,5 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.magnetoo.io:443/announce
-wss://tracker.novage.com.ua:443/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.sloppyta.co:443/announce
