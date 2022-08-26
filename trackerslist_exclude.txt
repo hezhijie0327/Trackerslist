@@ -52,7 +52,6 @@ http://gwp2-v19.rinet.ru:80/announce
 http://home.yxgz.vip:6969/announce
 http://hpd-crew.homeftp.net:2710/announce
 http://i-p-v-6.tk:6969/announce
-http://ibksturm.synology.me:6969/announce
 http://locustracker.findhere.org:2710/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
@@ -73,7 +72,6 @@ http://p4p.arenabg.ch:1337/announce
 http://paranoya.homelinux.org:6969/announce
 http://pt.lax.mx:80/announce
 http://pubt.net:2710/announce
-http://reisub.nsupdate.info:6969/announce
 http://retracker.akado-ural.ru:80/announce
 http://retracker.bashtel.ru:80/announce
 http://retracker.goodline.info:80/announce
@@ -83,7 +81,6 @@ http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.local:80/announce
 http://retracker.mgts.by:80/announce
-http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.telecom.by:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -107,6 +104,7 @@ http://torrent.rus.ec:2710/announce
 http://torrentdealer.ath.cx:6969/announce
 http://torrential.dontexist.org:80/announce
 http://torrentsmd.me:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentz.ofgods.com:2710/announce
 http://tpb.tracker.prq.to:80/announce
 http://tpb.tracker.thepiratebay.org:80/announce
@@ -137,7 +135,6 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.com:80/announce
-http://tracker.edkj.club:6969/announce
 http://tracker.ex.ua:80/announce
 http://tracker.filetracker.pl:8089/announce
 http://tracker.frozen-layer.com:6969/announce
@@ -164,7 +161,6 @@ http://tracker.prq.to:80/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.reprobate.se:2710/announce
 http://tracker.sakurato.xyz:23333/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.shittyurl.org:80/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -210,12 +206,12 @@ http://tracker1.torrentino.com:80/announce
 http://tracker1.torrentum.pl:6969/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.520.jp:2095/announce
-http://tracker2.ctix.cn:2095/announce
-http://tracker2.ctix.cn:6969/announce
+http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.torrentino.com:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.520.jp:2095/announce
+http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
 http://tracker3.torrentino.com:80/announce
@@ -228,10 +224,11 @@ http://vip.tracker.thepiratebay.org:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
+http://widemus.de:6969/announce
 http://www.biztorrents.com:80/announce
 http://www.kompletlywyred.com:8702/announce
-http://www.loushao.net:8080/announce
 http://www.torrentvideos.com:6969/announce
+http://www.yqzuji.com:80/announce
 https://00.mercax.com:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
@@ -284,6 +281,7 @@ udp://204.zablog.me:6969/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://3rt.tace.ru:60889/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://68.zablog.me:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://a.77tv.cf:6969/announce
 udp://aaa.army:8866/announce
@@ -362,6 +360,8 @@ udp://tracker-udp.anirena.com:6969/announce
 udp://tracker-udp.gbitt.info:6969/announce
 udp://tracker.0o.is:6969/announce
 udp://tracker.babico.name.tr:8000/announce
+udp://tracker.cortexlabs.ai:5008/announce
+udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -371,9 +371,9 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
-udp://tracker.edkj.club:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.filetracker.pl:8089/announce
+udp://tracker.fixr.pro:6969/announce
 udp://tracker.fortu.io:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.haynet.io:6969/announce
@@ -408,6 +408,7 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker01.loveapp.com:6789/announce
+udp://tracker2.dler.com:6969/announce
 udp://tracker2.indowebster.com:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tsundere.pw:6969/announce
@@ -421,6 +422,7 @@ udp://wambo.club:1337/announce
 udp://www.jhymov.co:6969/announce
 udp://www.jiangvps.xyz:6969/announce
 udp://www.midea123.z-media.com.cn:6969/announce
+udp://xarcotic.com:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://z.mercax.com:53/announce
 wss://tracker.novage.com.ua:443/announce
