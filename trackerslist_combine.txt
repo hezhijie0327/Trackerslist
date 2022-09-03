@@ -57,6 +57,7 @@ http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bt1.xxxxbt.cc:6969/announce
+http://bt2.54new.com:8080/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
@@ -90,6 +91,7 @@ http://filetracker.xyz:11451/announce
 http://finbytes.org:80/announce
 http://fireworks.eu.org:6969/announce
 http://fosstorrents.com:6969/announce
+http://freerainbowtables.com:6969/announce
 http://ftp.pet:7777/announce
 http://fxtt.ru:80/announce
 http://gm-realm.net:2710/announce
@@ -172,7 +174,6 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.local:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.ohys.net:80/announce
-http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
@@ -202,6 +203,7 @@ http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
+http://tehconnection.eu:2790/announce
 http://thebytestore.co.uk:6969/announce
 http://thetracker.org:80/announce
 http://tk.greedland.net:80/announce
@@ -261,9 +263,7 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.ccc.de:80/announce
 http://tracker.city9x.com:2710/announce
-http://tracker.comicat.org:80/announce
 http://tracker.coppersurfer.site:2710/announce
-http://tracker.coppersurfer.tk:80/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.datacenterlight.ch:6969/announce
@@ -368,7 +368,6 @@ http://tracker.torrenty.org:6969/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
@@ -577,6 +576,7 @@ https://tracker6.lelux.fi:443/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
 https://ttk.pp.ua:443/announce
+https://voxhost.fr:443/announce
 https://w.wwwww.wtf:443/announce
 https://www.wareztorrent.com:443/announce
 https://x-abirxox.cloud.okteto.net:443/announce
@@ -628,7 +628,6 @@ udp://9.rarbg.to:2750/announce
 udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2820/announce
 udp://9.rarbg.to:2860/announce
-udp://9.rarbg.to:2870/announce
 udp://9.rarbg.to:2930/announce
 udp://9.rarbg.to:2980/announce
 udp://960303.xyz:6969/announce
@@ -676,11 +675,9 @@ udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.3kb.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://bt2.careland.com.cn:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://buny.uk:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
@@ -726,9 +723,11 @@ udp://fe.dealclub.de:6969/announce
 udp://fgg.pp.ua:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
+udp://fosstorrents.com:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 udp://free.open.tracker.4.starka.st:15480/announce
 udp://free.publictracker.xyz:6969/announce
+udp://freerainbowtables.com:6969/announce
 udp://git.vulnix.sh:6969/announce
 udp://h3o2.me:1337/announce
 udp://home.yxgz.club:6969/announce
@@ -904,6 +903,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cyberia.is:6969/announce
@@ -924,7 +924,6 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13720/announce
-udp://tracker.fatkhoala.org:13740/announce
 udp://tracker.fdn.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
@@ -959,6 +958,7 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.nighthawk.pw:2052/announce
+udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -981,7 +981,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.tallpenguin.org:15710/announce
+udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -1041,6 +1041,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vpn.nextrp.ru:6969/announce
 udp://wambo.club:1337/announce
 udp://wassermann.online:6969/announce
+udp://widemus.de:6969/announce
 udp://wjs.cool:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.freerainbowtables.com:6969/announce
