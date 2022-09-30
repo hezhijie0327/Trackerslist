@@ -429,6 +429,7 @@ https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga:443/announce
 https://track.plop.pm:8989/announce
 https://tracker.4.babico.name.tr:443/announce
+https://tracker.acgnx.se:443/announce
 https://tracker.babico.name.tr:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bt-hash.com:443/announce
@@ -522,8 +523,8 @@ udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2740/announce
 udp://9.rarbg.to:2750/announce
 udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2810/announce
 udp://9.rarbg.to:2820/announce
-udp://9.rarbg.to:2910/announce
 udp://9.rarbg.to:2930/announce
 udp://9.rarbg.to:2980/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
@@ -622,7 +623,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fgg.pp.ua:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
-udp://fosstorrents.com:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 udp://free.open.tracker.4.starka.st:15480/announce
 udp://free.publictracker.xyz:6969/announce
@@ -771,7 +771,6 @@ udp://torrentclub.space:6969/announce
 udp://torrentclub.tech:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
-udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tothemoon.host:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
@@ -877,7 +876,6 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
-udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
