@@ -5,6 +5,7 @@ http://beertracker.ml:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
+http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
@@ -37,7 +38,6 @@ http://derpyradio.net:6969/announce
 http://dfireworks.eu.org:6969/announce
 http://exodus.desync.com:6969/announce
 http://exodus.desync.com:80/announce
-http://fosstorrents.com:6969/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
@@ -99,7 +99,6 @@ http://torrent.rus.ec:2710/announce
 http://torrentsmd.me:8080/announce
 http://torrentzilla.org:80/announce
 http://tpb.tracker.prq.to:80/announce
-http://tr.bangumi.moe:80/announce
 http://tr.kxmp.cf:80/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker-udp.anirena.com:80/announce
@@ -162,6 +161,7 @@ http://tracker.yify-torrents.com:80/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
 http://tracker01.loveapp.com:6789/announce
+http://tracker1.torrentino.com:80/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.torrentino.com:80/announce
@@ -238,10 +238,8 @@ udp://api.bitumconference.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aria2.team.ml:6969/announce
 udp://aruacfilmes.com.br:6969/announce
-udp://astrr.ru:6969/announce
 udp://benouworldtrip.fr:6969/announce
 udp://betasoftsp.com.br:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://borat-tracker.cf:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
@@ -286,7 +284,6 @@ udp://masd.sdsgzh.xyz:6969/announce
 udp://net.richardsw.club:6969/announce
 udp://nextcloud.brandonsli.com:6969/announce
 udp://oldboystudy.com:6969/announce
-udp://open.demonii.si:1337/announce
 udp://open.nyap2p.com:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.cl:1337/announce
@@ -342,7 +339,6 @@ udp://tracker.moeking.eu.org:6969/announce
 udp://tracker.nibba.trade:1337/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skyts.cn:6969/announce
@@ -357,7 +353,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker01.loveapp.com:6789/announce
 udp://transkaroo.joustasie.net:6969/announce
 udp://tronml.cf:6969/announce
-udp://tsundere.pw:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://udp.yarr.pt:1337/announce
@@ -372,3 +367,4 @@ udp://www.midea123.z-media.com.cn:6969/announce
 udp://www.nekos96.xyz:6969/announce
 udp://www.skynetcenter.me:6969/announce
 udp://www.zhaohu.love:6969/announce
+udp://z.mercax.com:53/announce
