@@ -2,6 +2,7 @@ http://5rt.tace.ru:60889/announce
 http://6rt.tace.ru:80/announce
 http://aaa.army:8866/announce
 http://beertracker.ml:80/announce
+http://blackz.ro:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.3dmgame.com:2710/announce
@@ -27,7 +28,6 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
-http://btfans.3322.org:8000/announce
 http://data-bg.net:80/announce
 http://denis.stalker.h3q.com:6969/announce
 http://denis.stalker.h3q.com:80/announce
@@ -35,7 +35,6 @@ http://derpyradio.net:6969/announce
 http://dfireworks.eu.org:6969/announce
 http://exodus.desync.com:6969/announce
 http://exodus.desync.com:80/announce
-http://fosstorrents.com:6969/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
@@ -48,12 +47,14 @@ http://i-p-v-6.tk:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jsb.by:8000/announce
 http://magic.felfoldi.net:6969/announce
 http://mail2.zelenaya.net:80/announce
 http://mgtracker.org:2710/announce
 http://mgtracker.org:6969/announce
 http://moeweb.pw:6969/announce
 http://novaopcj.icu:10325/announce
+http://ns1.mindcraft.si.eu.org:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 http://open.lolicon.eu:7777/announce
@@ -69,7 +70,6 @@ http://opentracker.lingyurouqing.xyz:15004/announce
 http://p4p.arenabg.ch:1337/announce
 http://pt.lax.mx:80/announce
 http://pubt.net:2710/announce
-http://retracker.adminko.org:80/announce
 http://retracker.akado-ural.ru:80/announce
 http://retracker.bashtel.ru:80/announce
 http://retracker.goodline.info:80/announce
@@ -78,7 +78,6 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.mgts.by:80/announce
-http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.telecom.by:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -99,8 +98,6 @@ http://torrent.rus.ec:2710/announce
 http://torrentsmd.me:8080/announce
 http://torrentzilla.org:80/announce
 http://tpb.tracker.prq.to:80/announce
-http://tr.bangumi.moe:6969/announce
-http://tr.bangumi.moe:80/announce
 http://tr.kxmp.cf:80/announce
 http://track.mastheadstudios.com:6969/announce
 http://tracker-cdn.moeking.me:2095/announce
@@ -174,6 +171,7 @@ http://tracker2.dler.com:80/announce
 http://tracker2.torrentino.com:80/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.520.jp:2095/announce
+http://tracker3.dler.org:2710/announce
 http://tracker3.torrentino.com:80/announce
 http://tracker9.bol.bg:80/announce
 http://trk.publictracker.xyz:6969/announce
@@ -251,7 +249,6 @@ udp://app.icon256.com:8000/announce
 udp://aria2.team.ml:6969/announce
 udp://aruacfilmes.com.br:6969/announce
 udp://benouworldtrip.fr:6969/announce
-udp://bioquantum.co.za:6969/announce
 udp://borat-tracker.cf:6969/announce
 udp://bt-trace.adgk.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
@@ -304,7 +301,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.sktorrent.org:6969/announce
 udp://oracle.rdysoftware.com:6969/announce
 udp://private.tmcars.co:6969/announce
-udp://public-tracker.zooki.xyz:6969/announce
 udp://publictracker.xyz:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -325,7 +321,6 @@ udp://tr1.jilangyy.com:6969/announce
 udp://tracker.0o.is:6969/announce
 udp://tracker.babico.name.tr:8000/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -383,3 +378,5 @@ udp://www.skynetcenter.me:6969/announce
 udp://www.zhaohu.love:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://z.mercax.com:53/announce
+wss://tracker.novage.com.ua:443/announce
+wss://tracker.sloppyta.co:443/announce
