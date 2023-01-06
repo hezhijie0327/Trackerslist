@@ -26,14 +26,14 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
+http://btfans.3322.org:8000/announce
 http://buny.uk:6969/announce
-http://bz.tracker.bz:80/announce
+http://data-bg.net:80/announce
 http://denis.stalker.h3q.com:80/announce
 http://dfireworks.eu.org:6969/announce
 http://ed2k.vip:7070/announce
 http://exodus.desync.com:6969/announce
 http://exodus.desync.com:80/announce
-http://fosstorrents.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
@@ -128,13 +128,13 @@ http://tracker.gcvchp.com:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.internetwarriors.net:1337/announce
-http://tracker.iro.moe:80/announce
 http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 http://tracker.kisssub.org:2015/announce
 http://tracker.kisssub.org:80/announce
 http://tracker.loadbt.com:6969/announce
+http://tracker.logirl.moe:17052/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
@@ -153,7 +153,6 @@ http://tracker.swarm3.network:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
-http://tracker.torrentbytes.net:80/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.xfapi.top:6868/announce
@@ -171,6 +170,7 @@ http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.520.jp:2095/announce
 http://tracker3.dler.org:2710/announce
 http://trk.publictracker.xyz:6969/announce
+http://uatracker.net:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.h33t.com:3310/announce
@@ -179,6 +179,7 @@ https://00.xxtor.com:443/announce
 https://2.track.ga:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+https://337hhh.xyz:443/announce
 https://aaa.army:8866/announce
 https://bt.nfshost.com:443/announce
 https://chihaya-heroku.120181311.xyz:443/announce
@@ -308,6 +309,7 @@ udp://retracker.netbynet.ru:2710/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
+udp://sx.xxtor.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
@@ -318,8 +320,11 @@ udp://testing.syahaha.live:6969/announce
 udp://thug.rocks:6969/announce
 udp://torrent.skynetcenter.me:6969/announce
 udp://torrent.tdjs.tech:6969/announce
+udp://torrentclub.online:54123/announce
+udp://tr.bangumi.moe:6969/announce
 udp://tr1.jilangyy.com:6969/announce
 udp://tracker.0o.is:6969/announce
+udp://tracker.0x.tf:6969/announce
 udp://tracker.babico.name.tr:8000/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
