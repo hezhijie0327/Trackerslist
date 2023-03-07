@@ -1,5 +1,6 @@
 http://5rt.tace.ru:60889/announce
 http://6rt.tace.ru:80/announce
+http://a.leopard-raws.org:6969/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.3dmgame.com:2710/announce
@@ -48,6 +49,8 @@ http://genesis.1337x.org:1337/announce
 http://gwp2-v19.rinet.ru:80/announce
 http://h4.trakx.nibba.trade:80/announce
 http://home.yxgz.vip:6969/announce
+http://hzzwly.gq:6969/announce
+http://i-p-v-6.tk:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://laxclax.ddns.net:8000/announce
 http://mail2.zelenaya.net:80/announce
@@ -61,6 +64,7 @@ http://open.acgnxtracker.com:80/announce
 http://open.lolicon.eu:7777/announce
 http://open.miotracker.com:80/announce
 http://open.nyaatorrents.info:6544/announce
+http://open.nyap2p.com:8080/announce
 http://open.touki.ru:80/announce
 http://open.tracker.ink:6969/announce
 http://openbittorrent.com:80/announce
@@ -87,6 +91,7 @@ http://rt.tace.ru:80/announce
 http://share.camoe.cn:8080/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
+http://t.jaekr.sh:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
@@ -151,6 +156,7 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.plop.pm:6969/announce
 http://tracker.prq.to:80/announce
 http://tracker.publicbt.com:80/announce
+http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
@@ -165,12 +171,14 @@ http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
+http://tracker.vraphim.com:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
 http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.yify-torrents.com:80/announce
+http://tracker.yoshi210.com:6969/announce
 http://tracker.yowe.net:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker01.loveapp.com:6789/announce
@@ -234,7 +242,6 @@ https://tracker.renfei.net:443/announce
 https://tracker.rsplwe.com:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
-https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:443/announce
@@ -293,6 +300,7 @@ udp://mgtracker.org:2710/announce
 udp://mts.tvbit.co:6969/announce
 udp://oldboystudy.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+udp://open.demonii.com:1337/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.tracker.ink:6969/announce
 udp://open.xxtor.com:3074/announce
@@ -311,12 +319,14 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://sx.xxtor.com:6969/announce
+udp://t.133335.xyz:6969/announce
 udp://testing.syahaha.live:6969/announce
 udp://thug.rocks:6969/announce
 udp://torrent.skynetcenter.me:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://tothemoon.host:6969/announce
+udp://tr.bangumi.moe:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.babico.name.tr:8000/announce
 udp://tracker.ddunlimited.net:6969/announce
@@ -352,7 +362,6 @@ udp://tracker.texoviva.com:9898/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker2.indowebster.com:6969/announce
@@ -373,4 +382,3 @@ udp://www.zhaohu.love:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://yahor.ftp.sh:6969/announce
 udp://z.mercax.com:53/announce
-wss://tracker.btorrent.xyz:443/announce
