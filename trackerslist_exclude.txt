@@ -52,6 +52,7 @@ http://open.lolicon.eu:7777/announce
 http://open.miotracker.com:80/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.nyap2p.com:8080/announce
+http://open.touki.ru:80/announce
 http://open.tracker.ink:6969/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
@@ -60,8 +61,9 @@ http://opentracker.lingyurouqing.xyz:15004/announce
 http://opentracker.xyz:80/announce
 http://p4p.arenabg.ch:1337/announce
 http://pt.lax.mx:80/announce
-http://publictracker.ch:6969/announce
+http://retracker.bashtel.ru:80/announce
 http://retracker.gorcomnet.ru:80/announce
+http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.local:80/announce
@@ -84,6 +86,7 @@ http://tk.nvacg.org:3333/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.gresille.org:80/announce
 http://torrent.nwps.ws:80/announce
+http://torrentsmd.me:8080/announce
 http://torrentzilla.org:80/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker-udp.anirena.com:80/announce
@@ -129,7 +132,7 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.plop.pm:6969/announce
 http://tracker.prq.to:80/announce
 http://tracker.publicbt.com:80/announce
-http://tracker.renfei.net:8080/announce
+http://tracker.qu.ax:6969/announce
 http://tracker.rp-api.tech:8100/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.shuim.net:80/announce
@@ -174,6 +177,7 @@ https://opentracker.xyz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
+https://tk.mabo.ltd:443/announce
 https://tr.abir.ga:443/announce
 https://tr.abirxo.cf:443/announce
 https://tr.steins-gate.moe:2096/announce
@@ -189,7 +193,6 @@ https://tracker.iriseden.eu:443/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
-https://tracker.madassnews.net:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nodetopia.xyz:443/announce
@@ -197,7 +200,6 @@ https://tracker.quix.cf:443/announce
 https://tracker.rsplwe.com:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
-https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:443/announce
@@ -238,7 +240,6 @@ udp://edu.uifr.ru:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://escorts.subventas.com:53/announce
 udp://exodus.desync.com:6969/announce
-udp://fasttracker.foreverpirates.co:6969/announce
 udp://fgg.pp.ua:6969/announce
 udp://ftp.pet:2710/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
@@ -267,7 +268,6 @@ udp://peru.subventas.com:53/announce
 udp://philo.truthmaker.top:6969/announce
 udp://private.tmcars.co:6969/announce
 udp://public-tracker.ml:6969/announce
-udp://public.publictracker.xyz:6969/announce
 udp://ransan.tk:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -287,7 +287,6 @@ udp://torrentclub.space:6969/announce
 udp://tothemoon.host:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.babico.name.tr:8000/announce
-udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
@@ -312,6 +311,8 @@ udp://tracker.mg64.net:6969/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.port443.xyz:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.cn:6969/announce
@@ -328,6 +329,7 @@ udp://tracker2.indowebster.com:6969/announce
 udp://tracker4.piratux.com:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 udp://tronml.cf:6969/announce
+udp://tsundere.pw:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.coalition.space:1337/announce
 udp://udp.yarr.pt:1337/announce
