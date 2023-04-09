@@ -74,7 +74,6 @@ http://retracker.joxnet.ru:80/announce
 http://retracker.krs-ix.ru:80/announce
 http://retracker.local:80/announce
 http://retracker.mgts.by:80/announce
-http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.telecom.by:80/announce
 http://retracker.telecom.kz:80/announce
@@ -96,6 +95,7 @@ http://torrent-tracker.ru:80/announce
 http://torrent.gresille.org:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.rus.ec:2710/announce
+http://torrent.unix-ag.uni-kl.de:80/announce
 http://torrentclub.online:54123/announce
 http://torrentsmd.me:8080/announce
 http://torrentzilla.org:80/announce
@@ -172,7 +172,6 @@ http://uatracker.net:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.legittorrents.info:80/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://2.tracker.eu.org:443/announce
@@ -215,7 +214,6 @@ https://tracker.quix.cf:443/announce
 https://tracker.rsplwe.com:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
-https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:443/announce
@@ -224,7 +222,6 @@ https://tracker.yarr.pt:443/announce
 https://w.wwwww.wtf:443/announce
 udp://172.zablog.me:6969/announce
 udp://2simple.naiive.xyz:6969/announce
-udp://47.ip-51-68-199.eu:6969/announce
 udp://68.zablog.me:6969/announce
 udp://a.77tv.cf:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -266,7 +263,6 @@ udp://ipv6.borat-tracker.cf:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-udp://jiangvps.xyz:6969/announce
 udp://kor.swallowy.tk:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://masd.sdsgzh.xyz:6969/announce
@@ -274,6 +270,7 @@ udp://mgtracker.org:2710/announce
 udp://mts.tvbit.co:6969/announce
 udp://oldboystudy.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+udp://open.4ever.tk:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.tracker.ink:6969/announce
 udp://open.xxtor.com:3074/announce
@@ -299,7 +296,6 @@ udp://thug.rocks:6969/announce
 udp://torrent.skynetcenter.me:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tothemoon.host:6969/announce
-udp://tr.bangumi.moe:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.arcbox.cc:6969/announce
 udp://tracker.babico.name.tr:8000/announce
@@ -347,7 +343,6 @@ udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps.skynetcenter.me:6969/announce
-udp://www.jiangvps.xyz:6969/announce
 udp://www.skynetcenter.me:6969/announce
 udp://www.zhaohu.love:6969/announce
 udp://xxx.xxtor.com:3074/announce
