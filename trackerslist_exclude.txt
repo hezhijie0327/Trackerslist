@@ -112,7 +112,6 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.btcake.com:80/announce
 http://tracker.calculate.ru:6969/announce
-http://tracker.comicat.org:80/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.devil-torrents.pl:80/announce
 http://tracker.dler.com:6969/announce
@@ -120,6 +119,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.dutchtracking.nl:80/announce
+http://tracker.edoardocolombo.eu:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.enitin.xyz:80/announce
 http://tracker.ex.ua:80/announce
@@ -146,8 +146,8 @@ http://tracker.plop.pm:6969/announce
 http://tracker.prq.to:80/announce
 http://tracker.publicbt.com:80/announce
 http://tracker.rp-api.tech:8100/announce
+http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
-http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
@@ -212,9 +212,7 @@ https://tracker.hama3.net:443/announce
 https://tracker.iriseden.eu:443/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.lelux.fi:443/announce
-https://tracker.logirl.moe:443/announce
 https://tracker.madassnews.net:443/announce
-https://tracker.mlsub.net:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nodetopia.xyz:443/announce
@@ -230,7 +228,6 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker.yarr.pt:443/announce
 https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
-https://zer0day.000webhostapp.com:443/announce
 udp://172.zablog.me:6969/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -255,7 +252,6 @@ udp://cancela-tu.creditofiscal.mx:3074/announce
 udp://caramelo.ddns.net:8000/announce
 udp://chennuo.xyz:6969/announce
 udp://creative.7o7.cx:6969/announce
-udp://cx42light.cn:39652/announce
 udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://edu.uifr.ru:6969/announce
@@ -273,11 +269,12 @@ udp://ipv6.borat-tracker.cf:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
+udp://kokodayo.site:6969/announce
 udp://kor.swallowy.tk:6969/announce
-udp://mail.zasaonsk.ga:6969/announce
 udp://masd.sdsgzh.xyz:6969/announce
 udp://mgtracker.org:2710/announce
 udp://mts.tvbit.co:6969/announce
+udp://new-line.net:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.tracker.ink:6969/announce
@@ -306,6 +303,7 @@ udp://tothemoon.host:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.babico.name.tr:8000/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -349,7 +347,6 @@ udp://www.zhaohu.love:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://yahor.ftp.sh:6969/announce
 udp://z.mercax.com:53/announce
-udp://zecircle.xyz:6969/announce
 wss://qot.abiir.top:443/announce
 wss://tracker.novage.com.ua:443/announce
 wss://tracker.sloppyta.co:443/announce
