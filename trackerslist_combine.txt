@@ -597,14 +597,12 @@ https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:443/announce
-https://tracker.vectahosting.eu:8443/announce
 https://tracker.yarr.pt:443/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker1.loli.co.nz:443/announce
 https://tracker1.wimix.org:443/announce
 https://tracker2.ctix.cn:443/announce
-https://tracker6.lelux.fi:443/announce
 https://trackers.mlsub.net:443/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
@@ -635,8 +633,8 @@ udp://9.rarbg.me:2780/announce
 udp://9.rarbg.me:2970/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2730/announce
-udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2820/announce
+udp://9.rarbg.to:2900/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://960303.xyz:6969/announce
 udp://a.77tv.cf:6969/announce
@@ -698,6 +696,7 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://cx42light.cn:39652/announce
 udp://davidkirkevans.com:6969/announce
 udp://debuz.com:6969/announce
+udp://denis.stalker.upeer.me:1337/announce
 udp://deviloid.net:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
@@ -734,8 +733,6 @@ udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://home.yxgz.club:6969/announce
 udp://home.yxgz.vip:6969/announce
 udp://htz3.noho.st:6969/announce
-udp://hzzwly.gq:6969/announce
-udp://i-p-v-6.tk:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv4.borat-tracker.cf:6969/announce
@@ -888,7 +885,7 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:6969/announce
+udp://tracker.btsync.gq:2710/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
@@ -908,6 +905,7 @@ udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
+udp://tracker.fatkhoala.org:13750/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.filetracker.pl:8089/announce
@@ -954,6 +952,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
+udp://tracker.tallpenguin.org:15800/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -1010,7 +1009,6 @@ udp://www.2600.com:6969/announce
 udp://www.freerainbowtables.com:6969/announce
 udp://www.jhymov.co:6969/announce
 udp://www.jiangvps.xyz:6969/announce
-udp://www.mvgroup.org:2710/announce
 udp://www.nartlof.com.br:1337/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.peckservers.com:9000/announce
@@ -1035,6 +1033,4 @@ wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.magnetoo.io:443/announce
-wss://tracker.novage.com.ua:443/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.sloppyta.co:443/announce
