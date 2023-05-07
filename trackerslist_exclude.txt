@@ -45,7 +45,6 @@ http://home.yxgz.vip:6969/announce
 http://hzzwly.gq:6969/announce
 http://i-p-v-6.tk:6969/announce
 http://i.bandito.org:80/announce
-http://incine.ru:6969/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv6.tracker.harry.lu:80/announce
 http://jp.moeweb.pw:6969/announce
@@ -63,6 +62,7 @@ http://open.lolicon.eu:7777/announce
 http://open.miotracker.com:80/announce
 http://open.nyaatorrents.info:6544/announce
 http://open.nyap2p.com:8080/announce
+http://open.touki.ru:80/announce
 http://open.tracker.ink:6969/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
@@ -79,7 +79,6 @@ http://retracker.local:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
-http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://retracker.telecom.kz:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -117,7 +116,6 @@ http://tracker.devil-torrents.pl:80/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.com:80/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.edoardocolombo.eu:6969/announce
@@ -131,7 +129,6 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.h0me.cc:8880/announce
-http://tracker.ipv6tracker.org:80/announce
 http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
@@ -139,7 +136,6 @@ http://tracker.kisssub.org:2015/announce
 http://tracker.kisssub.org:80/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com:80/announce
-http://tracker.lintk.me:2710/announce
 http://tracker.loadbt.com:6969/announce
 http://tracker.logirl.moe:17052/announce
 http://tracker.mg64.net:6881/announce
@@ -178,9 +174,10 @@ http://uatracker.net:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.megatorrents.kg:80/announce
+http://www.theoccult.bz:3010/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
+https://0d.kebhana.mx:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://337hhh.xyz:443/announce
@@ -207,10 +204,12 @@ https://tracker.coalition.space:443/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.fastdownload.xyz:443/announce
 https://tracker.hama3.net:443/announce
+https://tracker.iriseden.eu:443/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
 https://tracker.madassnews.net:443/announce
+https://tracker.mlsub.net:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nodetopia.xyz:443/announce
@@ -251,6 +250,7 @@ udp://caramelo.ddns.net:8000/announce
 udp://chennuo.xyz:6969/announce
 udp://chihaya.de:6969/announce
 udp://creative.7o7.cx:6969/announce
+udp://cx42light.cn:39652/announce
 udp://dht.bt251.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -273,7 +273,6 @@ udp://kor.swallowy.tk:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://masd.sdsgzh.xyz:6969/announce
 udp://mgtracker.org:2710/announce
-udp://mts.tvbit.co:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.tracker.ink:6969/announce
@@ -296,13 +295,11 @@ udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://testing.syahaha.live:6969/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thug.rocks:6969/announce
 udp://torrent.skynetcenter.me:6969/announce
 udp://tothemoon.host:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.babico.name.tr:8000/announce
-udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
