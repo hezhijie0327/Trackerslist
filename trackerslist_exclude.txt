@@ -22,7 +22,6 @@ http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt1.letpo.com:80/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
@@ -37,7 +36,6 @@ http://dfireworks.eu.org:6969/announce
 http://ed2k.vip:7070/announce
 http://exodus.desync.com:6969/announce
 http://exodus.desync.com:80/announce
-http://finbytes.org:80/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
@@ -73,8 +71,6 @@ http://opentracker.acgnx.se:80/announce
 http://opentracker.lingyurouqing.xyz:15004/announce
 http://p4p.arenabg.ch:1337/announce
 http://pt.lax.mx:80/announce
-http://reisub.nsupdate.info:6969/announce
-http://retracker.adminko.org:80/announce
 http://retracker.bashtel.ru:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -84,7 +80,6 @@ http://retracker.local:80/announce
 http://retracker.mgts.by:80/announce
 http://retracker.omsk.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
-http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
 http://retracker.telecom.kz:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -93,7 +88,6 @@ http://rt.tace.ru:80/announce
 http://share.camoe.cn:8080/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
-http://t.jaekr.sh:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
@@ -136,7 +130,6 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.h0me.cc:8880/announce
-http://tracker.ipv6tracker.org:80/announce
 http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
@@ -187,7 +180,6 @@ http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
-https://0d.kebhana.mx:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://337hhh.xyz:443/announce
@@ -212,6 +204,7 @@ https://tr.torland.ga:443/announce
 https://track.plop.pm:8989/announce
 https://tracker.acgnx.se:443/announce
 https://tracker.babico.name.tr:443/announce
+https://tracker.baka.ink:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.fastdownload.xyz:443/announce
@@ -305,6 +298,7 @@ udp://retracker.netbynet.ru:2710/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://server2.kaskado-network.gq:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
+udp://slicie.icon256.com:8000/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.133335.xyz:6969/announce
@@ -314,9 +308,7 @@ udp://torrent.skynetcenter.me:6969/announce
 udp://tothemoon.host:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.babico.name.tr:8000/announce
-udp://tracker.btsync.gq:233/announce
-udp://tracker.cubonegro.xyz:6969/announce
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
@@ -337,7 +329,6 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
-udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
@@ -345,7 +336,6 @@ udp://tronml.cf:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.yarr.pt:1337/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
-udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps.skynetcenter.me:6969/announce
 udp://wjs.cool:6969/announce
 udp://www.jiangvps.xyz:6969/announce
