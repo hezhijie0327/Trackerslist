@@ -33,6 +33,7 @@ http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.beatrice-raws.org:80/announce
 http://bt.careland.com.cn:6969/announce
+http://bt.dl1234.com:80/announce
 http://bt.edwardk.info:12891/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
@@ -80,6 +81,7 @@ http://citadeloftheraven.dyndns.org:6969/announce
 http://citadeloftheraven.dyndns.org:8888/announce
 http://cloud.nyap2p.com:8080/announce
 http://cn.pcfreetime.com:6969/announce
+http://cocaine.ninja:6969/announce
 http://concen.org:6969/announce
 http://connect.swifte.space:2710/announce
 http://cutiegirl.ru:6969/announce
@@ -108,6 +110,7 @@ http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
 http://fxtt.ru:80/announce
+http://gdbt.3322.org:80/announce
 http://googer.cc:1337/announce
 http://grifon.info:80/announce
 http://gwp2-v19.rinet.ru:80/announce
@@ -275,6 +278,7 @@ http://tracker-udp.anirena.com:80/announce
 http://tracker-udp.gbitt.info:80/announce
 http://tracker.3304399.com:6969/announce
 http://tracker.36dm.com:2710/announce
+http://tracker.acg.gg:2710/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aeerso.space:6969/announce
 http://tracker.aibt.xyz:900/announce
@@ -362,7 +366,6 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.nighthawk.pw:4201/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
@@ -660,8 +663,9 @@ udp://6.pocketnet.app:6969/announce
 udp://62-210-114-129.rev.poneytelecom.eu:6969/announce
 udp://68.zablog.me:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://7.rarbg.me:2710/announce
+udp://7.rarbg.to:2710/announce
 udp://8.beyondth.cn:6969/announce
+udp://8.rarbg.com:2710/announce
 udp://8.rarbg.to:2710/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.com:2810/announce
@@ -671,7 +675,6 @@ udp://9.rarbg.me:2970/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2820/announce
-udp://9.rarbg.to:2830/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://960303.xyz:6969/announce
 udp://a.77tv.cf:6969/announce
@@ -731,6 +734,7 @@ udp://city21.pk:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
+udp://cocaine.ninja:6969/announce
 udp://code2chicken.nl:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
@@ -742,7 +746,6 @@ udp://cx42light.cn:39652/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://davidkirkevans.com:6969/announce
 udp://debuz.com:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
 udp://derpyradio.net:6969/announce
 udp://deviloid.net:6969/announce
 udp://devops.gay:6969/announce
@@ -868,6 +871,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oracle.rdysoftware.com:6969/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -953,7 +957,6 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
-udp://tracker.aeerso.space:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.arcbox.cc:6969/announce
@@ -989,7 +992,6 @@ udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
-udp://tracker.fatkhoala.org:13790/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.filetracker.pl:8089/announce
@@ -1098,7 +1100,6 @@ udp://www.2600.com:6969/announce
 udp://www.freerainbowtables.com:6969/announce
 udp://www.jhymov.co:6969/announce
 udp://www.jiangvps.xyz:6969/announce
-udp://www.mvgroup.org:2710/announce
 udp://www.nartlof.com.br:1337/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.peckservers.com:9000/announce
