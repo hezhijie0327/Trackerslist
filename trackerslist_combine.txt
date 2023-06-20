@@ -374,7 +374,6 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.nighthawk.pw:4201/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
@@ -679,9 +678,12 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce
 udp://7.rarbg.to:2710/announce
 udp://8.beyondth.cn:6969/announce
+udp://8.rarbg.com:2710/announce
+udp://8.rarbg.to:2710/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.com:2810/announce
 udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2820/announce
 udp://9.rarbg.me:2970/announce
 udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2730/announce
@@ -757,7 +759,6 @@ udp://cx42light.cn:39652/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://davidkirkevans.com:6969/announce
 udp://debuz.com:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
 udp://derpyradio.net:6969/announce
 udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
@@ -885,6 +886,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oracle.rdysoftware.com:6969/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -997,7 +999,6 @@ udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
-udp://tracker.fatkhoala.org:13750/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.filetracker.pl:8089/announce
@@ -1024,6 +1025,7 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
+udp://tracker.nighthawk.pw:4201/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ocnix.net:6969/announce
@@ -1045,6 +1047,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
+udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.tasvideos.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -1055,6 +1058,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentbay.to:6969/announce
 udp://tracker.torrenty.org:6969/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.vanitycore.co:6969/announce
