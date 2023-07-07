@@ -1,6 +1,7 @@
 http://504e163a.host.njalla.net:6969/announce
 http://5rt.tace.ru:60889/announce
 http://announce.partis.si:80/announce
+http://blackz.ro:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
 http://bt.100.pet:2710/announce
 http://bt.1000.pet:2712/announce
@@ -78,6 +79,7 @@ http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://p4p.arenabg.ch:1337/announce
 http://pt.lax.mx:80/announce
+http://retracker.adminko.org:80/announce
 http://retracker.bashtel.ru:80/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -137,6 +139,8 @@ http://tracker.gcvchp.com:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.internetwarriors.net:1337/announce
+http://tracker.ipv6tracker.org:80/announce
+http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
@@ -171,13 +175,13 @@ http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xfsub.com:6868/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yify-torrents.com:80/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
-http://tracker2.itzmx.com:6961/announce
 http://tracker2.wasabii.com.tw:6969/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
@@ -189,9 +193,11 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.36dm.club:2710/announce
 http://www.36dm.com:2710/announce
 http://www.biztorrents.com:80/announce
+http://www.megatorrents.kg:80/announce
 http://www.theplace.bz:2910/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
+https://0d.kebhana.mx:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://bt.nfshost.com:443/announce
@@ -217,7 +223,6 @@ https://tr.steins-gate.moe:2096/announce
 https://track.plop.pm:8989/announce
 https://tracker.acgnx.se:443/announce
 https://tracker.babico.name.tr:443/announce
-https://tracker.cloudit.top:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.dmhy.pw:443/announce
@@ -283,7 +288,6 @@ udp://elementsbrowser.com:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fgg.pp.ua:6969/announce
 udp://files.samtechnic.ir:6969/announce
-udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://ftp.pet:2710/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
@@ -313,8 +317,8 @@ udp://open.xxtor.com:3074/announce
 udp://oracle.rdysoftware.com:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://private.tmcars.co:6969/announce
+udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
-udp://public.publictracker.xyz:6969/announce
 udp://ransan.tk:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
