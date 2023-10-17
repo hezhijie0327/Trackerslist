@@ -1,5 +1,7 @@
 http://5rt.tace.ru:60889/announce
 http://announce.partis.si:80/announce
+http://bt-club.ws:80/announce
+http://bt-tracker.gamexp.ru:2710/announce
 http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
@@ -20,6 +22,7 @@ http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt1.letpo.com:80/announce
+http://bt2.54new.com:8080/announce
 http://bt2.archive.org:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
@@ -44,6 +47,7 @@ http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru:80/announce
+http://gdbt.3322.org:80/announce
 http://home.yxgz.vip:6969/announce
 http://houniao.ddns.net:8888/announce
 http://i-p-v-6.tk:6969/announce
@@ -73,7 +77,6 @@ http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.ch:1337/announce
-http://peersteers.org:80/announce
 http://retracker.211.ru:80/announce
 http://retracker.adminko.org:80/announce
 http://retracker.gorcomnet.ru:80/announce
@@ -158,6 +161,7 @@ http://tracker.plop.pm:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.prq.to:80/announce
 http://tracker.publicbt.com:80/announce
+http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.skyts.cn:6969/announce
@@ -166,7 +170,6 @@ http://tracker.sloppyta.co:80/announce
 http://tracker.swateam.org.uk:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.tambovnet.org:80/announce
-http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
@@ -188,13 +191,11 @@ http://tracker3.itzmx.com:8080/announce
 http://trackers.ibzu.me:80/announce
 http://trackme.theom.nz:80/announce
 http://trk.publictracker.xyz:6969/announce
-http://uatracker.net:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.36dm.com:2710/announce
 http://www.chouchou.club:8080/announce
-http://www.theoccult.bz:3010/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://2.tracker.eu.org:443/announce
@@ -212,7 +213,6 @@ https://nyaa.tracker.wf:7777/announce
 https://open.acgnxtracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.cc:443/announce
-https://t.btcland.xyz:443/announce
 https://t.zerg.pw:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -224,6 +224,7 @@ https://tr.abirxo.cf:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.steins-gate.moe:2096/announce
 https://track.plop.pm:8989/announce
+https://tracker.acgnx.se:443/announce
 https://tracker.babico.name.tr:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.cyber-hub.net:443/announce
@@ -239,6 +240,7 @@ https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nodetopia.xyz:443/announce
 https://tracker.quix.cf:443/announce
+https://tracker.renfei.net:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.torrentsnows.com:443/announce
@@ -312,6 +314,7 @@ udp://masd.sdsgzh.xyz:6969/announce
 udp://mgtracker.org:2710/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
+udp://new-line.net:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
@@ -327,6 +330,7 @@ udp://private.tmcars.co:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://ransan.tk:6969/announce
 udp://rekcart.duckdns.org:15480/announce
@@ -380,7 +384,6 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
-udp://tracker.piratepublic.com:1337/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.cn:6969/announce
