@@ -379,6 +379,7 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sakurato.xyz:23333/announce
+http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.shittyurl.org:80/announce
@@ -389,6 +390,7 @@ http://tracker.sloppyta.co:80/announce
 http://tracker.srv00.com:6969/announce
 http://tracker.srv00.com:80/announce
 http://tracker.sushirave.net:80/announce
+http://tracker.swarm3.network:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.tambovnet.org:80/announce
@@ -593,7 +595,6 @@ https://tracker.m-team.cc:443/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.nanoha.org:443/announce
-https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nodetopia.xyz:443/announce
 https://tracker.nyaa.tk:443/announce
@@ -855,6 +856,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oracle.rdysoftware.com:6969/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -962,6 +964,7 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -1019,6 +1022,7 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.cn:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.swarm3.network:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
@@ -1041,6 +1045,7 @@ udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xelion.fr:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
+udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
