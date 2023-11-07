@@ -176,6 +176,7 @@ http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz:80/announce
+http://open.va.wiki:900/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
@@ -782,6 +783,7 @@ udp://globalwave.no-ip.org:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
+udp://home.yxgz.vip:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:3000/announce
 udp://hzzwly.gq:6969/announce
@@ -798,6 +800,7 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://itera.bz:6969/announce
 udp://jeremylee.sh:6969/announce
 udp://jiangvps.xyz:6969/announce
@@ -1049,7 +1052,6 @@ udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xelion.fr:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
