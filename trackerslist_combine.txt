@@ -87,7 +87,6 @@ http://cloud.nyap2p.com:8080/announce
 http://cn.pcfreetime.com:6969/announce
 http://concen.org:6969/announce
 http://connect.swifte.space:2710/announce
-http://cutiegirl.ru:6969/announce
 http://data-bg.net:80/announce
 http://datascene.net:80/announce
 http://debuz.com:6969/announce
@@ -277,7 +276,6 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com:80/announce
 http://tracker-udp.gbitt.info:80/announce
 http://tracker.acgnx.se:80/announce
-http://tracker.aeerso.space:6969/announce
 http://tracker.aibt.xyz:900/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
@@ -924,6 +922,7 @@ udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://testing.syahaha.live:6969/announce
 udp://thagoat.rocks:6969/announce
+udp://thebytestore.co.uk:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thinking.duckdns.org:6969/announce
@@ -945,7 +944,6 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
-udp://tracker.aeerso.space:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.anima.nz:6969/announce
