@@ -13,15 +13,16 @@ http://agusiq-torrents.pl:6969/announce
 http://all4nothin.net:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
+http://ankeschwarz.net:6969/announce
 http://announce.partis.si:80/announce
 http://announce.torrentsmd.com:6969/announce
 http://appmeter.ru:6969/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv:80/announce
+http://bandari.org:6969/announce
 http://big-boss-tracker.net:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org:80/announce
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://blackz.ro:80/announce
 http://bluebird-hd.org:80/announce
 http://bobbialbano.com:6969/announce
@@ -129,6 +130,7 @@ http://i.bandito.org:80/announce
 http://incine.ru:6969/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+http://ipv6-publictracker.zooki.xyz:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://ipv6.tracker.harry.lu:80/announce
@@ -377,6 +379,7 @@ http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyaa.uk:6969/announce
 http://tracker.nyacat.pw:7000/announce
+http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
@@ -440,6 +443,7 @@ http://tracker.yify-torrents.com:80/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
+http://tracker.zum.bi:6969/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -476,6 +480,7 @@ http://v6-tracker.0g.cx:6969/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru:80/announce
+http://vps2.avc.cx:7171/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://wepzone.net:6969/announce
@@ -522,6 +527,7 @@ https://337hhh.xyz:443/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io:443/announce
 https://alpha.torrenttracker.nl:443/announce
+https://atrack-asia-s1.114913.xyz:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.endpot.com:443/announce
@@ -551,6 +557,7 @@ https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
+https://publictracker.pp.ua:443/announce
 https://seeders-paradise.org:443/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws:443/announce
@@ -700,6 +707,7 @@ udp://adt.adt-textile.ru:6969/announce
 udp://aegir.sexy:6969/announce
 udp://agusiq-torrents.pl:6969/announce
 udp://anidex.moe:6969/announce
+udp://ankeschwarz.net:6969/announce
 udp://announce.torrentsmd.com:6969/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
@@ -807,6 +815,7 @@ udp://inferno.demonoid.is:3391/announce
 udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv6-publictracker.zooki.xyz:6969/announce
 udp://ipv6.1337.cx:6969/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
@@ -990,6 +999,7 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -1073,6 +1083,7 @@ udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.zum.bi:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.ctix.cn:6969/announce
 udp://tracker2.indowebster.com:6969/announce

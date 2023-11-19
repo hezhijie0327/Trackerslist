@@ -1,8 +1,7 @@
 http://5rt.tace.ru:60889/announce
 http://announce.partis.si:80/announce
-http://atrack.pow7.com:80/announce
+http://bandari.org:6969/announce
 http://bt-club.ws:80/announce
-http://bt-tracker.gamexp.ru:2710/announce
 http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.ali213.net:8000/announce
@@ -37,7 +36,6 @@ http://citadeloftheraven.dyndns.org:6969/announce
 http://citadeloftheraven.dyndns.org:8888/announce
 http://cloud.nyap2p.com:8080/announce
 http://connect.swifte.space:2710/announce
-http://cutiegirl.ru:6969/announce
 http://data-bg.net:80/announce
 http://derpyradio.net:6969/announce
 http://dfireworks.eu.org:6969/announce
@@ -74,7 +72,6 @@ http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.ch:1337/announce
 http://retracker.211.ru:80/announce
 http://retracker.adminko.org:80/announce
@@ -98,9 +95,7 @@ http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
-http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
-http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -118,7 +113,9 @@ http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baka-sub.cf:80/announce
+http://tracker.baltracker.net:3390/announce
 http://tracker.baravik.org:6970/announce
+http://tracker.birkenwald.de:6969/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.btcake.com:80/announce
@@ -160,6 +157,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
+http://tracker.nyap2p.com:8080/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.prq.to:80/announce
@@ -204,6 +202,7 @@ https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+https://atrack-asia-s1.114913.xyz:443/announce
 https://bt.nfshost.com:443/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://danielcloud.ddns.net:443/announce
@@ -214,6 +213,7 @@ https://nyaa.tracker.wf:7777/announce
 https://open.acgnxtracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.cc:443/announce
+https://publictracker.pp.ua:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
@@ -255,7 +255,6 @@ udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://204.zablog.me:6969/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://68.zablog.me:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://a.77tv.cf:6969/announce
 udp://a.cdd5090t.tk:6969/announce
@@ -263,7 +262,7 @@ udp://admin.52ywp.com:6969/announce
 udp://adt.adt-textile.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aria2.team.ml:6969/announce
-udp://astrr.ru:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://boysbitte.be:6969/announce
 udp://bruh.cluster.ws:6969/announce
@@ -285,7 +284,6 @@ udp://chihaya.de:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://creative.7o7.cx:6969/announce
-udp://cutiegirl.ru:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://drsick.xyz:6969/announce
@@ -352,6 +350,7 @@ udp://sx.xxtor.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://testing.syahaha.live:6969/announce
 udp://tothemoon.host:6969/announce
+udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
