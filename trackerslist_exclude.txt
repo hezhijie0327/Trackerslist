@@ -50,12 +50,15 @@ http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru:80/announce
+http://gdbt.3322.org:80/announce
 http://gwp2-v19.rinet.ru:80/announce
+http://home.yxgz.vip:6969/announce
 http://houniao.ddns.net:8888/announce
 http://i-p-v-6.tk:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.tracker.m-team.cc:80/announce
 http://kaztorka.org:80/announce
+http://milanesitracker.tekcities.com:80/announce
 http://music-torrent.net:2710/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
@@ -72,6 +75,7 @@ http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
+http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.ch:1337/announce
 http://retracker.211.ru:80/announce
 http://retracker.adminko.org:80/announce
@@ -103,6 +107,7 @@ http://tk.greedland.net:80/announce
 http://tk.nvacg.org:3333/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk2.greedland.net:80/announce
+http://torrent-tracker.ru:80/announce
 http://torrent.gresille.org:80/announce
 http://torrent.rus.ec:2710/announce
 http://torrentclub.online:54123/announce
@@ -113,9 +118,7 @@ http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baka-sub.cf:80/announce
-http://tracker.baltracker.net:3390/announce
 http://tracker.baravik.org:6970/announce
-http://tracker.birkenwald.de:6969/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.btcake.com:80/announce
@@ -262,7 +265,6 @@ udp://admin.52ywp.com:6969/announce
 udp://adt.adt-textile.ru:6969/announce
 udp://app.icon256.com:8000/announce
 udp://aria2.team.ml:6969/announce
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://boysbitte.be:6969/announce
 udp://bruh.cluster.ws:6969/announce
@@ -354,9 +356,6 @@ udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
-udp://tracker.auctor.tv:6969/announce
-udp://tracker.beeimg.com:6969/announce
-udp://tracker.birkenwald.de:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -386,6 +385,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
