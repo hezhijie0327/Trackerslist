@@ -28,7 +28,6 @@ http://bluebird-hd.org:80/announce
 http://bobbialbano.com:6969/announce
 http://bt-club.ws:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
-http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
@@ -134,7 +133,6 @@ http://irrenhaus.dyndns.dk:80/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by:8000/announce
 http://kamikazee.duckdns.org:7777/announce
-http://kaztorka.org:80/announce
 http://kinorun.com:80/announce
 http://laxclax.ddns.net:8000/announce
 http://leidenfro.st:6969/announce
@@ -189,7 +187,6 @@ http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://peersteers.org:80/announce
-http://potuk.com:2710/announce
 http://pow7.com:80/announce
 http://proaudiotorrents.org:80/announce
 http://publictracker.ch:6969/announce
@@ -259,12 +256,10 @@ http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de:80/announce
-http://torrentclub.online:54123/announce
 http://torrents-nn.cn:2710/announce
 http://torrents.hikarinokiseki.com:6969/announce
 http://torrents.linuxmint.com:80/announce
 http://torrentsmd.com:8080/announce
-http://torrentsmd.eu:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org:80/announce
 http://tr.bangumi.moe:6969/announce
@@ -463,7 +458,6 @@ http://tracker810.xyz:11450/announce
 http://trackers.ibzu.me:80/announce
 http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz:80/announce
-http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru:80/announce
 http://uatracker.net:80/announce
 http://unit193.net:6969/announce
@@ -484,7 +478,6 @@ http://www.all4nothin.net:80/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com:80/announce
-http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.genesis-sp.org:2710/announce
@@ -1132,7 +1125,6 @@ udp://zer0day.to:1337/announce
 ws://hub.bugout.link:80/announce
 ws://tracker.files.fm:7072/announce
 ws://tracker.nighthawk.pw:4201/announce
-ws://tracker.sloppyta.co:80/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
