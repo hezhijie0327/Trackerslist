@@ -109,9 +109,7 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baka-sub.cf:80/announce
-http://tracker.baltracker.net:3390/announce
 http://tracker.baravik.org:6970/announce
-http://tracker.birkenwald.de:6969/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.btcake.com:80/announce
@@ -205,6 +203,7 @@ https://nyaa.tracker.wf:7777/announce
 https://open.acgnxtracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.cc:443/announce
+https://t.btcland.xyz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
@@ -225,6 +224,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.hama3.net:443/announce
 https://tracker.iriseden.eu:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
@@ -341,7 +341,6 @@ udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
-udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -374,6 +373,7 @@ udp://tracker.tcp.exchange:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker2.indowebster.com:6969/announce

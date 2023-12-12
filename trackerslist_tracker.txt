@@ -207,6 +207,9 @@ http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baka-sub.cf:80/announce
+http://tracker.baltracker.net:3390/announce
+http://tracker.baravik.org:6970/announce
+http://tracker.birkenwald.de:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com:80/announce
@@ -285,7 +288,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.rev.pm:6969/announce
 http://tracker.sakurato.art:23333/announce
-http://tracker.sakurato.xyz:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
@@ -416,7 +418,6 @@ https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://seeders-paradise.org:443/announce
-https://t.btcland.xyz:443/announce
 https://t.quic.ws:443/announce
 https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
@@ -464,7 +465,6 @@ https://tracker.hama3.net:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.eu:443/announce
-https://tracker.iriseden.fr:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
@@ -766,6 +766,7 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -818,6 +819,7 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrenty.org:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
