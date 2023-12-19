@@ -4,7 +4,6 @@ http://announce.partis.si:80/announce
 http://bt-club.ws:80/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
-http://bt.dl1234.com:80/announce
 http://bt.edwardk.info:12891/announce
 http://bt.edwardk.info:2710/announce
 http://bt.edwardk.info:4040/announce
@@ -70,6 +69,7 @@ http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net:80/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk2.greedland.net:80/announce
+http://torrent-tracker.ru:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
@@ -103,6 +103,7 @@ http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.peckservers.com:9000/announce
+http://tracker.pow7.com:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.rev.pm:6969/announce
 http://tracker.servequake.com:9999/announce
@@ -140,13 +141,13 @@ https://t3.leech.ie:443/announce
 https://torrent-tracker.hama3.net:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
-https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 https://track.plop.pm:8989/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
@@ -160,9 +161,7 @@ https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
-udp://204.zablog.me:6969/announce
 udp://2simple.naiive.xyz:6969/announce
-udp://68.zablog.me:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://a.77tv.cf:6969/announce
@@ -217,6 +216,7 @@ udp://market-re.quest:6969/announce
 udp://masd.sdsgzh.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
+udp://new-line.net:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
