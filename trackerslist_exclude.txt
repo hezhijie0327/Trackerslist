@@ -60,6 +60,7 @@ http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
 http://t.overflow.biz:6969/announce
+http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
 http://t2.leech.ie:80/announce
@@ -102,7 +103,6 @@ http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.peckservers.com:9000/announce
-http://tracker.pow7.com:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.rev.pm:6969/announce
 http://tracker.servequake.com:9999/announce
@@ -114,7 +114,6 @@ http://tracker.trojangogogo.site:8080/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
@@ -144,6 +143,7 @@ https://tr.abir.ga:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 https://track.plop.pm:8989/announce
+https://tracker.4.babico.name.tr:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
