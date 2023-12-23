@@ -1,9 +1,8 @@
 http://10.rarbg.com:80/announce
 http://11.rarbg.com:80/announce
 http://announce.partis.si:80/announce
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://atrack.pow7.com:80/announce
 http://bt-club.ws:80/announce
-http://bt-tracker.gamexp.ru:2710/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.edwardk.info:12891/announce
@@ -52,6 +51,7 @@ http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
+http://pow7.com:80/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
@@ -71,6 +71,7 @@ http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net:80/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk2.greedland.net:80/announce
+http://torrent-tracker.ru:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
@@ -106,7 +107,6 @@ http://tracker.nyacat.pw:7000/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.privateseedbox.xyz:2710/announce
-http://tracker.rev.pm:6969/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.swateam.org.uk:2710/announce
 http://tracker.swifte.space:2710/announce
@@ -116,9 +116,7 @@ http://tracker.trojangogogo.site:8080/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
-http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
@@ -165,6 +163,7 @@ https://tracker.torrentsnows.com:443/announce
 https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
+udp://1c.premierzal.ru:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
@@ -236,6 +235,7 @@ udp://private.tmcars.co:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://ransan.tk:6969/announce
 udp://rekcart.duckdns.org:15480/announce
@@ -253,7 +253,6 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://testing.syahaha.live:6969/announce
 udp://tothemoon.host:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
