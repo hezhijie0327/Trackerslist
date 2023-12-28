@@ -11,7 +11,6 @@ http://all4nothin.net:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
 http://announce.partis.si:80/announce
-http://appmeter.ru:6969/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce
@@ -546,7 +545,6 @@ udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://app.icon256.com:8000/announce
-udp://appmeter.ru:6969/announce
 udp://aria2.team.ml:6969/announce
 udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
@@ -574,7 +572,6 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
