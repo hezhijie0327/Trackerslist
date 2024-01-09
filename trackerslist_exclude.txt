@@ -58,6 +58,7 @@ http://retracker.joxnet.ru:80/announce
 http://retracker.xxtor.com:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://share.camoe.cn:8080/announce
+http://shubt.net:2710/announce
 http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
@@ -65,7 +66,6 @@ http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
-http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
@@ -73,7 +73,6 @@ http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net:80/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk2.greedland.net:80/announce
-http://torrent-tracker.ru:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
@@ -83,8 +82,10 @@ http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.ddunlimited.net:6969/announce
+http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.fdn.fr:6969/announce
@@ -94,7 +95,6 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.h0me.cc:8880/announce
-http://tracker.ilibr.org:80/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
@@ -115,10 +115,10 @@ http://tracker.swifte.space:2710/announce
 http://tracker.tambovnet.org:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.trojangogogo.site:8080/announce
-http://tracker.vraphim.com:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
@@ -141,7 +141,6 @@ https://ipv6.tracker.m-team.cc:443/announce
 https://lima-peru.subventas.com:443/announce
 https://nyaa.tracker.wf:7777/announce
 https://opentracker.cc:443/announce
-https://opentracker.co:443/announce
 https://t.btcland.xyz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -151,7 +150,6 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://track.plop.pm:8989/announce
-https://tracker.cyber-hub.net:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -169,9 +167,9 @@ https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
 https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
-udp://1c.premierzal.ru:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://a.77tv.cf:6969/announce
 udp://a.cdd5090t.tk:6969/announce
@@ -220,7 +218,6 @@ udp://kor.swallowy.tk:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://leefafa.tk:6969/announce
 udp://lopatins.ru:5972/announce
-udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://masd.sdsgzh.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
@@ -230,6 +227,7 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
+udp://open.demonii.com:1337/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
