@@ -1,6 +1,7 @@
 http://504e163a.host.njalla.net:6969/announce
 http://announce.partis.si:80/announce
 http://bt-club.ws:80/announce
+http://bt.3kb.xyz:80/announce
 http://bt.ali213.net:8000/announce
 http://bt.ali213.net:8080/announce
 http://bt.dl1234.com:80/announce
@@ -49,7 +50,6 @@ http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-http://pow7.com:80/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
@@ -59,7 +59,7 @@ http://share.camoe.cn:8080/announce
 http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
-http://t.nyaatracker.com:80/announce
+http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
@@ -134,6 +134,7 @@ https://00.xxtor.com:443/announce
 https://bt.080609.xyz:443/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://danielcloud.ddns.net:443/announce
+https://fbiagent.cyou:443/announce
 https://gwp2-v19.rinet.ru:443/announce
 https://ipv6.tracker.m-team.cc:443/announce
 https://lima-peru.subventas.com:443/announce
@@ -146,13 +147,14 @@ https://t3.leech.ie:443/announce
 https://torrent-tracker.hama3.net:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
+https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 https://track.plop.pm:8989/announce
+https://tracker.4.babico.name.tr:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
-https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
@@ -160,6 +162,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nodetopia.xyz:443/announce
+https://tracker.nyaa.tk:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
@@ -167,6 +170,7 @@ https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://a.77tv.cf:6969/announce
 udp://a.cdd5090t.tk:6969/announce
@@ -209,7 +213,6 @@ udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
-udp://jiangvps.xyz:6969/announce
 udp://kor.swallowy.tk:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://leefafa.tk:6969/announce
@@ -219,6 +222,7 @@ udp://masd.sdsgzh.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://npge.nprotect.com:6969/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
@@ -247,7 +251,6 @@ udp://slicie.icon256.com:8000/announce
 udp://smtp.loki.tel:25/announce
 udp://soysta-fr1.dev.sercomkc.org:6969/announce
 udp://stargrave.org:6969/announce
-udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
@@ -269,12 +272,10 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.lelux.fi:6969/announce
-udp://tracker.lyretain.site:2710/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ocnix.net:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.sheesh.rip:6969/announce
