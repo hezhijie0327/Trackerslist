@@ -70,7 +70,6 @@ http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net:80/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk2.greedland.net:80/announce
-http://torrent-tracker.ru:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
@@ -102,14 +101,12 @@ http://tracker.minglong.org:8080/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
-http://tracker.openbittorrent.com:80/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.pow7.com:80/announce
 http://tracker.rev.pm:6969/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.srv00.com:80/announce
 http://tracker.swateam.org.uk:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.tambovnet.org:80/announce
@@ -156,6 +153,7 @@ https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
@@ -200,8 +198,10 @@ udp://cloud.samtechnic.ir:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://creative.7o7.cx:6969/announce
 udp://devops.gay:6969/announce
+udp://dex.email:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
+udp://eccologic.net:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -221,6 +221,7 @@ udp://mail.zasaonsk.ga:6969/announce
 udp://masd.sdsgzh.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
+udp://new-line.net:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
@@ -276,7 +277,6 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ocnix.net:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.sheesh.rip:6969/announce
