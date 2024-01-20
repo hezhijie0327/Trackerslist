@@ -393,6 +393,7 @@ https://aaa.army:8866/announce
 https://abir0dev.github.io:443/announce
 https://alpha.torrenttracker.nl:443/announce
 https://bittorrent.gongt.net:443/announce
+https://bot.ponomar-sibir.ru:443/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org:443/announce
@@ -635,6 +636,7 @@ udp://hz.is:1337/announce
 udp://hz.is:3000/announce
 udp://hzzwly.gq:6969/announce
 udp://i-p-v-6.tk:6969/announce
+udp://incine.ru:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -646,6 +648,7 @@ udp://ipv6.govt.hu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://itera.bz:6969/announce
 udp://jeremylee.sh:6969/announce
 udp://jp.moeweb.pw:6969/announce
@@ -752,6 +755,7 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
+udp://t.jaekr.sh:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
@@ -819,6 +823,7 @@ udp://tracker.lyretain.site:2710/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
@@ -853,10 +858,12 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
+udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
