@@ -101,9 +101,6 @@ http://ns331480.ip-37-187-121.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
-http://open.acgtracker.com:1096/announce
-http://open.miotracker.com:80/announce
-http://open.nyap2p.com:8080/announce
 http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
 http://open.trackerlist.xyz:80/announce
@@ -117,7 +114,6 @@ http://parag.rs:6969/announce
 http://peersteers.org:80/announce
 http://pow7.com:80/announce
 http://proaudiotorrents.org:80/announce
-http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.ohys.net:80/announce
@@ -138,8 +134,6 @@ http://smurfsoft.com:6969/announce
 http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com:80/announce
 http://t.publictracker.xyz:6969/announce
-http://t1.pow7.com:80/announce
-http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 http://thebytestore.co.uk:6969/announce
@@ -147,7 +141,6 @@ http://tk.cubicview.site:80/announce
 http://tk1.trackerservers.com:8080/announce
 http://tk1v6.trackerservers.com:8080/announce
 http://torrent-team.net:80/announce
-http://torrent-tracker.ru:80/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.mp3quran.net:80/announce
@@ -299,7 +292,6 @@ http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
 http://www.worldboxingvideoarchive.com:80/announce
 http://www.xwt-classics.net:80/announce
-http://www.yqzuji.com:80/announce
 http://www.zone-torrent.net:80/announce
 http://xtremewrestlingtorrents.net:80/announce
 https://0d.kebhana.mx:443/announce
@@ -399,7 +391,6 @@ https://tracker.m-team.cc:443/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.nanoha.org:443/announce
-https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
@@ -558,7 +549,6 @@ udp://mserver.link:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://newworldtt.tk:6969/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://ns331480.ip-37-187-121.eu:6969/announce
 udp://nullzone.fr:6969/announce
 udp://odd-hd.fr:6969/announce
@@ -587,6 +577,7 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://reisub.nsupdate.info:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -651,7 +642,6 @@ udp://tracker.cortexlabs.ai:5008/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
