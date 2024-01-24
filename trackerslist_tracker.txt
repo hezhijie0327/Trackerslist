@@ -1,6 +1,5 @@
 http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
-http://10.rarbg.com:80/announce
 http://107.189.10.20.sslip.io:7777/announce
 http://11.rarbg.com:80/announce
 http://1337.abcvg.info:80/announce
@@ -134,10 +133,12 @@ http://shubt.net:2710/announce
 http://siambit.com:80/announce
 http://siambit.org:80/announce
 http://smurfsoft.com:6969/announce
-http://t.nyaatracker.com:80/announce
+http://t.jaekr.sh:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
+http://t2.pow7.com:80/announce
+http://t3.leech.ie:80/announce
 http://thebytestore.co.uk:6969/announce
 http://tk.cubicview.site:80/announce
 http://tk1.trackerservers.com:8080/announce
@@ -295,7 +296,6 @@ http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
 http://www.worldboxingvideoarchive.com:80/announce
 http://www.xwt-classics.net:80/announce
-http://www.yqzuji.com:80/announce
 http://www.zone-torrent.net:80/announce
 http://xtremewrestlingtorrents.net:80/announce
 https://0d.kebhana.mx:443/announce
@@ -316,6 +316,7 @@ https://carbon-bonsai-621.appspot.com:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://danielcloud.ddns.net:443/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app:443/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
 https://fbiagent.cyou:443/announce
@@ -361,6 +362,7 @@ https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 https://track.plop.pm:8989/announce
+https://tracker.4.babico.name.tr:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.bt-hash.com:443/announce
@@ -379,7 +381,6 @@ https://tracker.gcrreen.xyz:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
-https://tracker.iriseden.fr:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
@@ -406,7 +407,6 @@ https://tracker.skynetcloud.site:8443/announce
 https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com:443/announce
-https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
@@ -424,15 +424,12 @@ https://www.wareztorrent.com:443/announce
 https://x7x.up.railway.app:443/announce
 https://xtremex.herokuapp.com:443/announce
 https://yolo.liberbear.com:443/announce
-https://zer0day.000webhostapp.com:443/announce
 udp://0205.uptm.ch:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://147job.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://6.beyondth.cn:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://8.beyondth.cn:6969/announce
 udp://960303.xyz:6969/announce
 udp://a.77tv.cf:6969/announce
@@ -551,7 +548,6 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 udp://netmap.top:6969/announce
-udp://new-line.net:6969/announce
 udp://newworldtt.tk:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns331480.ip-37-187-121.eu:6969/announce
@@ -578,7 +574,6 @@ udp://private.tmcars.co:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
-udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
@@ -591,6 +586,7 @@ udp://rfc5746.mywaifu.best:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
+udp://sabross.xyz:6969/announce
 udp://sanincode.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://shogiroom.com:6969/announce
@@ -607,6 +603,7 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
+udp://t.jaekr.sh:6969/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
@@ -628,6 +625,9 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr2.ysagin.top:2715/announce
 udp://tracker.0x7c0.com:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.6.babico.name.tr:6969/announce
+udp://tracker.altrosky.nl:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
@@ -653,7 +653,6 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.lyretain.site:2710/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.ololosh.space:6969/announce
