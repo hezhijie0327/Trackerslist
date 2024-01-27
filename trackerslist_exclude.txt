@@ -33,7 +33,9 @@ http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru:80/announce
 http://houniao.ddns.net:8888/announce
+http://hzzwly.gq:6969/announce
 http://i-p-v-6.tk:6969/announce
+http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://ipv6.tracker.m-team.cc:80/announce
@@ -41,6 +43,7 @@ http://laxclax.ddns.net:8000/announce
 http://multi.open-tracker.cf:8000/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
 http://open.miotracker.com:80/announce
 http://open.nyap2p.com:8080/announce
 http://open.tracker.ink:6969/announce
@@ -55,6 +58,7 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.xxtor.com:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
+http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
@@ -63,6 +67,7 @@ http://t.overflow.biz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
 http://t2.leech.ie:80/announce
+http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -85,6 +90,7 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
+http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.ex.ua:80/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.filemail.com:6969/announce
@@ -93,6 +99,7 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.h0me.cc:8880/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
 http://tracker.lelux.fi:80/announce
@@ -101,7 +108,6 @@ http://tracker.minglong.org:8080/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
-http://tracker.openbittorrent.com:80/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
@@ -148,11 +154,11 @@ https://tr.abir.ga:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 https://track.plop.pm:8989/announce
+https://tracker.4.babico.name.tr:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
-https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
@@ -224,6 +230,7 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
+udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://pirate.hz.is:1337/announce
@@ -254,7 +261,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
@@ -272,7 +278,6 @@ udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
-udp://tracker.skyts.cn:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
