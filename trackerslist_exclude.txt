@@ -93,6 +93,7 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.h0me.cc:8880/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
 http://tracker.lelux.fi:80/announce
@@ -113,7 +114,6 @@ http://tracker.trojangogogo.site:8080/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker2.dler.com:80/announce
 http://tracker2.dler.org:80/announce
@@ -127,7 +127,6 @@ http://trackme.theom.nz:80/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.yqzuji.com:80/announce
 https://00.alarmasqueretaro.com:443/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
@@ -153,6 +152,7 @@ https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.logirl.moe:443/announce
@@ -181,6 +181,7 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt.plc.mx:3074/announce
+udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
@@ -199,6 +200,7 @@ udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://elementsbrowser.com:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://files.samtechnic.ir:6969/announce
 udp://freedom.1776.ga:6969/announce
@@ -227,6 +229,7 @@ udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.ink:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://pirate.hz.is:1337/announce
+udp://private.tmcars.co:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -244,11 +247,12 @@ udp://sx.xxtor.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ddunlimited.net:6969/announce
-udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
