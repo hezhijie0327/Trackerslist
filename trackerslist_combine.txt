@@ -535,7 +535,6 @@ udp://6.pocketnet.app:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://960303.xyz:6969/announce
-udp://a.77tv.cf:6969/announce
 udp://a.cdd5090t.tk:6969/announce
 udp://aaa.army:8866/announce
 udp://aarsen.me:6969/announce
