@@ -707,7 +707,6 @@ udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://parag.rs:6969/announce
 udp://pirate.hz.is:1337/announce
 udp://private.anonseed.com:6969/announce
-udp://private.tmcars.co:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
@@ -850,6 +849,7 @@ udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
+udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xiaoduola.xyz:6969/announce

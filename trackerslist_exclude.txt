@@ -39,7 +39,6 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://ipv6.tracker.m-team.cc:80/announce
-http://kamikazee.duckdns.org:7777/announce
 http://laxclax.ddns.net:8000/announce
 http://multi.open-tracker.cf:8000/announce
 http://open.8a.is:6969/announce
@@ -53,11 +52,13 @@ http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
+http://pow7.com:80/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.xxtor.com:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
+http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
@@ -67,6 +68,7 @@ http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
+http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -105,7 +107,9 @@ http://tracker.minglong.org:8080/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
+http://tracker.openbittorrent.com:80/announce
 http://tracker.peckservers.com:9000/announce
+http://tracker.pow7.com:80/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -114,7 +118,6 @@ http://tracker.swifte.space:2710/announce
 http://tracker.tambovnet.org:80/announce
 http://tracker.tfile.me:80/announce
 http://tracker.trojangogogo.site:8080/announce
-http://tracker.vraphim.com:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
@@ -141,6 +144,7 @@ https://gwp2-v19.rinet.ru:443/announce
 https://ipv6.tracker.m-team.cc:443/announce
 https://o-unkusrx.cloud.okteto.net:443/announce
 https://opentracker.cc:443/announce
+https://t.btcland.xyz:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
@@ -150,6 +154,7 @@ https://tr.abir.ga:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 https://track.plop.pm:8989/announce
+https://tracker.4.babico.name.tr:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -209,7 +214,6 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
-udp://kokodayo.site:6969/announce
 udp://kor.swallowy.tk:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://leefafa.tk:6969/announce
@@ -222,14 +226,15 @@ udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
+udp://nullzone.fr:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.ink:6969/announce
+udp://open.u-p.pw:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://pirate.hz.is:1337/announce
-udp://private.tmcars.co:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -256,6 +261,7 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
@@ -267,6 +273,7 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ocnix.net:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
@@ -277,6 +284,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.texoviva.com:9898/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
