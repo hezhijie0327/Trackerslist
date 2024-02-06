@@ -450,7 +450,6 @@ https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
-https://track.plop.pm:8989/announce
 https://tracker.4.babico.name.tr:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
@@ -701,6 +700,7 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce

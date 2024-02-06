@@ -51,8 +51,8 @@ http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-http://p2p.0g.cx:6969/announce
 http://pow7.com:80/announce
+http://r.l5.ca:6969/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
@@ -76,7 +76,6 @@ http://tk.cubicview.site:80/announce
 http://tk.greedland.net:80/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk2.greedland.net:80/announce
-http://torrent-tracker.ru:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
@@ -153,7 +152,6 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
-https://track.plop.pm:8989/announce
 https://tracker.4.babico.name.tr:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
@@ -175,7 +173,6 @@ https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://a.cdd5090t.tk:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -209,7 +206,10 @@ udp://fe.dealclub.de:6969/announce
 udp://files.samtechnic.ir:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://ftp.pet:2710/announce
+udp://globalwave.no-ip.org:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
+udp://hz.is:1337/announce
+udp://hz.is:3000/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -226,11 +226,11 @@ udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
-udp://nullzone.fr:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
+udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -252,6 +252,8 @@ udp://sx.xxtor.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.btsync.gq:233/announce
@@ -284,7 +286,6 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.texoviva.com:9898/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
