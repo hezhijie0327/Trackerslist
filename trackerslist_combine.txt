@@ -573,6 +573,7 @@ udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
+udp://canardscitrons.nohost.me:6969/announce
 udp://cancela-tu.creditofiscal.mx:3074/announce
 udp://caramelo.ddns.net:8000/announce
 udp://carr.codes:6969/announce
@@ -713,7 +714,6 @@ udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://reisub.nsupdate.info:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
