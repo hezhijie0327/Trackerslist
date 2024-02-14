@@ -73,6 +73,7 @@ http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
 http://tk.cubicview.site:80/announce
 http://tk.trojangogogo.site:8989/announce
+http://torrent-tracker.ru:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
@@ -88,6 +89,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.encrypted-data.xyz:1337/announce
+http://tracker.enitin.xyz:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.filemail.com:6969/announce
@@ -172,7 +174,6 @@ https://tracker.nodetopia.xyz:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
-https://tracker1.ctix.cn:443/announce
 https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
@@ -204,8 +205,10 @@ udp://city21.pk:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://creative.7o7.cx:6969/announce
+udp://dex.email:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
+udp://dyndns.xionxiii.ovh:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://files.samtechnic.ir:6969/announce
@@ -235,7 +238,6 @@ udp://open.8a.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
-udp://open.u-p.pw:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://pirate.hz.is:1337/announce
 udp://public-tracker.cf:6969/announce
@@ -256,7 +258,6 @@ udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
-udp://tracker.bitsearch.to:1337/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
