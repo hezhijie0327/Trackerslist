@@ -90,7 +90,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.encrypted-data.xyz:1337/announce
-http://tracker.enitin.xyz:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.filemail.com:6969/announce
@@ -137,7 +136,6 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 https://00.alarmasqueretaro.com:443/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
-https://0d.kebhana.mx:443/announce
 https://bot.ponomar-sibir.ru:443/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://danielcloud.ddns.net:443/announce
@@ -220,7 +218,6 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://leefafa.tk:6969/announce
 udp://lloria.fr:6969/announce
@@ -256,8 +253,6 @@ udp://t.overflow.biz:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tracker.0x.tf:6969/announce
-udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.btsync.gq:233/announce
@@ -274,7 +269,6 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.lelux.fi:6969/announce
-udp://tracker.lyretain.site:2710/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ocnix.net:6969/announce
@@ -298,7 +292,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://v2.iperson.xyz:6969/announce
-udp://wepzone.net:6969/announce
 udp://wjs.cool:6969/announce
 udp://www.jhymov.co:6969/announce
 udp://www.zhaohu.love:6969/announce
