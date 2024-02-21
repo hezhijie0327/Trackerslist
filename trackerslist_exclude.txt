@@ -25,6 +25,7 @@ http://bt2.edwardk.info:6969/announce
 http://btx.anifilm.tv:80/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
+http://dht.dhtclub.com:666/announce
 http://fe.dealclub.de:6969/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
@@ -73,8 +74,8 @@ http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
 http://tk.cubicview.site:80/announce
 http://tk.trojangogogo.site:8989/announce
-http://torrent-tracker.ru:80/announce
 http://torrent.nwps.ws:80/announce
+http://torrent.unix-ag.uni-kl.de:80/announce
 http://tr.cili001.com:8070/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
@@ -90,6 +91,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.encrypted-data.xyz:1337/announce
+http://tracker.enitin.xyz:80/announce
 http://tracker.ex.ua:80/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.filemail.com:6969/announce
@@ -162,6 +164,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
+https://tracker.kawaii.id:443/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.logirl.moe:443/announce
@@ -172,11 +175,13 @@ https://tracker.nodetopia.xyz:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
+https://tracker1.ctix.cn:443/announce
 https://trackme.theom.nz:443/announce
 https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://a.cdd5090t.tk:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -218,6 +223,7 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://leefafa.tk:6969/announce
 udp://lloria.fr:6969/announce
@@ -236,6 +242,7 @@ udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://pirate.hz.is:1337/announce
+udp://private.anonseed.com:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
