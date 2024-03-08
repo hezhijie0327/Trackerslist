@@ -777,6 +777,7 @@ udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.draatman.uk:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
