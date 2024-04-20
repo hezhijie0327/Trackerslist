@@ -30,13 +30,11 @@ http://cloud.nyap2p.com:8080/announce
 http://connect.swifte.space:2710/announce
 http://dht.dhtclub.com:666/announce
 http://fe.dealclub.de:6969/announce
-http://finbytes.org:80/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru:80/announce
-http://highteahop.top:6960/announce
 http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://i-p-v-6.tk:6969/announce
@@ -44,9 +42,11 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.tracker.m-team.cc:80/announce
 http://laxclax.ddns.net:8000/announce
+http://milliontorrent.pl:80/announce
 http://multi.open-tracker.cf:8000/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
 http://open.miotracker.com:80/announce
 http://open.nyap2p.com:8080/announce
 http://open.tracker.ink:6969/announce
@@ -55,7 +55,6 @@ http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.i2p.rocks:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-http://p2p.0g.cx:6969/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
@@ -67,7 +66,6 @@ http://share.camoe.cn:8080/announce
 http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
-http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
@@ -75,9 +73,7 @@ http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
-http://tinfoil.space:6969/announce
 http://tk.cubicview.site:80/announce
-http://torrent-tracker.ru:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrent.nwps.ws:80/announce
 http://torrents.hikarinokiseki.com:6969/announce
@@ -96,11 +92,11 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dutchtracking.nl:80/announce
+http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.ex.ua:80/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.filemail.com:6969/announce
 http://tracker.frozen-layer.com:6969/announce
-http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.internetwarriors.net:1337/announce
@@ -111,6 +107,7 @@ http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.peckservers.com:9000/announce
+http://tracker.pimp4003.net:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.rev.pm:6969/announce
 http://tracker.servequake.com:9999/announce
@@ -122,6 +119,7 @@ http://tracker.tfile.me:80/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker2.dler.com:80/announce
@@ -130,13 +128,13 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
+http://tracker810.xyz:11450/announce
 http://trackers.ibzu.me:80/announce
 http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz:80/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.genesis-sp.org:2710/announce
 https://00.alarmasqueretaro.com:443/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
@@ -161,10 +159,11 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr.aag.moe:443/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
+https://tr.kxmp.cf:443/announce
 https://tracker.3moredays.com:443/announce
+https://tracker.bt-hash.com:443/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
@@ -172,7 +171,6 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
-https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
 https://tracker.lelux.fi:443/announce
@@ -188,6 +186,7 @@ https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
 https://trackme.theom.nz:443/announce
 https://ttk.pp.ua:443/announce
+https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
@@ -214,7 +213,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://creative.7o7.cx:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
-udp://dyndns.xionxiii.ovh:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://files.samtechnic.ir:6969/announce
@@ -244,10 +242,8 @@ udp://open.xxtor.com:3074/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://pirate.hz.is:1337/announce
-udp://pirate.t-1.org:1337/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
-udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
@@ -305,13 +301,8 @@ udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://x.hz.is:6969/announce
-udp://x.paranoid.agency:6969/announce
-udp://x.t-1.org:6969/announce
 udp://xxx.xxtor.com:3074/announce
-udp://y.paranoid.agency:6969/announce
-udp://y.t-1.org:6969/announce
 udp://yahor.ftp.sh:6969/announce
 udp://z.mercax.com:53/announce
-udp://z.paranoid.agency:6969/announce
 wss://qot.abiir.top:443/announce
 wss://tracker.dnlab.net:443/announce
