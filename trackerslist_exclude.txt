@@ -17,6 +17,7 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.okmp3.ru:2710/announce
+http://bt.poletracker.org:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt1.letpo.com:80/announce
 http://bt2.archive.org:6969/announce
@@ -35,6 +36,7 @@ http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru:80/announce
+http://highteahop.top:6960/announce
 http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://i-p-v-6.tk:6969/announce
@@ -42,17 +44,16 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://ipv6.tracker.m-team.cc:80/announce
 http://laxclax.ddns.net:8000/announce
+http://li2021-95.members.linode.com:6969/announce
 http://multi.open-tracker.cf:8000/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com:80/announce
 http://open.miotracker.com:80/announce
 http://open.nyap2p.com:8080/announce
 http://open.tracker.ink:6969/announce
-http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.i2p.rocks:6969/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -74,20 +75,21 @@ http://t3.leech.ie:80/announce
 http://thitgaluoc.dynu.net:6969/announce
 http://tinfoil.space:6969/announce
 http://tk.cubicview.site:80/announce
+http://torrent-tracker.ru:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrent.nwps.ws:80/announce
 http://tr.cili001.com:8070/announce
-http://tr.kxmp.cf:80/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.baka-sub.cf:80/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.bz:80/announce
 http://tracker.coppersurfer.site:2710/announce
-http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dler.com:6969/announce
@@ -100,6 +102,7 @@ http://tracker.filemail.com:6969/announce
 http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gcvchp.com:2710/announce
+http://tracker.gdp.pw:900/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com:80/announce
@@ -110,6 +113,7 @@ http://tracker.nyacat.pw:7000/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.rev.pm:6969/announce
+http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
@@ -118,7 +122,6 @@ http://tracker.tfile.me:80/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.eu.org:36107/announce
@@ -128,15 +131,12 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
-http://tracker4.itzmx.com:2710/announce
-http://tracker4.itzmx.com:6961/announce
 http://trackers.ibzu.me:80/announce
 http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz:80/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-http://www.torrentsnipe.info:2701/announce
 https://00.alarmasqueretaro.com:443/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
@@ -164,6 +164,7 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr.aag.moe:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
+https://tr.doogh.club:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.qfruiti.in:443/announce
@@ -175,6 +176,7 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.h3o2.me:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
 https://tracker.lelux.fi:443/announce
@@ -192,6 +194,7 @@ https://ttk.pp.ua:443/announce
 https://w.wwwww.wtf:443/announce
 udp://10.rarbg.com:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
@@ -239,7 +242,6 @@ udp://npge.nprotect.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -260,6 +262,7 @@ udp://stargrave.org:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tcq.zhuqiy.eu.org:25091/announce
+udp://thinking.duckdns.org:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
@@ -294,6 +297,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.texoviva.com:9898/announce
+udp://tracker.therarbg.com:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
