@@ -585,7 +585,6 @@ udp://bt.oiyo.tk:6969/announce
 udp://bt.plc.mx:3074/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -676,7 +675,6 @@ udp://ln.mtahost.co:6969/announce
 udp://lopatins.ru:5972/announce
 udp://lulz.vpndb.org:3000/announce
 udp://mail.artixlinux.org:6969/announce
-udp://mail.lakameraobscura.com:6969/announce
 udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
@@ -714,6 +712,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oscar.reyesleon.xyz:6969/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -731,6 +730,7 @@ udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://reisub.nsupdate.info:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -859,6 +859,7 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
+udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
