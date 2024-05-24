@@ -532,7 +532,6 @@ https://tracker1.wimix.org:443/announce
 https://tracker2.ctix.cn:443/announce
 https://trackers.mlsub.net:443/announce
 https://trackers.nekosunevr.co.uk:443/announce
-https://trackers.ptlsp.com:443/announce
 https://trackers.run:443/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com:443/announce
@@ -860,6 +859,7 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
+udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -868,7 +868,6 @@ udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
-udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
