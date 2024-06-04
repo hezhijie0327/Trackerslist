@@ -241,6 +241,7 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.dmcomic.org:2710/announce
+http://tracker.dump.cl:6969/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -584,7 +585,6 @@ udp://bt.oiyo.tk:6969/announce
 udp://bt.plc.mx:3074/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -712,7 +712,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oscar.reyesleon.xyz:6969/announce
-udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
@@ -767,7 +766,6 @@ udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
-udp://tor.rev.pm:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.hificode.in:6969/announce
 udp://torrent.ubuntu.com:6969/announce
@@ -845,7 +843,6 @@ udp://tracker.picotorrent.one:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.rev.pm:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -863,6 +860,7 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
