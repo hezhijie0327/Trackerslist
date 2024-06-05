@@ -17,6 +17,7 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.okmp3.ru:2710/announce
+http://bt.poletracker.org:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt1.letpo.com:80/announce
 http://bt2.archive.org:6969/announce
@@ -60,9 +61,11 @@ http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.seven-sky.net:80/announce
+http://retracker.spark-rostov.ru:80/announce
 http://retracker.xxtor.com:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://share.camoe.cn:8080/announce
+http://share.hkg-fansub.info:80/announce
 http://shubt.net:2710/announce
 http://siambit.org:80/announce
 http://sukebei.tracker.wf:8888/announce
@@ -79,9 +82,11 @@ http://tk.cubicview.site:80/announce
 http://tk2.trackerservers.com:8080/announce
 http://tk2v6.trackerservers.com:8080/announce
 http://tor.rev.pm:6969/announce
+http://torrent-tracker.ru:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrent.nwps.ws:80/announce
 http://tr.cili001.com:8070/announce
+http://tr.kxmp.cf:80/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -108,7 +113,6 @@ http://tracker.gdp.pw:900/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com:80/announce
-http://tracker.lintk.me:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
@@ -155,6 +159,7 @@ https://k.avc.cx:443/announce
 https://o-unkusrx.cloud.okteto.net:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz:443/announce
+https://seeders-paradise.org:443/announce
 https://socket.onvo.me:443/announce
 https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
@@ -185,6 +190,7 @@ https://tracker.logirl.moe:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
+https://tracker.nyaa.tk:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.torrentsnows.com:443/announce
@@ -218,7 +224,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://creative.7o7.cx:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
-udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -240,6 +245,7 @@ udp://market-re.quest:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://npge.nprotect.com:6969/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
@@ -251,6 +257,7 @@ udp://pirate.t-1.org:1337/announce
 udp://public-tracker.cf:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
@@ -289,7 +296,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.lyretain.site:2710/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.ocnix.net:6969/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
@@ -310,7 +316,6 @@ udp://tracker6.lelux.fi:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
-udp://u.peer-exchange.download:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://x.hz.is:6969/announce
 udp://x.paranoid.agency:6969/announce
