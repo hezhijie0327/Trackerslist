@@ -17,7 +17,6 @@ http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org:80/announce
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bjlt.zhuqiy.eu.org:6666/announce
 http://blackz.ro:80/announce
 http://bluebird-hd.org:80/announce
@@ -116,7 +115,6 @@ http://mixfiend.com:80/announce
 http://mkfs.ru:80/announce
 http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
-http://multi.open-tracker.cf:8000/announce
 http://mvgroup.org:2710/announce
 http://nagios.tks.sumy.ua:80/announce
 http://nyaa.tracker.wf:7777/announce
@@ -594,6 +592,7 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt.plc.mx:3074/announce
+udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
@@ -863,11 +862,9 @@ udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vrpnet.org:6969/announce
-udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
-udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
