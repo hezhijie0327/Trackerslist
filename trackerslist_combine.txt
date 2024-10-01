@@ -422,6 +422,7 @@ https://gwp2-v19.rinet.ru:443/announce
 https://hcbt.pp.ua:443/announce
 https://inferno.demonoid.is:443/announce
 https://ipv6.tracker.m-team.cc:443/announce
+https://jvavav.com:443/announce
 https://k.avc.cx:443/announce
 https://lima-peru.subventas.com:443/announce
 https://mathkangaroo.jp:443/announce
@@ -555,7 +556,6 @@ https://trakx.herokuapp.com:443/announce
 https://ttk.pp.ua:443/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf:443/announce
-https://www.peckservers.com:9000/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com:443/announce
 https://x7x.up.railway.app:443/announce
@@ -608,6 +608,7 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
@@ -652,11 +653,8 @@ udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://home.kray.pw:6969/announce
-udp://home.yxgz.club:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:3000/announce
-udp://hzzwly.gq:6969/announce
-udp://i-p-v-6.tk:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
@@ -670,6 +668,7 @@ udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
+udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laszlo130.go.ro:6969/announce
@@ -739,7 +738,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
-udp://rfc5746.mywaifu.best:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
@@ -772,6 +770,7 @@ udp://theodoric.fr:6969/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
+udp://torrent.hificode.in:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -840,6 +839,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
