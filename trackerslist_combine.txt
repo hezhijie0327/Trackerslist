@@ -138,6 +138,7 @@ http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
+http://p2p.azu.red:80/announce
 http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://peersteers.org:80/announce
@@ -594,7 +595,6 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
@@ -918,7 +918,6 @@ udp://www.2600.com:6969/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
-udp://www.tvnihon.com:6969/announce
 udp://x.hz.is:6969/announce
 udp://x.paranoid.agency:6969/announce
 udp://x.t-1.org:6969/announce
