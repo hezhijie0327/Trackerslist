@@ -113,6 +113,7 @@ http://region.nl1.privex.cc:6969/announce
 http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker.xxtor.com:80/announce
+http://rfc5746.mywaifu.best:6969/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net:80/announce
 http://secure.pow7.com:80/announce
@@ -123,10 +124,8 @@ http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com:80/announce
 http://siambit.org:80/announce
-http://smurfsoft.com:6969/announce
 http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com:80/announce
-http://t.overflow.biz:6969/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
@@ -182,8 +181,8 @@ http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
+http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.enitin.xyz:80/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id:80/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.files.fm:6969/announce
@@ -257,8 +256,10 @@ http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker1.torrentino.com:80/announce
 http://tracker2.ctix.cn:2095/announce
+http://tracker2.torrentino.com:80/announce
 http://tracker3.ctix.cn:2095/announce
 http://tracker3.ctix.cn:8080/announce
+http://tracker3.torrentino.com:80/announce
 http://tracker810.xyz:11450/announce
 http://trackers.ibzu.me:80/announce
 http://trun.tom.ru:80/announce
@@ -398,7 +399,6 @@ https://tracker.gcrreen.xyz:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
-https://tracker.iriseden.fr:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
@@ -456,7 +456,6 @@ udp://0205.uptm.ch:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://147job.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://960303.xyz:6969/announce
@@ -494,6 +493,8 @@ udp://city21.pk:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://concen.org:6969/announce
+udp://cutscloud.duckdns.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://dataforai.com:31332/announce
 udp://debuz.com:6969/announce
@@ -599,7 +600,6 @@ udp://shizzle.hammetjus.nl:6969/announce
 udp://shogiroom.com:6969/announce
 udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
-udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
 udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
@@ -637,14 +637,12 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.auctor.tv:6969/announce
-udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
@@ -655,7 +653,6 @@ udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
-udp://tracker.etree.org:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
@@ -709,6 +706,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker1.t-1.org:6969/announce
+udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
