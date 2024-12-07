@@ -496,6 +496,7 @@ https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.cyber-hub.net:443/announce
+https://tracker.dev-null.rocks:443/announce
 https://tracker.dmhy.pw:443/announce
 https://tracker.dnlab.net:443/announce
 https://tracker.expli.top:443/announce
@@ -506,6 +507,7 @@ https://tracker.fr.eu.org:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.gcrreen.xyz:443/announce
+https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
@@ -610,6 +612,7 @@ udp://bt.plc.mx:3074/announce
 udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -658,8 +661,10 @@ udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://home.kray.pw:6969/announce
+udp://home.yxgz.club:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:3000/announce
+udp://hzzwly.gq:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -678,6 +683,7 @@ udp://kokodayo.site:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://li1406-230.members.linode.com:6969/announce
 udp://li2021-95.members.linode.com:6969/announce
 udp://linfan.moe:6969/announce
@@ -765,7 +771,6 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
-udp://t.jaekr.sh:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
@@ -819,7 +824,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.draatman.uk:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
@@ -880,11 +884,13 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
+udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
