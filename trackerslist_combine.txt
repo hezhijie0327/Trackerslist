@@ -621,7 +621,6 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 udp://caramelo.ddns.net:8000/announce
@@ -641,7 +640,6 @@ udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -778,6 +776,7 @@ udp://thagoat.rocks:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
+udp://tinfoil.space:6969/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.hificode.in:6969/announce
@@ -789,7 +788,6 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
-udp://tr.movian.eu:6969/announce
 udp://tr2.ysagin.top:2715/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -823,7 +821,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.draatman.uk:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
@@ -863,6 +860,7 @@ udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.sheesh.rip:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
