@@ -555,6 +555,7 @@ https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.vectahosting.eu:443/announce
+https://tracker.wsaoa.eu.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn:443/announce
