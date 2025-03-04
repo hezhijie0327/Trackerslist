@@ -623,6 +623,7 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://buny.uk:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 udp://caramelo.ddns.net:8000/announce
@@ -851,6 +852,7 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.silksa.co.za:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -871,7 +873,6 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
-udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
