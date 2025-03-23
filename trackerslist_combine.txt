@@ -614,12 +614,10 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://carr.codes:6969/announce
-udp://ch3oh.ru:6969/announce
 udp://city21.pk:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://concen.org:6969/announce
@@ -633,7 +631,6 @@ udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -663,13 +660,13 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://llideong.cn:6969/announce
 udp://lloria.fr:6969/announce
 udp://ln.mtahost.co:6969/announce
@@ -797,6 +794,7 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.draatman.uk:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
@@ -821,8 +819,6 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
-udp://tracker.netmap.top:6969/announce
-udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-data.network:8888/announce
 udp://tracker.openbtba.com:6969/announce
@@ -882,7 +878,6 @@ udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-udp://vm3268418.24ssd.had.wf:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
