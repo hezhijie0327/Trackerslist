@@ -634,7 +634,6 @@ udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -679,7 +678,6 @@ udp://ln.mtahost.co:6969/announce
 udp://lucke.fenesisu.moe:6969/announce
 udp://lulz.vpndb.org:3000/announce
 udp://mail.artixlinux.org:6969/announce
-udp://mail.lakameraobscura.com:6969/announce
 udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
@@ -750,6 +748,7 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
+udp://t.jaekr.sh:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
@@ -799,7 +798,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
@@ -856,7 +854,6 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
-udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
