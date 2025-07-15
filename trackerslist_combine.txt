@@ -13,6 +13,7 @@ http://all4nothin.net:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
 http://announce.partis.si:80/announce
+http://asiatorrent.ddns.net:51413/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce
@@ -611,7 +612,6 @@ udp://bt.oiyo.tk:6969/announce
 udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -634,6 +634,7 @@ udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
+udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -672,7 +673,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://lucke.fenesisu.moe:6969/announce
 udp://lulz.vpndb.org:3000/announce
@@ -801,7 +801,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
@@ -812,6 +811,7 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
@@ -908,7 +908,6 @@ udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
-ws://tracker.files.fm:7072/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
