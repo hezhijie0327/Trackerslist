@@ -418,7 +418,6 @@ https://abir0dev.github.io:443/announce
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
 https://bittorrent.gongt.net:443/announce
-https://bot.ponomar-sibir.ru:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org:443/announce
 https://bt.endpot.com:443/announce
@@ -642,7 +641,6 @@ udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -769,6 +767,7 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
+udp://torrent.hificode.in:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.space:6969/announce
