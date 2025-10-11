@@ -632,6 +632,7 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://buny.uk:6969/announce
 udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
@@ -668,7 +669,7 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
-udp://hificode.in:6969/announce
+udp://glotorrents.pw:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
 udp://htz3.noho.st:6969/announce
@@ -699,7 +700,6 @@ udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
-udp://mixfiend.com:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
@@ -739,6 +739,7 @@ udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
 udp://reisub.nsupdate.info:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -773,13 +774,11 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
-udp://torrent.hificode.in:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
-udp://torrents.hikarinokiseki.com:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
