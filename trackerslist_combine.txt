@@ -512,7 +512,6 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker.guguan.us.kg:443/announce
@@ -824,7 +823,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -858,10 +856,10 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.x6c.co:6969/announce
+udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
@@ -899,7 +897,6 @@ udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
-udp://www.nartlof.com.br:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
