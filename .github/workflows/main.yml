@@ -1,12 +1,9 @@
-# Current Version: 1.0.5
-
 name: Build & Release hezhijie0327/Trackerslist
 
 on:
-    push:
-        branches: [main]
-    schedule:
-        - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
     build:
@@ -19,7 +16,7 @@ jobs:
                   sudo apt install nmap -y
             - name: Step 3 - Build Trackerslist
               run: |
-                  curl -s "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/source/release.sh" | sudo bash
+                  bash release.sh
             - name: Step 4 - Release Trackerslist
               run: |
                   curl -s "https://raw.githubusercontent.com/hezhijie0327/Toolkit/main/Git.sh" > "/tmp/Git.sh"
