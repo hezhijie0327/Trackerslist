@@ -52,6 +52,7 @@ http://opentracker.i2p.rocks:6969/announce
 http://p2p.0g.cx:6969/announce
 http://play.aimisayo.com:6969/announce
 http://reisub.nsupdate.info:6969/announce
+http://retracker.joxnet.ru:80/announce
 http://retracker.ohys.net:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://rotracker.ohys.net:80/announce
@@ -119,7 +120,6 @@ http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
-http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.pimp4003.net:80/announce
 http://tracker.servequake.com:9999/announce
@@ -135,15 +135,16 @@ http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.umunu.ru:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
 http://trackers.ibzu.me:80/announce
@@ -156,6 +157,7 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com:80/announce
+http://www.genesis-sp.org:2710/announce
 http://www.megatorrents.kg:80/announce
 http://www.siambt.com:80/announce
 http://www.zone-torrent.net:80/announce
@@ -183,6 +185,7 @@ https://torrents.linuxmint.com:443/announce
 https://tr.abir.ga:443/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.burnabyhighstar.com:443/announce
+https://tr.doogh.club:443/announce
 https://tr.kxmp.cf:443/announce
 https://tr.torland.ga:443/announce
 https://track.solcloud.eu:443/announce
@@ -192,7 +195,6 @@ https://tracker.aburaya.live:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.bjut.jp:443/announce
-https://tracker.bug38.com:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.cutie.dating:443/announce
@@ -326,7 +328,6 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
-udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
