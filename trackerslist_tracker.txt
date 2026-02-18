@@ -17,6 +17,7 @@ http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org:80/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://blackz.ro:80/announce
 http://bluebird-hd.org:80/announce
 http://bobbialbano.com:6969/announce
@@ -50,6 +51,7 @@ http://bttracker.debian.org:6969/announce
 http://btx.anifilm.tv:80/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
+http://bz.tracker.bz:80/announce
 http://canardscitrons.nohost.me:6969/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 http://ch3oh.ru:6969/announce
@@ -111,7 +113,6 @@ http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.i2p.rocks:6969/announce
 http://opentracker.io:80/announce
-http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.com:1337/announce
@@ -123,8 +124,6 @@ http://proaudiotorrents.org:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.hotplug.ru:2710/announce
-http://retracker.joxnet.ru:80/announce
-http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://rotracker.ohys.net:80/announce
@@ -231,7 +230,10 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
+http://tracker.nucozer-tracker.ml:2710/announce
+http://tracker.nyacat.pw:7000/announce
 http://tracker.openbittorrent.com:80/announce
+http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -260,6 +262,7 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
@@ -353,7 +356,6 @@ https://open.kickasstracker.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks:443/announce
-https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://seeders-paradise.org:443/announce
@@ -370,6 +372,7 @@ https://t3.leech.ie:443/announce
 https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://tp.m-team.cc:443/announce
@@ -393,6 +396,7 @@ https://tracker.belmult.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
@@ -406,6 +410,7 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
@@ -443,7 +448,6 @@ https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce

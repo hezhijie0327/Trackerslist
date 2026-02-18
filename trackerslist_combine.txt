@@ -20,6 +20,7 @@ http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org:80/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://blackz.ro:80/announce
 http://bluebird-hd.org:80/announce
 http://bobbialbano.com:6969/announce
@@ -499,6 +500,7 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
@@ -547,7 +549,6 @@ https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win:443/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
@@ -716,6 +717,7 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.i.ng:6969/announce
+udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrentvpn.club:6990/announce
@@ -829,7 +831,6 @@ udp://yann5.hexanyn.fr:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 ws://tracker.files.fm:7072/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
