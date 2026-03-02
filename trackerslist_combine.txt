@@ -103,7 +103,6 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -743,7 +742,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://tracker.cloudbase.store:1333/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -779,7 +777,6 @@ udp://tracker.sharebro.in:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
@@ -803,7 +800,6 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
-udp://tracker.zupix.online:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
