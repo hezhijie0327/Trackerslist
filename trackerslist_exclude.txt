@@ -92,7 +92,6 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.mp3quran.net:80/announce
 http://torrents.linuxmint.com:80/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.bangumi.moe:80/announce
 http://tr.kxmp.cf:80/announce
@@ -154,6 +153,7 @@ http://tracker.xfapi.top:9999/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://trackers.ibzu.me:80/announce
 http://trackme.theom.nz:80/announce
@@ -200,6 +200,7 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.bjut.jp:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.cybar.xyz:443/announce
