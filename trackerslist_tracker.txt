@@ -5,6 +5,9 @@ http://10.rarbg.com:80/announce
 http://11.rarbg.com:80/announce
 http://1337.abcvg.info:80/announce
 http://147job.com:6969/announce
+http://504e163a.host.njalla.net:6969/announce
+http://66691337.xyz:6969/announce
+http://aaa.army:8866/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
@@ -102,6 +105,8 @@ http://mvgroup.org:2710/announce
 http://nagios.tks.sumy.ua:80/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.8a.is:6969/announce
+http://open.acgnxtracker.com:80/announce
 http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
 http://open.tracker.ink:6969/announce
@@ -122,6 +127,8 @@ http://proaudiotorrents.org:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.hotplug.ru:2710/announce
+http://retracker.joxnet.ru:80/announce
+http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://rotracker.ohys.net:80/announce
@@ -153,6 +160,7 @@ http://tk1.trackerservers.com:8080/announce
 http://tk2.trackerservers.com:8080/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
@@ -266,7 +274,6 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
-http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.umunu.ru:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
@@ -379,9 +386,6 @@ https://t1.tokhmi.xyz:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://threads.canofsocks.com:443/announce
-https://tk.mabo.ltd:443/announce
-https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
@@ -406,6 +410,7 @@ https://tracker.belmult.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
