@@ -521,6 +521,7 @@ https://tracker.kawaii.id:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.lelux.fi:443/announce
+https://tracker.lenition.de:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.logirl.moe:443/announce
@@ -550,6 +551,7 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
+https://tracker.samcze.pl:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.srv00.com:443/announce
