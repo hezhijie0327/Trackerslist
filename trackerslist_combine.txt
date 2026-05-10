@@ -201,6 +201,7 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
@@ -620,7 +621,6 @@ udp://coeus.torrentonline.cc:42069/announce
 udp://concen.org:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://db.koikia.eu:6969/announce
 udp://devops.gay:6969/announce
