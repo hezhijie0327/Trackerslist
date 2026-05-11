@@ -12,6 +12,7 @@ http://big-boss-tracker.net:80/announce
 http://bithq.org:80/announce
 http://bt-club.ws:80/announce
 http://bt.3kb.xyz:80/announce
+http://bt.dl1234.com:80/announce
 http://bt.endpot.com:80/announce
 http://bt.ktkj.com:8080/announce
 http://bt.nnm-club.info:2710/announce
@@ -40,7 +41,6 @@ http://hzzwly.gq:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv6.tracker.m-team.cc:80/announce
-http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://li1406-230.members.linode.com:6969/announce
@@ -60,6 +60,7 @@ http://opentracker.xyz:80/announce
 http://p2p.0g.cx:6969/announce
 http://play.aimisayo.com:6969/announce
 http://reisub.nsupdate.info:6969/announce
+http://retracker.joxnet.ru:80/announce
 http://retracker.ohys.net:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://rotracker.ohys.net:80/announce
@@ -189,6 +190,7 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://torrent-tracker.hama3.net:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.burnabyhighstar.com:443/announce
@@ -218,7 +220,6 @@ https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.lelux.fi:443/announce
-https://tracker.lenition.de:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.logirl.moe:443/announce
 https://tracker.loligirl.cn:443/announce
@@ -491,7 +492,9 @@ udp://tracker4.leechshield.link:6969/announce
 udp://trackthis.cyber.pz.it:1337/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
+udp://udp.trackarr.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
