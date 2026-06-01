@@ -106,6 +106,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -407,6 +408,7 @@ http://xtremewrestlingtorrents.net:80/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://004430.xyz:443/announce
+https://021912.xyz:443/announce
 https://0d.kebhana.mx:443/announce
 https://1337.abcvg.info:443/announce
 https://337hhh.xyz:443/announce
@@ -415,6 +417,7 @@ https://aaa.army:8866/announce
 https://abir0dev.github.io:443/announce
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
+https://banananetwork.qzz.io:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
 https://bt.080609.xyz:443/announce
@@ -446,6 +449,7 @@ https://opentracker.8880085.xyz:443/announce
 https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz:443/announce
+https://orgtgju.org:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -843,6 +847,7 @@ udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
+udp://vito-tracker.space:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
