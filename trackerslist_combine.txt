@@ -375,7 +375,6 @@ http://trun.tom.ru:80/announce
 http://uatracker.net:80/announce
 http://unknownsite.de:6969/announce
 http://uraniumhexafluori.de:1919/announce
-http://vito-tracker.space:6969/announce
 http://vps-c1adea63.vps.ovh.net:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru:80/announce
@@ -688,7 +687,6 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
-udp://open.demonoid.ch:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:6969/announce
@@ -837,7 +835,6 @@ udp://trackthis.cyber.pz.it:1337/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://uabits.today:6990/announce
-udp://udp.trackarr.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
@@ -848,6 +845,7 @@ udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
+udp://vito-tracker.space:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
