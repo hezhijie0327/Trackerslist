@@ -201,7 +201,6 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
@@ -687,6 +686,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonoid.ch:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:6969/announce
@@ -772,6 +772,7 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.dorcus.digital:1337/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
@@ -814,6 +815,7 @@ udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -845,7 +847,6 @@ udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
-udp://vito-tracker.space:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
