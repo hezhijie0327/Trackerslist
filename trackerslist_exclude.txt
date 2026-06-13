@@ -1,3 +1,4 @@
+http://0123456789nonexistent.com:80/announce
 http://10.rarbg.com:80/announce
 http://107.189.10.20.sslip.io:7777/announce
 http://11.rarbg.com:80/announce
@@ -12,6 +13,7 @@ http://asiatorrent.giize.com:51413/announce
 http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce
 http://bithq.org:80/announce
+http://blackz.ro:80/announce
 http://bt-club.ws:80/announce
 http://bt.3kb.xyz:80/announce
 http://bt.endpot.com:80/announce
@@ -21,12 +23,15 @@ http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt1.letpo.com:80/announce
+http://bt1.xxxxbt.cc:6969/announce
 http://bt2.archive.org:6969/announce
+http://btracker.top:11451/announce
 http://btx.anifilm.tv:80/announce
+http://buny.uk:6969/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
+http://concen.org:6969/announce
 http://data-bg.net:80/announce
-http://dht.dhtclub.com:666/announce
 http://dn42.smrsh.net:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 http://fe.dealclub.de:6969/announce
@@ -36,6 +41,7 @@ http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru:80/announce
+http://home.yxgz.club:6969/announce
 http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://incine.ru:6969/announce
@@ -59,14 +65,18 @@ http://opentracker.91kf.top:16969/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.i2p.rocks:6969/announce
 http://p2p.0g.cx:6969/announce
+http://play.aimisayo.com:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.ohys.net:80/announce
+http://retracker.spark-rostov.ru:80/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net:80/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
 http://s926723.ha016.t.mydomain.zone:80/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru:80/announce
 http://share.camoe.cn:8080/announce
+http://share.hkg-fansub.info:80/announce
 http://shogiroom.com:6969/announce
 http://siambit.org:80/announce
 http://t.acg.rip:6699/announce
@@ -89,7 +99,6 @@ http://torrents.linuxmint.com:80/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.bangumi.moe:80/announce
-http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
 http://tr1.aag.moe:2095/announce
 http://tracker.23794.top:6969/announce
@@ -97,6 +106,7 @@ http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.baka-sub.cf:80/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
@@ -105,6 +115,7 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.enitin.xyz:80/announce
@@ -129,7 +140,6 @@ http://tracker.nyacat.pw:7000/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.pimp4003.net:80/announce
-http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
@@ -147,6 +157,7 @@ http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.tritan.gg:8080/announce
+http://tracker.vanitycore.co:6969/announce
 http://tracker.vrpnet.org:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -170,13 +181,19 @@ http://wg.mortis.me:6969/announce
 http://www.all4nothin.net:80/announce
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com:80/announce
+http://www.chouchou.club:8080/announce
+http://www.genesis-sp.org:2710/announce
 http://www.megatorrents.kg:80/announce
+http://www.siambt.com:80/announce
+http://www.torrentsnipe.info:2701/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
+https://337hhh.xyz:443/announce
 https://aaa.army:8866/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.endpot.com:443/announce
+https://chihaya-heroku.120181311.xyz:443/announce
 https://cny.fan:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://gwp2-v19.rinet.ru:443/announce
@@ -193,10 +210,10 @@ https://t.quic.ws:443/announce
 https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 https://t1.leech.ie:443/announce
-https://t1.tokhmi.xyz:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://torrent-tracker.hama3.net:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.burnabyhighstar.com:443/announce
@@ -210,6 +227,8 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.bjut.jp:443/announce
+https://tracker.bt-hash.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.cutie.dating:443/announce
@@ -239,7 +258,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.novy.vip:443/announce
 https://tracker.nyaa.tk:443/announce
-https://tracker.pterclub.com:443/announce
 https://tracker.publictorrent.net:443/announce
 https://tracker.puvvadi.net:443/announce
 https://tracker.quix.cf:443/announce
@@ -442,6 +460,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.dorcus.digital:1337/announce
 udp://tracker.draatman.uk:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -460,6 +479,7 @@ udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
+udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.ptrmc.net:6969/announce
