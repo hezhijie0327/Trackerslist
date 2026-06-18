@@ -60,9 +60,7 @@ http://opentracker.acgnx.com:6869/announce
 http://opentracker.i2p.rocks:6969/announce
 http://p2p.0g.cx:6969/announce
 http://play.aimisayo.com:6969/announce
-http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
-http://retracker.hotplug.ru:2710/announce
 http://retracker.ohys.net:80/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net:80/announce
@@ -89,9 +87,9 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.mp3quran.net:80/announce
 http://torrents.linuxmint.com:80/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.bangumi.moe:80/announce
-http://tr.kxmp.cf:80/announce
 http://tr1.aag.moe:2095/announce
 http://tracker.23794.top:6969/announce
 http://tracker.ali213.net:8000/announce
@@ -154,6 +152,7 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.ctix.cn:2095/announce
 http://tracker3.ctix.cn:2095/announce
@@ -161,7 +160,6 @@ http://tracker3.ctix.cn:8080/announce
 http://trackers.ibzu.me:80/announce
 http://trackme.theom.nz:80/announce
 http://trackr.appolon.dev:6969/announce
-http://trun.tom.ru:80/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
@@ -195,11 +193,10 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrents.linuxmint.com:443/announce
-https://tr.abir.ga:443/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.burnabyhighstar.com:443/announce
+https://tr.kxmp.cf:443/announce
 https://tr.torland.ga:443/announce
 https://track3r.site:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
@@ -356,6 +353,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonoid.ch:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:6969/announce
