@@ -8,6 +8,7 @@ http://147job.com:6969/announce
 http://504e163a.host.njalla.net:6969/announce
 http://66691337.xyz:6969/announce
 http://aaa.army:8866/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
@@ -106,7 +107,6 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -212,6 +212,7 @@ http://torrentzilla.org:80/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.bangumi.moe:80/announce
 http://tr.cili001.com:8070/announce
+http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
@@ -235,6 +236,7 @@ http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz:80/announce
+http://tracker.cbase.cc:6969/announce
 http://tracker.ccc.de:80/announce
 http://tracker.chaoz.li:2710/announce
 http://tracker.computel.fr:80/announce
@@ -452,6 +454,7 @@ https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org:443/announce
+https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws:443/announce
@@ -705,6 +708,7 @@ udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -773,6 +777,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.dorcus.digital:1337/announce
 udp://tracker.draatman.uk:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
