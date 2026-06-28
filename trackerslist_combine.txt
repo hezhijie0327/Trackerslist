@@ -600,7 +600,6 @@ udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
-udp://amigacity.xyz:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://app.icon256.com:8000/announce
@@ -714,7 +713,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
-udp://rt.tace.ru:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
