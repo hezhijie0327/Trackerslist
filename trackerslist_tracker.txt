@@ -40,7 +40,6 @@ http://bt.publicvm.com:8080/announce
 http://bt.rghost.net:80/announce
 http://bt.xcty.eu.org:2095/announce
 http://bt.zlofenix.org:81/announce
-http://bt02.nnm-club.info:2710/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
@@ -151,7 +150,6 @@ http://smurfsoft.com:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.jaekr.sh:6969/announce
-http://t.nyaatracker.com:80/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
@@ -168,7 +166,6 @@ http://torrent.unix-ag.uni-kl.de:80/announce
 http://torrents.hikarinokiseki.com:6969/announce
 http://torrents.linuxmint.com:80/announce
 http://torrentsmd.com:8080/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org:80/announce
 http://tr.cili001.com:8070/announce
 http://tr.highstar.shop:80/announce
@@ -261,7 +258,6 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.umunu.ru:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -362,6 +358,7 @@ https://nyaa.tracker.wf:7777/announce
 https://o-unkusrx.cloud.okteto.net:443/announce
 https://open.ftorrent.com:443/announce
 https://open.kickasstracker.com:443/announce
+https://opentracker.8880085.xyz:443/announce
 https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz:443/announce
@@ -384,7 +381,6 @@ https://t3.leech.ie:443/announce
 https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
@@ -394,6 +390,7 @@ https://tr.abir.ga:443/announce
 https://tr.doogh.club:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
+https://tr.kxmp.cf:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
@@ -411,6 +408,7 @@ https://tracker.bigbewbs.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
@@ -419,6 +417,8 @@ https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.iochimari.moe:443/announce
+https://tracker.isbigdick.cc.cd:443/announce
+https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
 https://tracker.kuroy.me:443/announce
