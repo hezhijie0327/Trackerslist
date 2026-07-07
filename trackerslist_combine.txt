@@ -1,3 +1,4 @@
+http://004430.xyz:80/announce
 http://0123456789nonexistent.com:80/announce
 http://10.rarbg.com:80/announce
 http://107.189.10.20.sslip.io:7777/announce
@@ -115,6 +116,7 @@ http://li2021-95.members.linode.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com:80/announce
+http://maxsrv.xyz:9000/announce
 http://mediaclub.tv:80/announce
 http://milanesitracker.tekcities.com:80/announce
 http://milliontorrent.pl:80/announce
@@ -134,6 +136,7 @@ http://open.miotracker.com:80/announce
 http://open.nyap2p.com:8080/announce
 http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
+http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://openbittorrent.com:80/announce
@@ -164,7 +167,6 @@ http://s1124554.ha012.t.mydomain.zone:80/announce
 http://s1130638.ha016.t.mydomain.zone:80/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
 http://s1130642.ha014.t.mydomain.zone:80/announce
-http://s926723.ha016.t.mydomain.zone:80/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org:80/announce
 http://servandroidkino.ru:80/announce
@@ -298,6 +300,7 @@ http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
+http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org:80/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -326,6 +329,7 @@ http://tracker.swifte.space:2710/announce
 http://tracker.tambovnet.org:80/announce
 http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
+http://tracker.therarbg.to:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentbytes.net:80/announce
 http://tracker.torrentyorg.pl:80/announce
@@ -649,7 +653,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://files.project-cataclysm.ru:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -752,7 +755,6 @@ udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-us.silksa.co.za:6969/announce
-udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
@@ -867,7 +869,6 @@ udp://yuptracker-sa.gaijinent.com:27022/announce
 udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
