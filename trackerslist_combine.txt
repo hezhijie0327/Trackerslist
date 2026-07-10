@@ -8,6 +8,7 @@ http://147job.com:6969/announce
 http://504e163a.host.njalla.net:6969/announce
 http://66691337.xyz:6969/announce
 http://aaa.army:8866/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
@@ -212,6 +213,7 @@ http://torrentzilla.org:80/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.bangumi.moe:80/announce
 http://tr.cili001.com:8070/announce
+http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
@@ -333,7 +335,6 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
-http://tracker.umunu.ru:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
@@ -430,7 +431,6 @@ https://carbon-bonsai-621.appspot.com:443/announce
 https://cernet-tracker.appspot.com:443/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://cny.fan:443/announce
-https://colibri.parrot.run:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app:443/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
@@ -456,6 +456,7 @@ https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org:443/announce
+https://shahidrazi.online:443/announce
 https://staticfile-bobcat.wasmer.app:443/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz:443/announce
@@ -521,7 +522,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.iochimari.moe:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr:443/announce
-https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
@@ -554,7 +554,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.pterclub.com:443/announce
 https://tracker.publictorrent.net:443/announce
 https://tracker.puvvadi.net:443/announce
-https://tracker.qingwa.pro:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.renfei.net:443/announce
@@ -582,7 +581,6 @@ https://ttk.pp.ua:443/announce
 https://ttracker.just-h.party:443/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf:443/announce
-https://wolf.parrot.run:443/announce
 https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com:443/announce
@@ -635,6 +633,7 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
+udp://ds32244.seedhost.eu:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
@@ -677,9 +676,7 @@ udp://navegador.click:6969/announce
 udp://new-line.net:6969/announce
 udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
-udp://node01.trackerstatus.live:42069/announce
 udp://node02.madtia.cc:42069/announce
-udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -708,6 +705,7 @@ udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -774,6 +772,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.dorcus.digital:1337/announce
 udp://tracker.draatman.uk:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -804,6 +803,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.silksa.co.za:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -862,7 +862,6 @@ udp://yuptracker-sa.gaijinent.com:27022/announce
 udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
