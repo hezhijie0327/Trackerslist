@@ -107,6 +107,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -202,7 +203,6 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
@@ -493,6 +493,7 @@ https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.4.babico.name.tr:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.aburaya.live:443/announce
+https://tracker.adgk.net:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.baka.ink:443/announce
@@ -641,7 +642,6 @@ udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
-udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
