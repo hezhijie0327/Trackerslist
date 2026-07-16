@@ -6,6 +6,7 @@ http://1337.abcvg.info:80/announce
 http://147job.com:6969/announce
 http://66691337.xyz:6969/announce
 http://aaa.army:8866/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru:80/announce
 http://announce.partis.si:80/announce
@@ -153,7 +154,6 @@ http://speedtest.iperson.xyz:6969/announce
 http://sukebei.tracker.wf:8888/announce
 http://supertracker.cc.cd:80/announce
 http://t.jaekr.sh:6969/announce
-http://t.nyaatracker.com:80/announce
 http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
@@ -176,6 +176,7 @@ http://torrentsmd.com:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org:80/announce
 http://tr.cili001.com:8070/announce
+http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker-udp.anirena.com:80/announce
@@ -271,6 +272,8 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.vanitycore.co:6969/announce
+http://tracker.vraphim.com:6969/announce
+http://tracker.vrpnet.org:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xiaoduola.xyz:6969/announce
@@ -333,6 +336,7 @@ https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://0d.kebhana.mx:443/announce
 https://1337.abcvg.info:443/announce
+https://337hhh.xyz:443/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io:443/announce
@@ -349,6 +353,9 @@ https://bt2.080609.xyz:443/announce
 https://carapax.net:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 https://cernet-tracker.appspot.com:443/announce
+https://chihaya-heroku.120181311.xyz:443/announce
+https://cny.fan:443/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app:443/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
 https://ht.therarbg.to:443/announce
@@ -370,6 +377,7 @@ https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org:443/announce
+https://shahidrazi.online:443/announce
 https://staticfile-bobcat.wasmer.app:443/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz:443/announce
@@ -383,17 +391,18 @@ https://t3.leech.ie:443/announce
 https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tp.m-team.cc:443/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
+https://tr.doogh.club:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
+https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.ready4.icu:443/announce
-https://tr.torland.ga:443/announce
 https://tr.zukizuki.org:443/announce
 https://track3r.site:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
@@ -409,6 +418,7 @@ https://tracker.bigbewbs.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
