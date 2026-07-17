@@ -55,6 +55,7 @@ http://open.8a.is:6969/announce
 http://open.acgnxtracker.com:80/announce
 http://open.miotracker.com:80/announce
 http://open.nyap2p.com:8080/announce
+http://open.tracker.ink:6969/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.i2p.rocks:6969/announce
@@ -73,7 +74,6 @@ http://shogiroom.com:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 http://t.acg.rip:6699/announce
 http://t.al.uy:80/announce
-http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
@@ -125,6 +125,7 @@ http://tracker.lyretain.site:2710/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyacat.pw:7000/announce
+http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.pimp4003.net:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -149,6 +150,7 @@ http://tracker.vrpnet.org:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.ygsub.com:6969/announce
 http://tracker.yuelili.com:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.ctix.cn:2095/announce
@@ -165,7 +167,6 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce
 http://www.biztorrents.com:80/announce
 http://www.megatorrents.kg:80/announce
-http://www.siambt.com:80/announce
 http://www.yqzuji.com:80/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
@@ -197,7 +198,6 @@ https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.burnabyhighstar.com:443/announce
-https://tr.torland.ga:443/announce
 https://track3r.site:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.aburaya.live:443/announce
@@ -206,6 +206,7 @@ https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.bigbewbs.online:443/announce
 https://tracker.bjut.jp:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.cutie.dating:443/announce
