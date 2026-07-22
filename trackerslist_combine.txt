@@ -290,6 +290,7 @@ http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
+http://tracker.nexusstream.eu:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
@@ -404,6 +405,7 @@ http://www.xwt-classics.net:80/announce
 http://www.yqzuji.com:80/announce
 http://www.zone-torrent.net:80/announce
 http://xtremewrestlingtorrents.net:80/announce
+http://ydlkccp.dscloud.me:6969/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://004430.xyz:443/announce
@@ -431,6 +433,7 @@ https://chihaya-heroku.120181311.xyz:443/announce
 https://cny.fan:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app:443/announce
+https://edgev.duckdns.org:443/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
 https://gwp2-v19.rinet.ru:443/announce
 https://hcbt.pp.ua:443/announce
@@ -513,6 +516,7 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
@@ -793,7 +797,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -852,7 +855,6 @@ udp://yuptracker-sa.gaijinent.com:27022/announce
 udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
