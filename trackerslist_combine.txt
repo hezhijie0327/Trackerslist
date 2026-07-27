@@ -107,6 +107,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -472,7 +473,6 @@ https://t3.leech.ie:443/announce
 https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
@@ -733,6 +733,7 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://torrent.bowed.net:8081/announce
 udp://torrent.i.ng:6969/announce
+udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
@@ -856,6 +857,7 @@ udp://yuptracker-sa.gaijinent.com:27022/announce
 udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
