@@ -529,6 +529,7 @@ https://tracker.lelux.fi:443/announce
 https://tracker.lenition.de:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
+https://tracker.linvk.com:443/announce
 https://tracker.logirl.moe:443/announce
 https://tracker.loli.co.nz:443/announce
 https://tracker.loligirl.cn:443/announce
@@ -649,6 +650,7 @@ udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv6.govt.hu:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
@@ -781,6 +783,7 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.lelux.fi:6969/announce
+udp://tracker.linvk.com:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
@@ -857,7 +860,6 @@ udp://yuptracker-sa.gaijinent.com:27022/announce
 udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
