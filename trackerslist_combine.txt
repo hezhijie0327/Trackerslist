@@ -633,7 +633,6 @@ udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://edgev.duckdns.org:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -783,7 +782,6 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.lelux.fi:6969/announce
-udp://tracker.linvk.com:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
