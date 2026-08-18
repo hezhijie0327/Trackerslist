@@ -107,7 +107,6 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://li1406-230.members.linode.com:6969/announce
@@ -423,7 +422,6 @@ https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org:443/announce
 https://bt.endpot.com:443/announce
 https://bt.nfshost.com:443/announce
-https://bt2.080609.xyz:443/announce
 https://carapax.net:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 https://cernet-tracker.appspot.com:443/announce
