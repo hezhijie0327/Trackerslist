@@ -81,11 +81,12 @@ http://ipv6.rer.lol:6969/announce
 http://ipv6.tracker.harry.lu:80/announce
 http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
+http://lucke.fenesisu.moe:6969/announce
+http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com:80/announce
 http://mediaclub.tv:80/announce
 http://milanesitracker.tekcities.com:80/announce
@@ -125,6 +126,7 @@ http://proaudiotorrents.org:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.hotplug.ru:2710/announce
+http://retracker.joxnet.ru:80/announce
 http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -390,6 +392,7 @@ https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tp.m-team.cc:443/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.doogh.club:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
@@ -410,7 +413,9 @@ https://tracker.bangumi.zip:443/announce
 https://tracker.belmult.online:443/announce
 https://tracker.bigbewbs.online:443/announce
 https://tracker.bjut.jp:443/announce
+https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
@@ -442,6 +447,7 @@ https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.novy.vip:443/announce
 https://tracker.nyaa.tk:443/announce
+https://tracker.onetracker.net:443/announce
 https://tracker.opentracker.se:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org:443/announce
