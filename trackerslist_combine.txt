@@ -106,6 +106,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://li1406-230.members.linode.com:6969/announce
@@ -198,6 +199,7 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
@@ -407,8 +409,13 @@ https://00.xxtor.com:443/announce
 https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://0d.kebhana.mx:443/announce
+https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
+https://2.tracker.eu.org:443/announce
+https://3.tracker.eu.org:443/announce
 https://337hhh.xyz:443/announce
+https://4.tracker.eu.org:443/announce
+https://5.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io:443/announce
 https://alpha.torrenttracker.nl:443/announce
