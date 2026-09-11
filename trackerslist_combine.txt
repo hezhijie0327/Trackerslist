@@ -106,6 +106,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://li1406-230.members.linode.com:6969/announce
@@ -175,7 +176,6 @@ http://siwserver.duckdns.org:9900/announce
 http://smurfsoft.com:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sukebei.tracker.wf:8888/announce
-http://supertracker.cc.cd:80/announce
 http://t.acg.rip:6699/announce
 http://t.al.uy:80/announce
 http://t.jaekr.sh:6969/announce
@@ -410,11 +410,7 @@ https://021912.xyz:443/announce
 https://0d.kebhana.mx:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
-https://2.tracker.eu.org:443/announce
-https://3.tracker.eu.org:443/announce
 https://337hhh.xyz:443/announce
-https://4.tracker.eu.org:443/announce
-https://5.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io:443/announce
 https://alpha.torrenttracker.nl:443/announce
@@ -452,7 +448,6 @@ https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz:443/announce
 https://orgtgju.org:443/announce
-https://php-bobcat.wasmer.app:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -514,7 +509,6 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
@@ -619,7 +613,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://carr.codes:6969/announce
@@ -741,7 +734,6 @@ udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
-udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
@@ -808,7 +800,6 @@ udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://tracker.therarbg.to:1337/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.tnl.one:8000/announce
