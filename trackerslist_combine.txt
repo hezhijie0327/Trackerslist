@@ -1,3 +1,4 @@
+http://004430.xyz:80/announce
 http://0123456789nonexistent.com:80/announce
 http://10.rarbg.com:80/announce
 http://107.189.10.20.sslip.io:7777/announce
@@ -301,7 +302,6 @@ http://tracker.pimp4003.net:80/announce
 http://tracker.plx.im:6969/announce
 http://tracker.pomf.se:80/announce
 http://tracker.pow7.com:80/announce
-http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
@@ -324,6 +324,7 @@ http://tracker.tfile.me:80/announce
 http://tracker.therarbg.to:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentbytes.net:80/announce
+http://tracker.torrents.observer:80/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com:80/announce
