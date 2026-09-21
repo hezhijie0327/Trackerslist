@@ -108,7 +108,6 @@ http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
-http://kolanopentracker.airdns.org:3392/announce
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
