@@ -624,6 +624,7 @@ udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+udp://edgev.duckdns.org:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -690,7 +691,6 @@ udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce

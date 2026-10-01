@@ -122,7 +122,6 @@ http://proaudiotorrents.org:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.hotplug.ru:2710/announce
-http://retracker.joxnet.ru:80/announce
 http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -165,7 +164,6 @@ http://torrent.ubuntu.com:6969/announce
 http://torrents.hikarinokiseki.com:6969/announce
 http://torrents.linuxmint.com:80/announce
 http://torrentsmd.com:8080/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org:80/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf:80/announce
@@ -183,6 +181,7 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com:80/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
@@ -196,6 +195,10 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.digital-alpha-world.de:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+http://tracker.dmcomic.org:2710/announce
+http://tracker.dutchtracking.nl:80/announce
+http://tracker.edkj.club:6969/announce
+http://tracker.electro-torrent.pl:80/announce
 http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.enitin.xyz:80/announce
 http://tracker.etree.org:6969/announce
@@ -221,6 +224,7 @@ http://tracker.kali.org:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com:80/announce
 http://tracker.linkomanija.org:2710/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.m-team.cc:80/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
@@ -409,7 +413,6 @@ https://tracker.belmult.online:443/announce
 https://tracker.bigbewbs.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt4g.com:443/announce
-https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf:443/announce
@@ -419,7 +422,6 @@ https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.iochimari.moe:443/announce
-https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
 https://tracker.kuroy.me:443/announce
