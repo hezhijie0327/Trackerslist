@@ -66,7 +66,6 @@ http://opentracker.io:80/announce
 http://p2p.0g.cx:6969/announce
 http://peersteers.org:80/announce
 http://reisub.nsupdate.info:6969/announce
-http://retracker.joxnet.ru:80/announce
 http://retracker.ohys.net:80/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net:80/announce
@@ -93,7 +92,6 @@ http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
 http://torrent.nwps.ws:80/announce
 http://torrents.linuxmint.com:80/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.bangumi.moe:80/announce
 http://tr.kxmp.cf:80/announce
@@ -126,13 +124,13 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com:80/announce
 http://tracker.lyretain.site:2710/announce
+http://tracker.moxing.party:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.pimp4003.net:80/announce
-http://tracker.sakurato.art:23333/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.shittyurl.org:80/announce
@@ -163,7 +161,6 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker3.itzmx.com:8080/announce
 http://trackers.ibzu.me:80/announce
 http://trackme.theom.nz:80/announce
-http://trun.tom.ru:80/announce
 http://uatracker.net:80/announce
 http://vps-c1adea63.vps.ovh.net:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
@@ -308,7 +305,6 @@ udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://edgev.duckdns.org:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
