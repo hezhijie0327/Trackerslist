@@ -425,6 +425,7 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/annou
 https://docker-tracker-production.up.railway.app:443/announce
 https://edgev.duckdns.org:443/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
+https://gargoyleperch.de:443/announce
 https://gwp2-v19.rinet.ru:443/announce
 https://hcbt.pp.ua:443/announce
 https://ht.therarbg.to:443/announce
@@ -555,6 +556,7 @@ https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
+https://tracker.yume-hatsuyuki.moe:443/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn:443/announce
