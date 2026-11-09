@@ -483,6 +483,7 @@ https://tracker.aburaya.live:443/announce
 https://tracker.adgk.net:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.anibt.net:443/announce
+https://tracker.augrains.com:443/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.belmult.online:443/announce
