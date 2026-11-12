@@ -71,6 +71,7 @@ http://s1130639.ha009.t.mydomain.zone:80/announce
 http://s1130642.ha014.t.mydomain.zone:80/announce
 http://servandroidkino.ru:80/announce
 http://share.camoe.cn:8080/announce
+http://share.hkg-fansub.info:80/announce
 http://shogiroom.com:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 http://t.acg.rip:6699/announce
@@ -100,9 +101,9 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.bt-chat.com:80/announce
 http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
+http://tracker.bz:80/announce
 http://tracker.cbase.cc:6969/announce
 http://tracker.chaoz.li:2710/announce
-http://tracker.coppersurfer.site:2710/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dm258.cn:7070/announce
@@ -129,7 +130,6 @@ http://tracker.nyacat.pw:7000/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.pimp4003.net:80/announce
-http://tracker.sakurato.art:23333/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.shittyurl.org:80/announce
@@ -204,8 +204,10 @@ https://torrent-tracker.hama3.net:443/announce
 https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tp.m-team.cc:443/announce
+https://tr.abir.ga:443/announce
 https://tr.bangumi.moe:9696/announce
 https://tr.burnabyhighstar.com:443/announce
+https://tr.doogh.club:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:443/announce
 https://track3r.site:443/announce
@@ -250,7 +252,6 @@ https://tracker.onetracker.net:443/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.puvvadi.net:443/announce
 https://tracker.quix.cf:443/announce
-https://tracker.sakurato.art:23334/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.srv00.com:443/announce
@@ -280,6 +281,7 @@ udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://anna.bt.bontal.net:6969/announce
+udp://announce.augrains.com:6969/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://astrr.ru:6969/announce

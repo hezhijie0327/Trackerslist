@@ -134,8 +134,6 @@ http://rfc5746.mywaifu.best:6969/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org:80/announce
 http://servandroidkino.ru:80/announce
-http://share.hkg-fansub.info:80/announce
-http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com:80/announce
 http://siambit.org:80/announce
@@ -182,10 +180,9 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
-http://tracker.bz:80/announce
-http://tracker.cbase.cc:6969/announce
 http://tracker.ccc.de:80/announce
 http://tracker.computel.fr:80/announce
+http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.digital-alpha-world.de:6969/announce
@@ -244,6 +241,7 @@ http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.sakurato.art:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
 http://tracker.sheesh.rip:6969/announce
@@ -374,8 +372,6 @@ https://torrents.linuxmint.com:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tp.m-team.cc:443/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
-https://tr.doogh.club:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.ready4.icu:443/announce
@@ -436,6 +432,7 @@ https://tracker.puvvadi.net:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.renfei.net:443/announce
+https://tracker.sakurato.art:23334/announce
 https://tracker.samcze.pl:443/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce

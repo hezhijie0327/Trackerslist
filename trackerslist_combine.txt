@@ -591,6 +591,7 @@ udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://anna.bt.bontal.net:6969/announce
+udp://announce.augrains.com:6969/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://astrr.ru:6969/announce
