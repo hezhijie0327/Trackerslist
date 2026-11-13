@@ -546,6 +546,7 @@ https://tracker.puvvadi.net:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.quix.cf:443/announce
 https://tracker.renfei.net:443/announce
+https://tracker.run.place:443/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.samcze.pl:443/announce
 https://tracker.shittyurl.org:443/announce
