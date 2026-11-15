@@ -1,5 +1,7 @@
 # Trackerslist
 
+[![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
+
 一个全面且持续更新的 BitTorrent 跟踪器列表项目，聚合多个来源的跟踪器并提供验证。开发规范见 [AGENTS.md](AGENTS.md)。
 
 ## 项目介绍
