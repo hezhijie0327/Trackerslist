@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Trackerslist maintains and aggregates BitTorrent tracker lists from various sources, using bash scripts and automated GitHub Actions to update the lists daily. See [README.md](README.md) for output file descriptions.
+Trackerslist aggregates BitTorrent tracker lists from multiple sources and verifies them with concurrent DNS/TCP/UDP checks. See [README.md](README.md) for output file descriptions.
 
 ## HANDOVER.md
 
@@ -94,18 +94,6 @@ Valid examples (choose EXACTLY ONE):
 Co-authored-by: ZCode <noreply@z.ai>
 ```
 
-### Commit Messages
-
-- Use conventional commits format: `type(scope): description`
-- Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
-- Example: `feat(script): add IPv6 support to tracker validation`
-
-### Branching
-
-- Main branch: `main`
-- Feature branches: `feature/description`
-- Fix branches: `fix/description`
-
 ## Documentation format
 
 Family-wide Markdown rules, shared verbatim across all ZJ projects:
@@ -119,109 +107,50 @@ Family-wide Markdown rules, shared verbatim across all ZJ projects:
 
 ## Project
 
-This repository maintains and aggregates BitTorrent tracker lists from various sources. It contains scripts to fetch, validate, and combine tracker lists into standardized formats. The project uses bash scripting and automated GitHub Actions to update the tracker lists daily.
+Trackerslist fetches tracker lists from public sources, normalizes and deduplicates them, verifies reachability concurrently, and publishes verified/excluded/combined lists plus aria2 (comma-separated) variants. Updated daily via GitHub Actions.
 
 ## Commands
 
-### Main Build Process
-- `bash release.sh` - The main build command that fetches, processes, and outputs all tracker lists
-- The script creates combined, verified, and excluded tracker lists in multiple formats
+```bash
+# Full build: fetch, analyse, verify, write all six output files
+python3 build.py
+```
 
-### GitHub Actions
-- Automated builds run daily via GitHub Actions at midnight UTC
-- Manual builds can be triggered via "workflow_dispatch" in GitHub Actions UI
-- Build process installs dependencies and executes the release.sh script
+Importable stages for testing:
+```bash
+python3 -c "import build; print(len(build.analyse_data(build.get_data())))"
+```
+
+## Architecture
+
+1. `get_data()` downloads five URL groups in parallel and concatenates them.
+2. `analyse_data()` sanitizes lines (`tr -cd "[:alnum:]-./:_\n"`, lowercase, strip `.php`), keeps URLs matching the tracker regex, and assigns default ports to portless URLs.
+3. `verify()` runs per tracker in a 64-worker thread pool: DNS A/AAAA resolution, TCP connect to the tracker port, UDP probe via `nmap -sU` for udp trackers and port 6969.
+4. `output_data()` writes sorted unique `trackerslist_{tracker,exclude,combine}.txt` and `*_aria2.txt`.
 
 ## Conventions
 
-### Bash Scripting
+### Python (build.py)
+1. snake_case functions/variables, UPPER_SNAKE_CASE constants
+2. 4-space indentation, stdlib only except `nmap` for UDP probes
+3. Downloads go through `download()` so tests can inject fixtures
 
-#### Formatting
-- Use 4-space indentation (not tabs)
-- Maximum line length: 120 characters
-- Include function headers with brief descriptions
-- Use uppercase for global constants and arrays
-
-#### Naming Conventions
-- Functions: `PascalCase` with descriptive names (e.g., `GetData`, `AnalyseData`)
-- Variables: `snake_case` for local variables (e.g., `tracker_list`)
-- Arrays: `snake_case` with plural names (e.g., `tracker_list_http`)
-- Constants: `UPPER_SNAKE_CASE`
-
-#### Error Handling
-- Check command exit codes after critical operations
-- Use `set -e` to exit on errors in critical sections
-- Validate inputs before processing
+### Gotchas
+- A portless `udp://host/announce` feeds **both** the udp (:6969) and nossl (:80) normalization pipelines, like the original parallel greps — do not collapse them into elif.
+- The `/announce` → `:port/announce` substitution is anchored to end-of-line: `http://announce.example/announce` contains `/announce` twice, an unanchored replace corrupts it.
+- TCP verification is a real connect to the tracker port (the original only checked nmap host discovery, i.e. ping). Trackers on hosts that are up but with a closed port are now excluded — this is intentional.
+- UDP verification still uses `nmap -sU` and greps "Host is up", matching the original semantics.
+- Protocol normalization by port (80/8080 → http/ws, 443/8443 → https/wss, 6969 → http/ws) happens before verification.
 
 ### Data Files
-
-#### Format Standards
-- Tracker URLs must follow pattern: `protocol://domain:port/announce`
-- Accepted protocols: `http`, `https`, `udp`, `ws`, `wss`
-- Domain must resolve to a valid IP address
-- Port must be within valid range (1-65535)
-
-#### File Organization
-- `data/` directory contains protocol-specific seed data
-- Root directory contains output files:
-  - `trackerslist_tracker.txt` - Verified trackers
-  - `trackerslist_exclude.txt` - Invalid trackers
-  - `trackerslist_combine.txt` - All trackers
-  - `*_aria2.txt` - Comma-separated versions for aria2
-
-## Testing
-
-### Testing Individual Components
-Since this project primarily uses bash scripts without a formal test suite, testing is done by:
-
-1. **Running the release script manually:**
-   ```bash
-   bash release.sh
-   ```
-
-2. **Validating output files:**
-   - Check `trackerslist_tracker.txt` contains valid tracker URLs
-   - Verify `trackerslist_exclude.txt` contains invalid/unreachable trackers
-   - Ensure `trackerslist_combine.txt` contains all trackers
-   - Validate aria2 format files have proper comma separation
-
-3. **Manual URL validation:**
-   ```bash
-   # Check if trackers follow the expected format
-   grep -E '^(http|https|udp|ws|wss):[\/]{2}.*:[0-9]{1,5}/announce$' trackerslist_tracker.txt
-   ```
+- `data/data_{http,udp,ws}.txt` — custom seed lists (fetched from main via URL)
+- Outputs: `trackerslist_tracker.txt`, `trackerslist_exclude.txt`, `trackerslist_combine.txt` and `*_aria2.txt` (comma-separated, trailing newline)
 
 ## Dependencies
 
-### System Requirements
-- Bash shell
-- `curl` for fetching remote data
-- `nmap` for network validation
-- `dig` for DNS resolution
+- Python 3.9+ (stdlib only)
+- `nmap` for UDP probes (`sudo apt install nmap` in CI)
 
-### GitHub Actions
-- Runs on `ubuntu-latest` 
-- Installs `nmap` via apt before running the build
+## Key Docs
 
-## Workflow for Making Changes
-
-1. Modify the `release.sh` script or data files as needed
-2. Test locally with `bash release.sh`
-3. Verify output files are correctly formatted
-4. Commit changes with conventional commit message
-5. Push to trigger GitHub Actions for full validation
-6. Review Actions output to ensure build succeeds
-
-## Common Issues
-
-- Network timeouts when fetching remote tracker lists
-- Invalid tracker URLs in source data
-- DNS resolution failures for tracker domains
-- Port accessibility issues during validation
-
-## Security Considerations
-
-- Only fetch tracker URLs from trusted sources
-- Validate all input data before processing
-- Avoid executing any code from fetched tracker lists
-- Sanitize URLs before DNS/network operations
+- [README.md](README.md) — output file descriptions (Chinese)

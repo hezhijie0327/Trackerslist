@@ -16,7 +16,7 @@ jobs:
                   sudo apt install nmap -y
             - name: Step 3 - Build Trackerslist
               run: |
-                  bash release.sh
+                  python3 build.py
             - name: Step 4 - Release Trackerslist
               run: |
                   curl -s "https://raw.githubusercontent.com/hezhijie0327/Toolkit/main/Git.sh" > "/tmp/Git.sh"
