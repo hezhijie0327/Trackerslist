@@ -3,7 +3,6 @@ http://0123456789nonexistent.com:80/announce
 http://1337.abcvg.info:80/announce
 http://big-boss-tracker.net:80/announce
 http://bithq.org:80/announce
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bluebird-hd.org:80/announce
 http://bt.3kb.xyz:80/announce
 http://bt.beatrice-raws.org:80/announce
@@ -15,7 +14,6 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.poletracker.org:2710/announce
 http://bt.rghost.net:80/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -27,7 +25,6 @@ http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://btracker.top:11451/announce
-http://bttracker.debian.org:6969/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://bz.tracker.bz:80/announce
@@ -56,7 +53,6 @@ http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://proaudiotorrents.org:80/announce
 http://retracker.joxnet.ru:80/announce
-http://retracker.spark-rostov.ru:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://share.hkg-fansub.info:80/announce
 http://shubt.net:2710/announce
@@ -78,7 +74,6 @@ http://tracker.23794.top:6969/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
@@ -87,7 +82,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dmcomic.org:2710/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id:80/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -95,9 +89,9 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn:80/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
+http://tracker.iro.moe:80/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
-http://tracker.lintk.me:2710/announce
 http://tracker.m-team.cc:80/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
@@ -110,6 +104,8 @@ http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.sbsub.com:2710/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.torrentbytes.net:80/announce
 http://tracker.torrents.observer:80/announce
 http://tracker.trancetraffic.com:80/announce
@@ -165,7 +161,6 @@ https://open.kickasstracker.com:443/announce
 https://opentracker.cc:443/announce
 https://opentracker.xyz:443/announce
 https://orgtgju.org:443/announce
-https://seeders-paradise.org:443/announce
 https://staticfile-bobcat.wasmer.app:443/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz:443/announce
@@ -174,7 +169,6 @@ https://t1.tokhmi.xyz:443/announce
 https://tk.mabo.ltd:443/announce
 https://torrent.ubuntu.com:443/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.doogh.club:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
@@ -211,7 +205,6 @@ https://tracker.renfei.net:443/announce
 https://tracker.run.place:443/announce
 https://tracker.samcze.pl:443/announce
 https://tracker.tvgc.win:443/announce
-https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.yume-hatsuyuki.moe:443/announce
