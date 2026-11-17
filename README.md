@@ -31,18 +31,19 @@ python3 build.py
 
 ### 输出文件（`dist/`）
 
-- `dist/tracker.txt` - 已验证的有效跟踪器列表
-- `dist/exclude.txt` - 不可用/无法访问的跟踪器列表
-- `dist/combine.txt` - 所有跟踪器（有效+无效）的合并列表
-- `dist/tracker_aria2.txt` - aria2 格式的有效跟踪器（逗号分隔）
-- `dist/exclude_aria2.txt` - aria2 格式的排除跟踪器（逗号分隔）
-- `dist/combine_aria2.txt` - aria2 格式的合并跟踪器（逗号分隔）
+| 列表 | 纯文本 | aria2（逗号分隔） |
+| ---- | ------ | ----------------- |
+| 已验证 tracker | [tracker.txt](dist/tracker.txt) | [tracker_aria2.txt](dist/tracker_aria2.txt) |
+| 排除 | [exclude.txt](dist/exclude.txt) | [exclude_aria2.txt](dist/exclude_aria2.txt) |
+| 合并 | [combine.txt](dist/combine.txt) | [combine_aria2.txt](dist/combine_aria2.txt) |
 
 ### 自定义种子目录
 
-- `custom/http.txt` - HTTP/HTTPS 跟踪器种子数据
-- `custom/udp.txt` - UDP 跟踪器种子数据
-- `custom/ws.txt` - WebSocket 跟踪器种子数据
+| 协议 | 种子文件 |
+| ---- | -------- |
+| HTTP/HTTPS | [http.txt](custom/http.txt) |
+| UDP | [udp.txt](custom/udp.txt) |
+| WebSocket | [ws.txt](custom/ws.txt) |
 
 ## License
 
