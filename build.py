@@ -30,9 +30,9 @@ TRACKERLIST_COMBINE = (
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt",
 )
 TRACKERLIST_CUSTOM = (
-    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/data/data_http.txt",
-    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/data/data_udp.txt",
-    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/data/data_ws.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/custom/http.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/custom/udp.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/custom/ws.txt",
 )
 TRACKERLIST_HTTP = (
     "https://newtrackon.com/api/http",

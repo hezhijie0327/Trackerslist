@@ -38,11 +38,11 @@ python3 build.py
 - `dist/exclude_aria2.txt` - aria2 格式的排除跟踪器（逗号分隔）
 - `dist/combine_aria2.txt` - aria2 格式的合并跟踪器（逗号分隔）
 
-### 数据目录
+### 自定义种子目录
 
-- `data/data_http.txt` - HTTP/HTTPS 跟踪器种子数据
-- `data/data_udp.txt` - UDP 跟踪器种子数据
-- `data/data_ws.txt` - WebSocket 跟踪器种子数据
+- `custom/http.txt` - HTTP/HTTPS 跟踪器种子数据
+- `custom/udp.txt` - UDP 跟踪器种子数据
+- `custom/ws.txt` - WebSocket 跟踪器种子数据
 
 ## License
 

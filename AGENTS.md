@@ -143,7 +143,7 @@ python3 -c "import build; print(len(build.analyse_data(build.get_data())))"
 - Protocol normalization by port (80/8080 → http/ws, 443/8443 → https/wss, 6969 → http/ws) happens before verification.
 
 ### Data Files
-- `data/data_{http,udp,ws}.txt` — custom seed lists (fetched from main via URL)
+- `custom/{http,udp,ws}.txt` — custom seed lists (fetched from main via URL)
 - Outputs: `dist/tracker.txt`, `dist/exclude.txt`, `dist/combine.txt` and `dist/*_aria2.txt` (comma-separated, trailing newline)
 
 ## Dependencies
