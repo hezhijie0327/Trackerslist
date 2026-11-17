@@ -200,9 +200,11 @@ def output_data(trackers):
     tracker_set = sorted(set(tracker_list))
     exclude_set = sorted(set(exclude_list))
     combine_set = sorted(set(tracker_list) | set(exclude_list))
+    out_dir = ROOT / "dist"
+    out_dir.mkdir(parents=True, exist_ok=True)
     for name, lines in (("tracker", tracker_set), ("exclude", exclude_set), ("combine", combine_set)):
-        (ROOT / f"trackerslist_{name}.txt").write_text("\n".join(lines) + "\n" if lines else "")
-        (ROOT / f"trackerslist_{name}_aria2.txt").write_text(",".join(lines) + "\n" if lines else "")
+        (out_dir / f"{name}.txt").write_text("\n".join(lines) + "\n" if lines else "")
+        (out_dir / f"{name}_aria2.txt").write_text(",".join(lines) + "\n" if lines else "")
 
 
 ## Process

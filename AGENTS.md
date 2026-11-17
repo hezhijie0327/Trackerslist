@@ -126,7 +126,7 @@ python3 -c "import build; print(len(build.analyse_data(build.get_data())))"
 1. `get_data()` downloads five URL groups in parallel and concatenates them.
 2. `analyse_data()` sanitizes lines (`tr -cd "[:alnum:]-./:_\n"`, lowercase, strip `.php`), keeps URLs matching the tracker regex, and assigns default ports to portless URLs.
 3. `verify()` runs per tracker in a 64-worker thread pool: DNS A/AAAA resolution, TCP connect to the tracker port, UDP probe via `nmap -sU` for udp trackers and port 6969.
-4. `output_data()` writes sorted unique `trackerslist_{tracker,exclude,combine}.txt` and `*_aria2.txt`.
+4. `output_data()` writes sorted unique `dist/{tracker,exclude,combine}.txt` and `*_aria2.txt`.
 
 ## Conventions
 
@@ -144,7 +144,7 @@ python3 -c "import build; print(len(build.analyse_data(build.get_data())))"
 
 ### Data Files
 - `data/data_{http,udp,ws}.txt` — custom seed lists (fetched from main via URL)
-- Outputs: `trackerslist_tracker.txt`, `trackerslist_exclude.txt`, `trackerslist_combine.txt` and `*_aria2.txt` (comma-separated, trailing newline)
+- Outputs: `dist/tracker.txt`, `dist/exclude.txt`, `dist/combine.txt` and `dist/*_aria2.txt` (comma-separated, trailing newline)
 
 ## Dependencies
 

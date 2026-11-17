@@ -29,14 +29,14 @@ python3 build.py
 
 ## 文件说明
 
-### 输出文件
+### 输出文件（`dist/`）
 
-- `trackerslist_tracker.txt` - 已验证的有效跟踪器列表
-- `trackerslist_exclude.txt` - 不可用/无法访问的跟踪器列表
-- `trackerslist_combine.txt` - 所有跟踪器（有效+无效）的合并列表
-- `trackerslist_tracker_aria2.txt` - aria2 格式的有效跟踪器（逗号分隔）
-- `trackerslist_exclude_aria2.txt` - aria2 格式的排除跟踪器（逗号分隔）
-- `trackerslist_combine_aria2.txt` - aria2 格式的合并跟踪器（逗号分隔）
+- `dist/tracker.txt` - 已验证的有效跟踪器列表
+- `dist/exclude.txt` - 不可用/无法访问的跟踪器列表
+- `dist/combine.txt` - 所有跟踪器（有效+无效）的合并列表
+- `dist/tracker_aria2.txt` - aria2 格式的有效跟踪器（逗号分隔）
+- `dist/exclude_aria2.txt` - aria2 格式的排除跟踪器（逗号分隔）
+- `dist/combine_aria2.txt` - aria2 格式的合并跟踪器（逗号分隔）
 
 ### 数据目录
 
