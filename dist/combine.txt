@@ -740,6 +740,7 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
+udp://tracker.23794.top:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.alt.cx:6969/announce
@@ -753,6 +754,7 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.bunk.im:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
