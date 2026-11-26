@@ -434,6 +434,7 @@ https://http1.torrust-tracker-demo.com:443/announce
 https://inferno.demonoid.is:443/announce
 https://ipv6.tracker.m-team.cc:443/announce
 https://k.avc.cx:443/announce
+https://lattice.peerrelay.workers.dev:443/announce
 https://lima-peru.subventas.com:443/announce
 https://nyaa.tracker.wf:7777/announce
 https://o-unkusrx.cloud.okteto.net:443/announce
@@ -637,6 +638,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://hidden.torrentonline.cc:42069/announce
 udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -740,7 +742,6 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.23794.top:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.alt.cx:6969/announce
